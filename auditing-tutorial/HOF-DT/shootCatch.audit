@@ -1,0 +1,12 @@
+GFA Audit for:shootCatch
+HOF-DT/shootCatch.audit.test.repaired_0.0.data:[0.0, {"No": {"No": 2003, "Yes": 43}, "Yes": {"Yes": 36, "No": 24}}]
+HOF-DT/shootCatch.audit.test.repaired_0.1.data:[0.1, {"No": {"No": 2003, "Yes": 43}, "Yes": {"Yes": 37, "No": 23}}]
+HOF-DT/shootCatch.audit.test.repaired_0.2.data:[0.2, {"No": {"No": 2001, "Yes": 45}, "Yes": {"Yes": 38, "No": 22}}]
+HOF-DT/shootCatch.audit.test.repaired_0.3.data:[0.30000000000000004, {"No": {"No": 1998, "Yes": 48}, "Yes": {"Yes": 37, "No": 23}}]
+HOF-DT/shootCatch.audit.test.repaired_0.4.data:[0.4, {"No": {"No": 2001, "Yes": 45}, "Yes": {"Yes": 37, "No": 23}}]
+HOF-DT/shootCatch.audit.test.repaired_0.5.data:[0.5, {"No": {"No": 1999, "Yes": 47}, "Yes": {"Yes": 37, "No": 23}}]
+HOF-DT/shootCatch.audit.test.repaired_0.6.data:[0.6, {"No": {"No": 2003, "Yes": 43}, "Yes": {"Yes": 35, "No": 25}}]
+HOF-DT/shootCatch.audit.test.repaired_0.7.data:[0.7, {"No": {"No": 2011, "Yes": 35}, "Yes": {"Yes": 34, "No": 26}}]
+HOF-DT/shootCatch.audit.test.repaired_0.8.data:[0.7999999999999999, {"No": {"No": 2010, "Yes": 36}, "Yes": {"Yes": 34, "No": 26}}]
+HOF-DT/shootCatch.audit.test.repaired_0.9.data:[0.8999999999999999, {"No": {"No": 2005, "Yes": 41}, "Yes": {"Yes": 31, "No": 29}}]
+HOF-DT/shootCatch.audit.test.repaired_1.0.data:[0.9999999999999999, {"No": {"No": 2012, "Yes": 34}, "Yes": {"Yes": 31, "No": 29}}]

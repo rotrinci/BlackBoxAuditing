@@ -1,0 +1,12 @@
+GFA Audit for:orgrefractivityArithAvg
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 772, "0.0": 137}, "0.0": {"1.0": 220, "0.0": 190}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 753, "0.0": 156}, "0.0": {"1.0": 209, "0.0": 201}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 745, "0.0": 164}, "0.0": {"1.0": 233, "0.0": 177}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 808, "0.0": 101}, "0.0": {"1.0": 241, "0.0": 169}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 803, "0.0": 106}, "0.0": {"1.0": 272, "0.0": 138}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"0.0": 595, "1.0": 314}, "0.0": {"1.0": 156, "0.0": 254}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 665, "1.0": 244}, "0.0": {"1.0": 127, "0.0": 283}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 784, "1.0": 125}, "0.0": {"0.0": 334, "1.0": 76}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 909}, "0.0": {"0.0": 410}}]
+Dark-Reaction-DT/orgrefractivityArithAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 909}, "0.0": {"0.0": 410}}]

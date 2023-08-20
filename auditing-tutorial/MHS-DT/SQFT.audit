@@ -1,0 +1,12 @@
+GFA Audit for:SQFT
+MHS-DT/SQFT.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 433, "0": 77}, "0": {"1": 87, "0": 323}}]
+MHS-DT/SQFT.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 422, "0": 88}, "0": {"1": 108, "0": 302}}]
+MHS-DT/SQFT.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 431, "0": 79}, "0": {"1": 136, "0": 274}}]
+MHS-DT/SQFT.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 442, "0": 68}, "0": {"1": 128, "0": 282}}]
+MHS-DT/SQFT.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 455, "0": 55}, "0": {"1": 179, "0": 231}}]
+MHS-DT/SQFT.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 457, "0": 53}, "0": {"1": 207, "0": 203}}]
+MHS-DT/SQFT.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 334, "0": 176}, "0": {"1": 187, "0": 223}}]
+MHS-DT/SQFT.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 332, "0": 178}, "0": {"1": 208, "0": 202}}]
+MHS-DT/SQFT.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 338, "0": 172}, "0": {"1": 236, "0": 174}}]
+MHS-DT/SQFT.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 421, "0": 89}, "0": {"1": 334, "0": 76}}]
+MHS-DT/SQFT.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 510}, "0": {"1": 410}}]

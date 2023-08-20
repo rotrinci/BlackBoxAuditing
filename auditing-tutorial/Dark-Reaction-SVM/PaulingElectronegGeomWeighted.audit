@@ -1,0 +1,12 @@
+GFA Audit for:PaulingElectronegGeomWeighted
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 845, "0.0": 64}, "0.0": {"1.0": 250, "0.0": 160}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 848, "0.0": 61}, "0.0": {"1.0": 255, "0.0": 155}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 847, "0.0": 62}, "0.0": {"1.0": 263, "0.0": 147}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 855, "0.0": 54}, "0.0": {"1.0": 279, "0.0": 131}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 865, "0.0": 44}, "0.0": {"1.0": 304, "0.0": 106}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 866, "0.0": 43}, "0.0": {"1.0": 326, "0.0": 84}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 867, "0.0": 42}, "0.0": {"0.0": 56, "1.0": 354}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 870, "0.0": 39}, "0.0": {"1.0": 364, "0.0": 46}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 874, "0.0": 35}, "0.0": {"1.0": 380, "0.0": 30}}]
+Dark-Reaction-SVM/PaulingElectronegGeomWeighted.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 887, "0.0": 22}, "0.0": {"1.0": 392, "0.0": 18}}]

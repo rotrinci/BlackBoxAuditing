@@ -1,0 +1,12 @@
+GFA Audit for:C
+synthetic-audit-output/C.audit.test.repaired_0.0.data:[0.0, {"True": {"True": 1036, "False": 1}, "False": {"False": 963}}]
+synthetic-audit-output/C.audit.test.repaired_0.1.data:[0.1, {"True": {"True": 1036, "False": 1}, "False": {"False": 963}}]
+synthetic-audit-output/C.audit.test.repaired_0.2.data:[0.2, {"True": {"True": 1036, "False": 1}, "False": {"False": 963}}]
+synthetic-audit-output/C.audit.test.repaired_0.3.data:[0.30000000000000004, {"True": {"True": 1036, "False": 1}, "False": {"False": 962, "True": 1}}]
+synthetic-audit-output/C.audit.test.repaired_0.4.data:[0.4, {"True": {"True": 1036, "False": 1}, "False": {"False": 947, "True": 16}}]
+synthetic-audit-output/C.audit.test.repaired_0.5.data:[0.5, {"True": {"True": 1036, "False": 1}, "False": {"False": 931, "True": 32}}]
+synthetic-audit-output/C.audit.test.repaired_0.6.data:[0.6, {"True": {"True": 1036, "False": 1}, "False": {"False": 915, "True": 48}}]
+synthetic-audit-output/C.audit.test.repaired_0.7.data:[0.7, {"True": {"True": 1036, "False": 1}, "False": {"False": 886, "True": 77}}]
+synthetic-audit-output/C.audit.test.repaired_0.8.data:[0.7999999999999999, {"True": {"True": 1021, "False": 16}, "False": {"False": 824, "True": 139}}]
+synthetic-audit-output/C.audit.test.repaired_0.9.data:[0.8999999999999999, {"True": {"True": 990, "False": 47}, "False": {"False": 637, "True": 326}}]
+synthetic-audit-output/C.audit.test.repaired_1.0.data:[0.9999999999999999, {"True": {"True": 760, "False": 277}, "False": {"False": 317, "True": 646}}]

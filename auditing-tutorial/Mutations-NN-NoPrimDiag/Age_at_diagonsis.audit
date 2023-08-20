@@ -1,0 +1,12 @@
+GFA Audit for:Age_at_diagonsis
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 134, "GBM": 21}, "GBM": {"GBM": 106, "LGG": 25}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 129, "GBM": 26}, "GBM": {"GBM": 104, "LGG": 27}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 125, "GBM": 30}, "GBM": {"GBM": 103, "LGG": 28}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 121, "GBM": 34}, "GBM": {"GBM": 101, "LGG": 30}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 115, "GBM": 40}, "GBM": {"GBM": 102, "LGG": 29}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.5.data:[0.5, {"LGG": {"GBM": 42, "LGG": 113}, "GBM": {"GBM": 99, "LGG": 32}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.6.data:[0.6, {"LGG": {"GBM": 47, "LGG": 108}, "GBM": {"GBM": 100, "LGG": 31}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 97, "GBM": 58}, "GBM": {"GBM": 96, "LGG": 35}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 95, "GBM": 60}, "GBM": {"GBM": 100, "LGG": 31}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 88, "GBM": 67}, "GBM": {"GBM": 100, "LGG": 31}}]
+Mutations-NN-NoPrimDiag/Age_at_diagonsis.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 91, "GBM": 64}, "GBM": {"GBM": 104, "LGG": 27}}]

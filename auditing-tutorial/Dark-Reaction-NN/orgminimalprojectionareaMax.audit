@@ -1,0 +1,12 @@
+GFA Audit for:orgminimalprojectionareaMax
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 835, "0.0": 74}, "0.0": {"1.0": 209, "0.0": 201}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 808, "0.0": 101}, "0.0": {"0.0": 194, "1.0": 216}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"0.0": 95, "1.0": 814}, "0.0": {"1.0": 250, "0.0": 160}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 814, "0.0": 95}, "0.0": {"1.0": 254, "0.0": 156}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 792, "0.0": 117}, "0.0": {"1.0": 266, "0.0": 144}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 864, "0.0": 45}, "0.0": {"1.0": 341, "0.0": 69}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 47, "1.0": 862}, "0.0": {"1.0": 348, "0.0": 62}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 11, "1.0": 898}, "0.0": {"1.0": 387, "0.0": 23}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 903, "0.0": 6}, "0.0": {"1.0": 398, "0.0": 12}}]
+Dark-Reaction-NN/orgminimalprojectionareaMax.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 907, "0.0": 2}, "0.0": {"1.0": 409, "0.0": 1}}]

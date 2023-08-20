@@ -1,0 +1,1719 @@
+Pre-Repaired Feature,Response,Prediction
+Camillo,0,1
+Bellevue,0,1
+Lockridge,0,1
+Butler,0,1
+Balga,0,1
+Mount Nasura,0,1
+Atwell,1,1
+Singleton,1,1
+Armadale,0,1
+Kenwick,0,1
+Hamilton Hill,1,2
+Secret Harbour,0,1
+Gwelup,3,1
+Harrisdale,1,1
+Quinns Rocks,0,1
+Spearwood,2,1
+Butler,0,1
+Baldivis,0,1
+Bibra Lake,1,2
+Swanbourne,3,1
+The Vines,2,1
+Queens Park,0,1
+Karrinyup,3,2
+Darch,1,2
+Hillarys,3,2
+Alexander Heights,1,1
+Bassendean,3,1
+Ardross,3,2
+Success,1,1
+Eglinton,1,1
+Beckenham,0,1
+East Cannington,0,1
+Marmion,3,1
+Greenwood,0,2
+Edgewater,1,1
+Harrisdale,2,1
+Madeley,1,1
+Waikiki,1,1
+Kiara,1,1
+Mount Pleasant,3,2
+Warnbro,0,1
+Darch,1,2
+Willagee,1,2
+Bertram,0,1
+Carine,3,1
+Beldon,0,1
+Bennett Springs,0,1
+Darch,1,2
+Warnbro,0,1
+High Wycombe,1,1
+Ferndale,1,1
+Rossmoyne,3,2
+Gnangara,0,1
+Ascot,2,1
+Hillarys,3,2
+Spearwood,1,1
+Bibra Lake,2,1
+Warnbro,0,1
+Karragullen,0,1
+Woodbridge,1,1
+Darlington,3,1
+Bedfordale,3,2
+Iluka,3,2
+Balcatta,1,1
+Koongamia,0,1
+Menora,3,1
+Kwinana Town Centre,0,1
+Two Rocks,0,1
+Kallaroo,3,1
+Banksia Grove,0,1
+Yangebup,3,1
+Iluka,3,2
+Huntingdale,1,1
+Calista,1,1
+Mount Helena,0,1
+Haynes,2,1
+Kardinya,2,2
+Landsdale,1,2
+Brookdale,0,1
+Lesmurdie,2,1
+Jane Brook,1,1
+Mahogany Creek,0,2
+Merriwa,0,1
+Roleystone,2,1
+Baldivis,2,1
+Wandi,0,1
+Kiara,0,1
+Darch,1,2
+Mount Claremont,3,1
+Brookdale,0,1
+Koongamia,0,1
+Stratton,0,1
+Tapping,1,1
+Stoneville,1,1
+City Beach,3,1
+Joondalup,1,1
+Swan View,2,1
+Nedlands,3,1
+Ballajura,2,1
+Duncraig,2,2
+Salter Point,3,2
+Darch,2,2
+Warnbro,3,1
+Mundaring,2,2
+Kiara,0,1
+Eglinton,0,1
+Clarkson,0,1
+Ocean Reef,3,1
+Bentley,0,1
+Langford,1,1
+Kwinana Town Centre,0,1
+Hocking,0,1
+Hilbert,0,1
+Menora,3,1
+Thornlie,0,1
+Hillman,0,1
+Stratton,0,1
+Wattle Grove,1,1
+Dayton,1,1
+Nollamara,0,1
+Bateman,3,2
+Hammond Park,2,1
+Hillman,0,1
+Koongamia,0,1
+Bentley,1,1
+Kenwick,0,1
+Carine,3,1
+Secret Harbour,0,1
+Kalamunda,2,1
+Sorrento,2,2
+Woodvale,2,1
+Middle Swan,1,1
+Beldon,1,1
+South Lake,1,1
+Ridgewood,1,1
+Bickley,3,1
+Middle Swan,0,1
+Hamilton Hill,1,2
+Beeliar,1,1
+Ascot,1,1
+Heathridge,1,1
+Ashby,2,1
+Banksia Grove,0,1
+Queens Park,2,1
+Craigie,1,1
+Mundijong,0,2
+Willetton,2,1
+Helena Valley,1,1
+Rossmoyne,3,2
+Kallaroo,3,1
+Noranda,2,1
+Connolly,2,1
+Booragoon,3,2
+Lockridge,0,1
+Beechboro,0,1
+Bull Creek,3,2
+Gwelup,3,1
+Beldon,1,1
+Samson,1,2
+Carramar,2,1
+City Beach,3,1
+Tapping,2,1
+Thornlie,1,1
+Salter Point,3,2
+Orelia,1,1
+Carramar,1,1
+Waikiki,0,1
+Padbury,2,1
+Camillo,0,1
+White Gum Valley,3,2
+Beechboro,1,1
+Mirrabooka,1,1
+Yokine,1,1
+Willetton,2,2
+Iluka,3,2
+Kiara,1,1
+Bibra Lake,2,2
+The Vines,3,1
+Safety Bay,2,1
+Swan View,2,1
+Carmel,2,1
+Currambine,2,1
+Middle Swan,1,1
+Mundijong,2,2
+High Wycombe,0,1
+Ascot,3,1
+Rossmoyne,2,2
+Hillman,0,1
+Stratton,0,1
+Carramar,2,1
+Melville,3,2
+Parkerville,2,1
+Bennett Springs,1,1
+Mount Helena,1,1
+Jandakot,2,2
+Attadale,1,1
+Crawley,3,1
+Bassendean,0,1
+Ascot,1,1
+East Victoria Park,1,1
+Stirling,2,1
+Mount Pleasant,3,2
+South Lake,0,2
+North Beach,3,1
+Queens Park,0,1
+St James,1,1
+Marangaroo,0,1
+South Perth,2,1
+East Cannington,0,1
+Greenmount,1,1
+Lynwood,0,1
+Scarborough,2,2
+Watermans Bay,1,1
+Cannington,0,1
+Tuart Hill,1,1
+Applecross,2,2
+Watermans Bay,3,1
+Balcatta,0,1
+Kiara,1,1
+Parkwood,0,1
+Shoalwater,0,1
+Booragoon,1,2
+Cottesloe,3,1
+Cannington,1,1
+Leederville,0,1
+Kensington,3,1
+Daglish,3,1
+Yokine,0,1
+East Fremantle,1,1
+Attadale,2,1
+Woodbridge,0,1
+Queens Park,0,1
+Inglewood,2,1
+Kensington,2,1
+Pearsall,1,1
+Cannington,0,1
+Inglewood,2,2
+Mount Lawley,2,1
+Rossmoyne,3,2
+Scarborough,2,2
+West Perth,3,1
+North Fremantle,2,1
+Midland,0,1
+St James,0,1
+Mundaring,0,2
+Ashfield,0,1
+Riverton,2,1
+North Beach,3,1
+Subiaco,1,1
+Kelmscott,0,1
+Watermans Bay,3,1
+Bertram,1,1
+Noranda,2,1
+Alkimos,0,1
+Hocking,1,1
+Koongamia,0,1
+Tapping,2,1
+Darling Downs,2,1
+Beechboro,0,1
+Jandakot,1,1
+Salter Point,3,2
+Koondoola,1,1
+Ballajura,1,1
+Heathridge,1,1
+Ashby,1,1
+Dianella,0,1
+Port Kennedy,0,1
+Cannington,1,1
+Ocean Reef,3,1
+Bibra Lake,1,2
+Stoneville,1,1
+Wellard,0,1
+Darling Downs,3,1
+Canning Vale,2,1
+Landsdale,2,1
+Wattle Grove,2,1
+Port Kennedy,1,1
+Aubin Grove,2,1
+Dayton,1,1
+Wembley Downs,3,2
+Langford,0,1
+Heathridge,1,1
+Bertram,1,1
+Menora,3,1
+Alfred Cove,3,2
+Stirling,3,1
+Stirling,3,1
+Booragoon,2,2
+Aubin Grove,2,1
+Waikiki,1,1
+Currambine,2,1
+Lynwood,1,1
+Mindarie,2,1
+Balcatta,3,1
+Bedford,2,2
+Bedfordale,2,2
+Mosman Park,3,1
+Beeliar,1,1
+North Fremantle,3,1
+Landsdale,1,2
+Jane Brook,2,1
+Baldivis,2,1
+Darch,2,2
+Booragoon,3,2
+Atwell,2,1
+South Lake,1,1
+Merriwa,0,1
+Koondoola,1,1
+Success,2,1
+Orelia,0,1
+Huntingdale,0,1
+Midvale,0,1
+Coogee,3,1
+Bennett Springs,1,1
+Gwelup,3,1
+Bibra Lake,2,2
+Eglinton,1,1
+Serpentine,2,1
+Ellenbrook,0,1
+Beeliar,2,1
+Carine,2,1
+Ocean Reef,3,1
+Safety Bay,0,1
+Currambine,2,1
+Padbury,0,1
+Carramar,1,1
+Helena Valley,2,1
+Churchlands,3,1
+Bennett Springs,2,1
+Seville Grove,0,1
+Canning Vale,2,1
+Cooloongup,0,1
+Mosman Park,3,1
+Clarkson,0,1
+Hazelmere,0,1
+Ellenbrook,0,1
+Guildford,2,1
+Murdoch,2,2
+Churchlands,3,1
+Koondoola,0,1
+Lesmurdie,3,1
+Noranda,2,1
+Guildford,2,1
+Huntingdale,1,1
+Singleton,3,1
+Swanbourne,3,1
+Beldon,1,1
+South Guildford,2,1
+Cottesloe,3,1
+Bertram,1,1
+Ballajura,0,1
+Bickley,2,1
+The Vines,2,1
+Canning Vale,2,1
+Ridgewood,1,1
+Floreat,3,1
+Kallaroo,3,1
+Swanbourne,3,1
+Hillman,0,1
+Jarrahdale,2,2
+Currambine,2,1
+Alfred Cove,3,2
+Butler,1,1
+Riverton,2,1
+Mundaring,2,2
+Huntingdale,1,1
+St James,3,1
+Wandi,0,1
+Cockburn Central,1,1
+Leda,0,1
+Carramar,0,1
+Stirling,3,1
+Woodlands,3,2
+Secret Harbour,0,1
+South Lake,1,1
+Tapping,1,1
+Watermans Bay,3,1
+Redcliffe,1,1
+Lockridge,0,1
+Parkerville,2,2
+Henley Brook,2,1
+Kelmscott,0,1
+Riverton,2,2
+Spearwood,2,1
+Shelley,2,2
+South Guildford,1,1
+Willetton,2,2
+Butler,2,1
+Mirrabooka,1,1
+Edgewater,2,1
+South Fremantle,3,2
+Hocking,1,1
+Helena Valley,2,1
+Waikiki,0,1
+Carramar,3,1
+Ashby,1,1
+Marmion,3,1
+Gooseberry Hill,3,1
+The Vines,2,1
+O'Connor,2,2
+Brookdale,0,1
+South Lake,1,1
+The Vines,3,1
+Yanchep,0,1
+Joondalup,0,1
+Hillman,0,1
+Kenwick,1,1
+Ellenbrook,0,1
+Champion Lakes,1,1
+Clarkson,0,1
+South Lake,1,1
+Hocking,1,1
+Ascot,3,1
+Heathridge,1,1
+Aveley,1,1
+Aubin Grove,1,1
+Mount Nasura,1,1
+Walliston,1,1
+Waterford,3,2
+Middle Swan,0,1
+Bennett Springs,1,1
+Bertram,1,1
+Rivervale,1,1
+Currambine,2,1
+Kardinya,2,2
+Maddington,0,1
+Swan View,0,1
+Golden Bay,1,1
+Churchlands,3,1
+Carine,3,1
+Cooloongup,0,1
+Glen Forrest,3,1
+Dianella,2,1
+Mullaloo,2,1
+East Cannington,2,1
+Gwelup,3,1
+Roleystone,2,1
+Willetton,2,1
+West Swan,2,1
+Guildford,3,1
+Waterford,3,2
+Pearsall,1,1
+Byford,2,1
+Serpentine,2,1
+Hovea,2,1
+Noranda,1,1
+Hazelmere,2,1
+Koondoola,1,1
+Rossmoyne,3,2
+Wattle Grove,1,1
+Mirrabooka,1,1
+Lesmurdie,1,1
+Banksia Grove,0,1
+Ellenbrook,1,1
+Bertram,1,1
+Camillo,0,1
+Darling Downs,0,1
+Kewdale,0,1
+Cockburn Central,0,1
+Kelmscott,0,1
+Bicton,1,1
+St James,0,1
+Myaree,1,2
+Byford,2,1
+Tapping,1,1
+Millendon,3,1
+Darling Downs,3,1
+Bellevue,0,1
+Leda,0,1
+Gidgegannup,2,1
+Hillarys,3,1
+Bayswater,1,1
+Coolbinia,3,1
+Karragullen,0,1
+Stoneville,2,2
+Attadale,2,1
+Casuarina,3,1
+Maylands,2,1
+Boya,2,1
+Brentwood,2,2
+Scarborough,2,2
+Lockridge,1,1
+Alkimos,1,1
+Bateman,3,2
+Iluka,3,2
+Crawley,2,1
+South Guildford,0,1
+Stirling,3,1
+Lynwood,0,1
+Gnangara,0,1
+Mount Lawley,3,1
+Upper Swan,1,1
+Mariginiup,0,1
+Merriwa,0,1
+Beckenham,1,1
+Kenwick,0,1
+Pearsall,1,1
+Carramar,0,1
+Haynes,0,1
+Martin,1,1
+Darlington,3,1
+West Leederville,3,1
+Lesmurdie,0,1
+Nedlands,3,1
+Dianella,2,1
+Parkwood,2,1
+The Vines,3,1
+Gosnells,0,1
+Victoria Park,1,1
+Palmyra,3,2
+Mariginiup,3,1
+Merriwa,0,1
+South Perth,3,1
+Camillo,0,1
+Beckenham,0,1
+Menora,3,1
+White Gum Valley,2,2
+South Perth,2,1
+Yokine,1,1
+Rivervale,1,1
+Chidlow,1,1
+Hovea,2,1
+Hamersley,1,2
+Trigg,3,1
+Serpentine,2,1
+Belmont,1,1
+Lathlain,3,1
+Sawyers Valley,1,2
+Parkerville,3,2
+Kwinana Beach,0,1
+Scarborough,2,2
+Innaloo,2,2
+Salter Point,3,2
+Pearsall,1,1
+Dalkeith,3,1
+Jane Brook,1,1
+Hamilton Hill,0,2
+Bedford,3,2
+Kinross,2,1
+Kewdale,3,1
+Quinns Rocks,1,1
+Kenwick,1,1
+Parmelia,0,1
+Swanbourne,3,1
+Applecross,3,2
+Wembley Downs,3,1
+Port Kennedy,1,1
+Redcliffe,1,1
+Palmyra,1,2
+Inglewood,3,2
+Atwell,1,1
+White Gum Valley,2,2
+Floreat,3,1
+Osborne Park,3,1
+Singleton,1,1
+Mount Nasura,1,1
+East Victoria Park,3,1
+Helena Valley,2,1
+Haynes,3,1
+North Perth,2,1
+Floreat,3,1
+Brigadoon,3,1
+City Beach,3,1
+Fremantle,2,1
+Bayswater,3,1
+Mount Richon,0,1
+Martin,3,1
+Floreat,3,1
+Hamersley,2,2
+Trigg,3,1
+Greenwood,1,1
+Parmelia,0,1
+Heathridge,1,1
+Bickley,3,1
+Millendon,3,1
+Carlisle,1,1
+Mariginiup,2,1
+Gidgegannup,3,1
+Attadale,3,1
+Hillarys,3,1
+Ferndale,0,1
+Rivervale,2,1
+East Victoria Park,1,1
+Manning,2,2
+Guildford,1,1
+Coogee,1,1
+Bassendean,1,1
+Scarborough,1,2
+Dianella,3,1
+North Perth,2,1
+Applecross,3,2
+Alfred Cove,3,2
+Salter Point,2,2
+Scarborough,2,2
+Brentwood,2,2
+Champion Lakes,0,1
+Inglewood,3,1
+Heathridge,1,1
+Atwell,1,1
+Kallaroo,2,1
+Greenwood,1,2
+Beeliar,1,1
+Singleton,0,1
+Aveley,1,1
+Coogee,3,1
+Hazelmere,0,1
+Leeming,3,2
+Eglinton,1,1
+Kingsley,2,2
+Lockridge,0,1
+Coolbinia,3,1
+Noranda,2,1
+Darch,1,1
+Kelmscott,0,1
+Gosnells,0,1
+Viveash,0,1
+Maida Vale,1,1
+East Perth,3,1
+Carramar,1,1
+Hamersley,3,2
+Helena Valley,2,1
+Mirrabooka,0,1
+Clarkson,0,1
+Midvale,0,1
+Kelmscott,0,1
+Seville Grove,1,1
+Parkwood,1,1
+Myaree,3,2
+Kinross,1,1
+Wanneroo,2,1
+Floreat,3,1
+Rockingham,2,1
+Kiara,1,1
+Hillarys,3,1
+Herne Hill,3,1
+Kallaroo,3,1
+Middle Swan,0,1
+Jarrahdale,2,2
+Swanbourne,3,1
+Stirling,3,1
+Iluka,2,2
+City Beach,3,1
+Greenwood,2,2
+Bullsbrook,2,1
+Hilbert,0,1
+Embleton,1,1
+Westminster,2,1
+Bedfordale,3,2
+Greenwood,1,1
+Maida Vale,1,1
+Beeliar,2,1
+Port Kennedy,0,1
+Kenwick,0,1
+Landsdale,2,2
+Success,3,1
+Wanneroo,0,1
+Jane Brook,2,1
+Heathridge,2,1
+Eglinton,0,1
+Burns Beach,3,2
+Mount Claremont,3,1
+Koongamia,0,1
+South Lake,1,1
+Butler,0,1
+Hilton,2,2
+Carramar,1,1
+Padbury,3,2
+East Cannington,1,1
+Mundaring,1,2
+Parmelia,0,1
+Middle Swan,0,1
+Middle Swan,0,1
+Kwinana Town Centre,0,1
+Attadale,3,1
+Helena Valley,1,1
+Kenwick,0,1
+Shelley,3,2
+Parkwood,1,1
+Hillman,0,1
+Atwell,1,1
+Singleton,0,1
+Guildford,2,1
+Bullsbrook,0,1
+Aubin Grove,1,1
+Tapping,1,1
+Medina,0,1
+Maddington,1,1
+Hocking,1,1
+Ridgewood,0,1
+Eden Hill,2,1
+Mount Helena,1,1
+Butler,0,1
+Embleton,3,1
+Banksia Grove,0,1
+Beaconsfield,2,2
+Kwinana Town Centre,0,1
+Mount Claremont,3,1
+Murdoch,3,2
+Orelia,1,1
+Harrisdale,1,1
+Helena Valley,2,1
+Carramar,1,1
+Darch,1,2
+Brookdale,0,1
+Mount Claremont,3,1
+Jindalee,2,1
+Stoneville,1,2
+Bayswater,2,1
+Bickley,0,1
+North Coogee,3,2
+Stirling,3,1
+Jarrahdale,2,2
+Sorrento,3,2
+Beckenham,1,1
+Redcliffe,0,1
+Connolly,2,1
+Two Rocks,0,1
+Embleton,0,1
+Sinagra,1,1
+Thornlie,1,1
+Brookdale,0,1
+Darlington,1,1
+Guildford,3,1
+Wanneroo,0,1
+Willagee,2,2
+Aubin Grove,1,1
+Floreat,3,1
+South Lake,1,1
+Innaloo,1,2
+Butler,0,1
+Gnangara,3,1
+Gidgegannup,3,1
+Piara Waters,1,1
+Maddington,0,1
+Thornlie,1,1
+Beldon,1,1
+Aveley,1,1
+Orelia,0,1
+Gwelup,3,1
+Bateman,3,2
+Parmelia,0,1
+Mundijong,0,2
+Waikiki,1,1
+Byford,1,1
+Hillman,0,1
+Carramar,1,1
+Walliston,0,1
+Mullaloo,3,1
+Greenmount,2,1
+Tapping,1,1
+Heathridge,1,1
+Seville Grove,0,1
+Embleton,2,1
+Lesmurdie,3,1
+Koongamia,0,1
+Leeming,2,2
+Butler,0,1
+Henley Brook,2,1
+Bentley,1,1
+Dayton,0,1
+Harrisdale,2,1
+Hammond Park,2,1
+Forrestfield,2,1
+Seville Grove,1,1
+Cooloongup,0,1
+Ascot,3,1
+Beaconsfield,1,2
+Parmelia,0,1
+Waterford,2,2
+Walliston,1,1
+Dalkeith,3,1
+Sinagra,1,1
+Wandi,0,1
+Huntingdale,0,1
+Butler,2,1
+Henley Brook,2,1
+Glen Forrest,2,1
+South Perth,3,2
+Edgewater,1,1
+Doubleview,3,2
+Warwick,2,2
+Kelmscott,1,1
+Currambine,2,1
+Coogee,3,1
+Edgewater,2,1
+City Beach,3,1
+Burns Beach,3,1
+Gosnells,1,1
+Ballajura,1,1
+Ridgewood,0,1
+Cockburn Central,1,1
+Orelia,0,1
+North Perth,3,1
+Winthrop,3,2
+Madeley,2,1
+Port Kennedy,0,1
+Girrawheen,0,1
+Kewdale,2,1
+Ocean Reef,3,1
+Parmelia,0,1
+Beeliar,2,1
+Woodlands,3,2
+Mirrabooka,1,1
+Mount Nasura,1,1
+Floreat,3,1
+Brentwood,3,2
+Leeming,2,2
+Glen Forrest,2,1
+Merriwa,0,1
+Mundijong,1,2
+Stirling,2,1
+Eglinton,0,1
+Middle Swan,1,1
+Burns Beach,3,1
+Guildford,2,1
+Karrinyup,3,2
+Wellard,2,1
+Applecross,3,2
+Two Rocks,0,1
+Orelia,0,1
+Maida Vale,3,1
+Hillarys,3,2
+Merriwa,0,1
+Forrestfield,0,1
+Thornlie,1,1
+Wellard,0,1
+Ascot,2,1
+The Vines,0,1
+Leeming,3,2
+South Lake,1,1
+Butler,0,1
+Wattle Grove,2,1
+Karrinyup,3,1
+Brigadoon,3,1
+Coogee,3,1
+Atwell,2,1
+Jandakot,2,1
+Jandakot,2,1
+Guildford,3,1
+Leeming,3,2
+Quinns Rocks,2,1
+Mundijong,1,2
+Gwelup,2,1
+South Perth,3,1
+Calista,0,1
+Mosman Park,2,1
+Guildford,2,1
+Banjup,3,1
+Cooloongup,0,1
+White Gum Valley,3,2
+Armadale,0,1
+Bennett Springs,2,1
+Jandakot,2,2
+Greenmount,0,1
+Midland,3,1
+Karawara,2,2
+Maida Vale,1,1
+Marmion,0,1
+Cannington,0,1
+South Perth,1,1
+Beaconsfield,1,2
+Watermans Bay,1,1
+Hillarys,2,1
+Kelmscott,0,1
+Madeley,0,2
+East Fremantle,2,1
+Lynwood,0,1
+Midvale,0,1
+Mount Nasura,1,1
+Atwell,1,1
+St James,3,1
+Woodvale,2,1
+Warwick,2,1
+Bedford,2,2
+Shoalwater,2,1
+Mundijong,0,2
+Attadale,3,1
+Secret Harbour,2,1
+Craigie,1,1
+Stoneville,3,2
+Parkerville,3,1
+Hillarys,2,1
+Kinross,1,1
+Karnup,3,1
+Brabham,0,1
+Doubleview,3,2
+Floreat,3,1
+Stirling,3,1
+Quinns Rocks,0,1
+Daglish,3,1
+Cooloongup,0,1
+Mardella,0,2
+Karragullen,0,1
+Brigadoon,3,1
+Serpentine,3,1
+Mount Richon,2,1
+Hamersley,2,2
+Embleton,2,1
+Eglinton,0,1
+Bellevue,2,1
+Glen Forrest,3,1
+Bicton,3,1
+Wandi,2,1
+Kinross,1,1
+Alfred Cove,2,2
+Greenmount,1,1
+Brabham,0,1
+South Guildford,1,1
+Cottesloe,3,1
+Doubleview,3,2
+Carmel,2,1
+Glen Forrest,1,1
+Victoria Park,2,1
+Karrinyup,3,2
+Maylands,3,1
+Iluka,3,2
+Harrisdale,1,1
+Beldon,1,1
+White Gum Valley,2,2
+Safety Bay,0,1
+Iluka,2,2
+Mariginiup,1,1
+Chidlow,0,1
+Mount Claremont,3,1
+White Gum Valley,3,2
+Carlisle,1,1
+North Perth,3,1
+Trigg,3,1
+Carmel,3,1
+Glen Forrest,2,1
+Greenmount,2,1
+East Fremantle,3,1
+Glen Forrest,2,1
+West Leederville,3,1
+Carramar,1,1
+Mahogany Creek,2,1
+Stoneville,2,2
+Canning Vale,2,1
+Henley Brook,3,1
+Sawyers Valley,1,2
+Joondanna,3,1
+Doubleview,3,2
+Parkerville,3,2
+Oakford,0,1
+Calista,0,1
+Stratton,0,1
+Mosman Park,3,1
+Jolimont,3,1
+Alfred Cove,3,2
+Beckenham,1,1
+Yanchep,0,1
+Jandabup,0,1
+Mundijong,0,2
+Ellenbrook,0,1
+Carmel,3,1
+East Victoria Park,2,1
+Kenwick,0,1
+Kiara,0,1
+Padbury,1,1
+Sorrento,2,2
+Bertram,0,1
+Sorrento,3,2
+Golden Bay,0,1
+Ocean Reef,3,1
+Wilson,2,1
+Rivervale,0,1
+Leeming,2,2
+Gidgegannup,3,1
+Cottesloe,3,1
+Jandakot,3,2
+Kinross,1,1
+Mundijong,0,2
+Boya,2,1
+Bentley,2,1
+Balga,0,1
+Ashby,0,1
+Wembley Downs,3,1
+Wattle Grove,2,1
+Mullaloo,2,1
+Ridgewood,1,1
+Mount Claremont,3,1
+Chidlow,2,1
+Bedford,2,2
+Stirling,1,1
+Cottesloe,3,1
+Bedford,2,2
+Bassendean,1,1
+Coolbellup,1,2
+Applecross,3,2
+Shelley,3,2
+Sinagra,0,1
+Attadale,3,1
+Piara Waters,0,1
+South Lake,0,1
+Cloverdale,1,1
+Thornlie,0,1
+Applecross,3,2
+Kenwick,1,1
+Merriwa,0,1
+Greenmount,1,1
+Brentwood,2,2
+South Lake,1,1
+Gwelup,2,1
+Caversham,0,1
+Churchlands,3,1
+Bertram,0,1
+Waterford,3,2
+Carmel,0,1
+Stratton,0,1
+Canning Vale,2,1
+Wattle Grove,1,1
+Belhus,0,1
+Butler,1,1
+Hammond Park,2,1
+Aveley,0,1
+Mount Lawley,3,1
+Champion Lakes,0,1
+Connolly,2,1
+Success,2,1
+Bedfordale,3,2
+Balcatta,2,1
+Manning,3,2
+Caversham,1,1
+Mardella,0,2
+Swanbourne,3,1
+Waikiki,2,1
+Stirling,3,1
+Two Rocks,0,1
+Ridgewood,1,1
+Haynes,0,1
+Wattle Grove,1,1
+Craigie,1,1
+Inglewood,1,1
+Mount Helena,2,1
+Helena Valley,2,1
+Eglinton,1,1
+Burns Beach,3,2
+Bull Creek,3,2
+Sorrento,3,2
+Woodbridge,2,1
+Harrisdale,2,1
+South Fremantle,3,2
+Mosman Park,3,1
+Glen Forrest,2,1
+Koongamia,0,1
+Ballajura,1,1
+Brabham,1,1
+Mirrabooka,1,1
+Mullaloo,2,1
+Ascot,2,1
+Burns Beach,3,1
+Hillman,0,1
+Daglish,3,1
+Melville,3,2
+Greenmount,1,1
+Como,3,2
+Bateman,2,2
+Wattle Grove,2,1
+Bennett Springs,1,1
+Parmelia,0,1
+Wattle Grove,2,1
+Carine,3,1
+Harrisdale,2,1
+Kinross,1,1
+Secret Harbour,0,1
+Kingsley,1,1
+Leeming,2,2
+Cannington,1,1
+Mount Lawley,3,1
+Hazelmere,0,1
+Harrisdale,1,1
+Bayswater,0,1
+Henley Brook,0,1
+Two Rocks,1,1
+Greenwood,2,2
+Beldon,1,1
+Singleton,2,1
+Henley Brook,3,1
+Greenmount,1,1
+Eglinton,1,1
+Ferndale,1,1
+Helena Valley,2,1
+Jindalee,1,1
+Calista,0,1
+Koondoola,0,1
+Pearsall,1,1
+Jindalee,2,1
+Samson,1,2
+Girrawheen,0,1
+Bellevue,0,1
+Beldon,1,1
+Morley,1,1
+Woodbridge,3,1
+Atwell,1,1
+Tapping,1,1
+South Perth,3,2
+Mahogany Creek,0,2
+Maylands,3,1
+Banksia Grove,1,1
+Mullaloo,3,1
+Koondoola,0,1
+Mount Richon,1,1
+Mirrabooka,1,1
+Melville,3,2
+High Wycombe,1,1
+Ballajura,1,1
+Carramar,2,1
+South Guildford,0,1
+Peppermint Grove,3,1
+Maida Vale,2,1
+Ascot,3,1
+The Vines,3,1
+Balga,0,1
+Kiara,0,1
+Warnbro,0,1
+Jandakot,3,1
+Mullaloo,3,1
+Bull Creek,3,2
+Marangaroo,1,1
+Bickley,3,1
+Samson,2,2
+Kingsley,2,2
+Cooloongup,0,1
+Attadale,3,2
+Trigg,3,1
+Brookdale,0,1
+Southern River,3,1
+Warnbro,0,1
+Gwelup,3,1
+Carlisle,3,1
+Wattle Grove,1,1
+Hammond Park,2,1
+Embleton,1,1
+South Fremantle,3,2
+Maida Vale,1,1
+Carlisle,1,1
+Kelmscott,0,1
+Sawyers Valley,2,1
+Karawara,1,2
+Quinns Rocks,1,1
+Stratton,0,1
+North Lake,2,2
+Warnbro,0,1
+Port Kennedy,0,1
+Mirrabooka,1,1
+Hammond Park,1,1
+Balga,0,1
+Bateman,3,2
+Beckenham,1,1
+Parmelia,0,1
+Mount Nasura,1,1
+Ashby,1,1
+Henley Brook,0,1
+Mirrabooka,0,1
+Heathridge,0,1
+Mullaloo,2,1
+Carabooda,3,1
+Dayton,0,1
+Jandakot,3,2
+Heathridge,1,1
+Stoneville,1,2
+Kenwick,0,1
+Landsdale,2,1
+Waikiki,1,1
+Kiara,2,1
+Bayswater,1,1
+Champion Lakes,1,1
+Queens Park,1,1
+Stratton,0,1
+Landsdale,2,2
+Wandi,1,1
+Jolimont,3,1
+Woodlands,3,2
+Pearsall,1,1
+Jindalee,2,1
+Salter Point,3,2
+Aubin Grove,1,1
+Kenwick,0,1
+Carine,3,1
+Roleystone,3,1
+Hilton,2,2
+Iluka,3,2
+Jarrahdale,0,2
+Byford,1,1
+Parkerville,2,1
+Quinns Rocks,1,1
+Hillman,0,1
+South Guildford,3,1
+Gnangara,3,1
+Jandakot,2,1
+Brigadoon,3,1
+Tapping,1,1
+Yangebup,1,1
+Mount Helena,1,1
+Thornlie,0,1
+Wanneroo,2,1
+Mount Helena,2,1
+Caversham,1,1
+Gwelup,3,1
+Clarkson,1,1
+Sinagra,2,1
+South Lake,0,1
+Menora,3,1
+Singleton,1,1
+Merriwa,0,1
+Madeley,2,2
+Wellard,0,1
+Willagee,2,2
+Iluka,3,2
+Safety Bay,1,1
+Mount Lawley,3,1
+Kewdale,1,1
+Port Kennedy,0,1
+Mariginiup,0,1
+Armadale,0,1
+Attadale,0,1
+Winthrop,2,2
+Merriwa,0,1
+Jandakot,3,1
+Ridgewood,0,1
+Byford,0,1
+Carine,2,1
+Mahogany Creek,0,1
+Mount Helena,2,1
+Pearsall,0,1
+Willagee,2,2
+Embleton,2,1
+Morley,1,1
+Herne Hill,3,1
+East Cannington,0,1
+Innaloo,1,1
+Rivervale,3,1
+Tapping,2,1
+Hamersley,2,2
+Hocking,2,1
+Beldon,1,1
+Shenton Park,3,1
+Ridgewood,0,1
+Wattleup,3,1
+Middle Swan,0,1
+Dalkeith,3,1
+Cooloongup,0,1
+Helena Valley,3,1
+Bennett Springs,3,1
+City Beach,3,1
+Glen Forrest,2,1
+South Guildford,1,1
+Wungong,2,1
+South Fremantle,3,2
+Mount Hawthorn,3,1
+Salter Point,3,2
+Herne Hill,1,1
+Ellenbrook,0,1
+Clarkson,0,1
+Martin,3,1
+Shenton Park,3,1
+Doubleview,2,2
+East Cannington,2,1
+Darlington,2,1
+Chidlow,0,1
+Alexander Heights,1,1
+Mount Hawthorn,3,1
+Trigg,3,1
+Quinns Rocks,0,1
+Mardella,0,2
+Attadale,3,1
+Hazelmere,1,1
+Ashby,1,1
+Jolimont,3,1
+Ridgewood,0,1
+Bullsbrook,3,1
+Joondanna,2,1
+Ballajura,0,1
+Greenmount,1,1
+Clarkson,0,1
+White Gum Valley,2,2
+Roleystone,2,1
+Daglish,3,1
+Glen Forrest,3,1
+Bedford,1,2
+Koondoola,0,1
+White Gum Valley,3,2
+Boya,0,1
+Karragullen,3,1
+East Fremantle,3,1
+Wellard,2,1
+Tuart Hill,3,1
+Wembley Downs,3,1
+Mullaloo,2,1
+Mariginiup,0,1
+Inglewood,3,2
+Mount Hawthorn,3,1
+Beaconsfield,3,2
+Mullaloo,2,1
+East Victoria Park,2,1
+Rossmoyne,3,2
+Watermans Bay,3,1
+Forrestfield,1,1
+Roleystone,1,1
+Embleton,1,1
+Langford,0,1
+Embleton,2,1
+Claremont,3,1
+Floreat,3,1
+Westminster,0,1
+Yangebup,0,1
+Connolly,1,1
+Woodbridge,1,1
+Claremont,3,1
+Inglewood,3,2
+Warwick,2,1
+Floreat,3,1
+Menora,3,1
+North Perth,3,1
+Mundijong,0,2
+Boya,2,1
+Rockingham,0,1
+Carlisle,3,1
+Beechboro,0,1
+Langford,0,1
+Mount Nasura,1,1
+Hamersley,2,1
+Herne Hill,0,1
+Port Kennedy,2,1
+Calista,0,1
+Nedlands,3,1
+Thornlie,1,1
+Kensington,3,1
+Eden Hill,1,1
+High Wycombe,0,1
+Coolbellup,0,2
+Alkimos,2,1
+Waikiki,0,1
+Baldivis,0,1
+Beechboro,2,1
+Byford,0,1
+Huntingdale,1,1
+Bedfordale,3,2
+Caversham,1,1
+Kallaroo,1,1
+Fremantle,3,1
+Spearwood,0,1
+Bertram,0,1
+Willagee,0,2
+Byford,1,1
+Bertram,0,1
+Brentwood,3,2
+Waterford,3,2
+Byford,1,1
+Kwinana Town Centre,0,1
+Hillman,0,1
+Aubin Grove,2,1
+Atwell,2,1
+Ashby,1,1
+Singleton,1,1
+Alfred Cove,3,2
+Mount Lawley,3,1
+Burns Beach,3,2
+Lockridge,0,1
+Langford,1,1
+Karrinyup,3,2
+Wembley Downs,3,1
+Henley Brook,2,1
+Samson,1,2
+Maida Vale,1,1
+Woodbridge,2,1
+Coogee,2,1
+Samson,2,2
+Cooloongup,0,1
+Maida Vale,2,1
+Willagee,2,2
+Churchlands,3,1
+Herne Hill,0,1
+Walliston,0,1
+Guildford,3,1
+Peppermint Grove,3,1
+Singleton,1,1
+Menora,3,1
+Mundijong,0,2
+Kalamunda,3,1
+Guildford,1,1
+Karawara,2,2
+Harrisdale,1,1
+Bassendean,1,1
+Atwell,2,1
+Secret Harbour,0,1
+Warnbro,3,1
+Lesmurdie,1,1
+Baldivis,0,1
+Mount Nasura,0,1
+Shoalwater,1,1
+Greenmount,2,1
+Martin,1,1
+Wellard,0,1
+Ashfield,1,1
+Gwelup,3,1
+Murdoch,2,2
+Samson,2,2
+Bibra Lake,2,2
+Beechboro,0,1
+Wattle Grove,1,1
+Menora,3,1
+Golden Bay,1,1
+Sawyers Valley,2,1
+Willagee,2,2
+Bibra Lake,2,2
+Woodbridge,0,1
+Armadale,0,1
+Forrestfield,0,1
+Winthrop,3,2
+Floreat,3,1
+Harrisdale,3,1
+Waikiki,0,1
+Secret Harbour,0,1
+Kelmscott,0,1
+Bibra Lake,1,2
+Kelmscott,0,1
+Menora,2,1
+Roleystone,2,1
+Haynes,0,1
+Bellevue,0,1
+Kalamunda,3,1
+Huntingdale,0,1
+Helena Valley,1,1
+Bateman,3,2
+Carine,3,1
+Menora,3,1
+Woodlands,3,2
+Stoneville,1,2
+Coogee,3,1
+Warnbro,0,1
+Wattle Grove,1,1
+Noranda,2,2
+Ashby,1,1
+Walliston,1,1
+South Fremantle,3,2
+Samson,2,2
+Safety Bay,0,1
+Piara Waters,2,1
+Greenmount,2,1
+Lesmurdie,1,1
+Mount Helena,2,1
+Midvale,0,1
+Mundijong,1,2
+Calista,0,1
+Waterford,3,2
+East Victoria Park,2,1
+Carlisle,2,1
+Brookdale,0,1
+Daglish,3,1
+Byford,0,1
+Madeley,1,2
+Hazelmere,1,1
+Trigg,3,1
+Inglewood,2,1
+Redcliffe,2,1
+Osborne Park,1,1
+Mundaring,2,2
+Huntingdale,0,1
+Jolimont,3,1
+Clarkson,1,1
+Safety Bay,2,1
+Koondoola,0,1
+Pearsall,1,1
+Darling Downs,3,1
+Mullaloo,2,1
+East Cannington,0,1
+Millendon,0,1
+Casuarina,2,1
+Oldbury,3,1
+Oakford,2,1
+Wembley,3,1
+Mundijong,0,2
+Port Kennedy,0,1
+Quinns Rocks,1,1
+Pearsall,1,1
+Inglewood,3,2
+Mount Helena,1,1
+Westminster,0,1
+Armadale,0,1
+Mount Lawley,3,1
+Gosnells,0,1
+Beechboro,0,1
+Ashby,1,1
+Redcliffe,1,1
+Bedford,2,2
+Leederville,2,1
+Darling Downs,2,1
+City Beach,3,1
+Wandi,1,1
+Helena Valley,2,1
+Karragullen,0,1
+Kingsley,1,2
+Koondoola,0,1
+Parkerville,2,1
+Hilbert,1,1
+Kallaroo,2,1
+Nedlands,3,1
+Camillo,0,1
+Ashby,1,1
+Redcliffe,2,1
+Craigie,1,1
+Yanchep,0,1
+Chidlow,3,1
+Sawyers Valley,3,2
+Hovea,2,1
+Bicton,2,1
+Upper Swan,0,1
+Hazelmere,1,1
+Carramar,1,1
+Marmion,2,1
+Henley Brook,3,1
+Mount Hawthorn,3,1
+Clarkson,0,1
+Bassendean,2,1
+Bennett Springs,1,1
+Coolbinia,3,1
+East Cannington,1,1
+Upper Swan,3,1
+Tapping,1,1
+Bassendean,2,1
+Bullsbrook,2,1
+Beckenham,1,1
+Guildford,3,1
+Carmel,3,1
+The Vines,2,1
+Haynes,3,1
+Hazelmere,1,1
+Helena Valley,2,1
+Parkerville,2,1
+Morley,0,1
+Manning,2,2
+Manning,2,2
+Ardross,3,2
+Scarborough,3,2
+Riverton,1,2
+Bateman,1,2
+Eden Hill,1,1
+Brentwood,2,2
+Nollamara,0,1
+Joondanna,1,1
+Bullsbrook,1,1
+Hillarys,3,1
+Port Kennedy,0,1
+Eglinton,0,1
+Hilbert,2,1
+Beeliar,1,1
+Gooseberry Hill,2,1
+Wembley Downs,3,2
+Oakford,3,1
+Clarkson,0,1
+Carramar,2,1
+Byford,0,1
+Tapping,2,1
+Coogee,2,1
+Yangebup,1,1
+Wattle Grove,1,1
+Beldon,1,1
+Darling Downs,3,1
+Shelley,3,2
+Burns Beach,2,2
+Southern River,1,1
+Brookdale,0,1
+Greenmount,3,1
+Hamersley,1,2
+Burswood,3,1
+Two Rocks,0,1
+Wattle Grove,3,1
+Aubin Grove,2,1
+Huntingdale,0,1
+Yangebup,2,1
+Floreat,3,1
+Kallaroo,2,1
+Success,2,1
+Kenwick,1,1
+Riverton,2,2
+Karnup,0,1
+Heathridge,1,1
+Bertram,0,1
+Waterford,3,2
+North Lake,2,2
+Sinagra,2,1
+Koongamia,0,1
+Jarrahdale,3,2
+Mullaloo,3,1
+Oakford,3,1
+Harrisdale,1,1
+Cooloongup,0,1
+High Wycombe,1,1
+Maida Vale,2,1
+Iluka,3,2
+Hamilton Hill,1,2
+Warwick,2,1
+Swanbourne,3,1
+Craigie,1,1
+Southern River,2,1
+Embleton,0,1
+Safety Bay,2,1
+Carine,2,1
+Clarkson,0,1
+Wembley Downs,3,1
+Bellevue,0,1
+Carabooda,3,1
+Edgewater,1,1
+Parkwood,1,1
+South Guildford,2,1
+White Gum Valley,2,2
+Rossmoyne,3,2
+Langford,1,1
+Marmion,2,1
+Cardup,0,2
+Jindalee,2,1
+Calista,0,1
+Mindarie,2,1
+Coogee,3,1
+Kinross,2,1
+Wattle Grove,2,1
+Coolbinia,3,1
+Wanneroo,0,1
+Harrisdale,1,1
+Gwelup,3,1
+Bullsbrook,2,1
+Woodbridge,3,1
+Winthrop,3,2
+Hocking,1,1
+Woodbridge,2,1
+Landsdale,2,2
+Orelia,0,1
+Success,1,1
+Swan View,0,1
+Menora,3,1
+Aveley,0,1
+Kingsley,2,2
+Kelmscott,0,1
+East Cannington,2,1
+Byford,1,1
+Stratton,0,1
+Edgewater,2,1
+Bertram,1,1
+Atwell,2,1
+Pearsall,1,1
+Kalamunda,2,1
+Helena Valley,2,1
+Kensington,3,1
+Baldivis,0,1
+Lynwood,1,1
+Singleton,1,1
+Aubin Grove,2,1
+Medina,0,1
+Mount Claremont,3,1
+South Guildford,2,1
+Mount Nasura,1,1
+Victoria Park,3,1
+Banksia Grove,1,1
+Parkwood,2,1
+High Wycombe,1,1
+Gwelup,3,1
+Ascot,2,1
+Mundijong,0,2
+Wellard,0,1
+Carlisle,2,1
+Hazelmere,2,1
+Parmelia,1,1
+Menora,3,1
+Mindarie,2,1
+Roleystone,0,1
+Waikiki,0,1
+Brookdale,0,1
+Merriwa,0,1
+Swanbourne,3,1
+Beeliar,1,1
+Hilton,2,2
+Harrisdale,0,1
+City Beach,3,1
+Beckenham,1,1
+Hocking,1,1
+The Vines,3,1
+Casuarina,3,1
+Craigie,1,1
+Parmelia,0,1
+Ferndale,1,1
+Mount Claremont,3,1
+Mount Claremont,3,1
+Safety Bay,0,1
+Woodvale,1,1
+Aubin Grove,1,1
+Huntingdale,1,1
+Mount Claremont,3,1
+Queens Park,0,1
+Lockridge,0,1
+Roleystone,1,1
+Success,2,1
+Piara Waters,1,1
+Ellenbrook,1,1
+Port Kennedy,0,1
+Medina,0,1
+Wellard,2,1
+Oakford,2,1
+Bayswater,2,1
+Glen Forrest,2,1
+Wattle Grove,1,1
+Orelia,0,1
+Champion Lakes,2,1
+Coolbellup,1,2
+Banksia Grove,1,1
+Applecross,3,2
+Forrestfield,1,1
+Pearsall,2,1
+Currambine,1,1
+Wattle Grove,2,1
+City Beach,3,1
+Hillarys,3,1
+Aveley,0,1
+Wandi,1,1
+Mount Helena,2,1
+Carabooda,3,1
+Yanchep,2,1
+Waikiki,0,1

@@ -1,0 +1,15 @@
+Audit Start Time: 2023-08-15 01:58:51.551523
+Audit End Time: 2023-08-15 01:59:42.894022
+Retrained Per Repair: False
+Model Factory ID: 1692079131.551736
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 1838
+Test Size: 920
+Non-standard Ignored Features: []
+Features: ['\ufeffWEIGHT', 'STATUS', 'FINALDEST', 'FOOTINGS', 'LEASE', 'LOCATION', 'REGION', 'PIERS', 'SECURED', 'TITLED', 'SECTIONS', 'SQFT', 'BEDROOMS', 'SHIPMONTH', 'WGTADJ', 'CONTROL', 'jstatus', 'jprice', 'jsqft', 'jbedroom', 'jlease', 'jfinaldest', 'jtitle', 'jsecured', 'jlocation', 'jfootings', 'jpiers', 'Outcome']
+
+Ranked Features by accuracy: [('SQFT', 0.358695652173913), ('\ufeffWEIGHT', 0.26847826086956517), ('WGTADJ', 0.2673913043478261), ('SECTIONS', 0.24673913043478257), ('PIERS', 0.2239130434782608), ('SECURED', 0.2239130434782608), ('REGION', 0.22065217391304348), ('BEDROOMS', 0.21413043478260863), ('TITLED', 0.18804347826086953), ('FOOTINGS', 0.1847826086956521), ('LOCATION', 0.18260869565217386), ('CONTROL', 0.17282608695652169), ('SHIPMONTH', 0.1510869565217391), ('STATUS', 0.11086956521739133), ('jprice', 0.11086956521739133), ('jtitle', 0.09673913043478255), ('jlocation', 0.08152173913043481), ('jsecured', 0.06739130434782603), ('jfootings', 0.06413043478260871), ('jbedroom', 0.05652173913043479), ('jsqft', 0.04999999999999993), ('jlease', 0.04130434782608694), ('jpiers', 0.04130434782608694), ('jstatus', 0.03913043478260869), ('jfinaldest', 0.03913043478260869), ('FINALDEST', 0.0), ('LEASE', 0.0)]
+	Approx. Trend Groups: [['\ufeffWEIGHT'], ['WGTADJ'], ['REGION', 'PIERS', 'SECURED', 'TITLED'], ['BEDROOMS'], ['SECTIONS'], ['STATUS', 'jprice', 'jtitle', 'jlocation'], ['SHIPMONTH', 'CONTROL'], ['FINALDEST', 'LEASE', 'jsqft', 'jbedroom', 'jlease', 'jfinaldest', 'jsecured', 'jfootings', 'jpiers'], ['jstatus'], ['FOOTINGS', 'LOCATION'], ['SQFT']]
+Ranked Features by BCR: [('SQFT', 0.36513629842180784), ('WGTADJ', 0.3222381635581062), ('\ufeffWEIGHT', 0.3172405547584889), ('PIERS', 0.2734576757532282), ('SECURED', 0.27250119560019137), ('REGION', 0.2707556193208991), ('BEDROOMS', 0.26032998565279775), ('SECTIONS', 0.2357006217120995), ('TITLED', 0.23273553323768548), ('FOOTINGS', 0.2240554758488762), ('LOCATION', 0.21635581061692977), ('CONTROL', 0.2029890004782402), ('SHIPMONTH', 0.17859875657580115), ('STATUS', 0.1377809660449547), ('jprice', 0.13395504543280734), ('jtitle', 0.1212099473935917), ('jlocation', 0.10437589670014358), ('jfootings', 0.08486370157819234), ('jsecured', 0.08326159732185567), ('jbedroom', 0.07752271640363473), ('jsqft', 0.06637972262075564), ('jlease', 0.055906264945002504), ('jpiers', 0.05423242467718803), ('jstatus', 0.05418460066953623), ('jfinaldest', 0.05418460066953623), ('FINALDEST', 0.0), ('LEASE', 0.0)]
+	Approx. Trend Groups: [['\ufeffWEIGHT'], ['REGION', 'PIERS', 'SECURED'], ['BEDROOMS'], ['SECTIONS'], ['STATUS', 'jprice', 'jtitle'], ['SHIPMONTH', 'CONTROL'], ['FINALDEST', 'LEASE'], ['FOOTINGS', 'LOCATION', 'TITLED'], ['SQFT'], ['WGTADJ'], ['jstatus', 'jsqft', 'jbedroom', 'jlease', 'jfinaldest', 'jsecured', 'jlocation', 'jfootings', 'jpiers']]

@@ -1,0 +1,12 @@
+GFA Audit for:orgdon-wateraccratio
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 708, "0.0": 201}, "0.0": {"0.0": 213, "1.0": 197}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 701, "0.0": 208}, "0.0": {"1.0": 196, "0.0": 214}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 768, "0.0": 141}, "0.0": {"1.0": 245, "0.0": 165}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 799, "0.0": 110}, "0.0": {"1.0": 266, "0.0": 144}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 752, "0.0": 157}, "0.0": {"1.0": 301, "0.0": 109}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"1.0": 346, "0.0": 64}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 706, "0.0": 203}, "0.0": {"1.0": 337, "0.0": 73}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 664, "0.0": 245}, "0.0": {"1.0": 263, "0.0": 147}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 409, "0.0": 1}}]
+Dark-Reaction-DT/orgdon-wateraccratio.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

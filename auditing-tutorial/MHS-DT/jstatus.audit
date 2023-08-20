@@ -1,0 +1,12 @@
+GFA Audit for:jstatus
+MHS-DT/jstatus.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 433, "0": 77}, "0": {"1": 87, "0": 323}}]
+MHS-DT/jstatus.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 430, "0": 80}, "0": {"1": 89, "0": 321}}]
+MHS-DT/jstatus.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 430, "0": 80}, "0": {"1": 107, "0": 303}}]
+MHS-DT/jstatus.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 427, "0": 83}, "0": {"1": 106, "0": 304}}]
+MHS-DT/jstatus.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 420, "0": 90}, "0": {"1": 110, "0": 300}}]
+MHS-DT/jstatus.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 433, "0": 77}, "0": {"1": 121, "0": 289}}]
+MHS-DT/jstatus.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 429, "0": 81}, "0": {"1": 113, "0": 297}}]
+MHS-DT/jstatus.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 427, "0": 83}, "0": {"1": 114, "0": 296}}]
+MHS-DT/jstatus.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 423, "0": 87}, "0": {"1": 114, "0": 296}}]
+MHS-DT/jstatus.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 441, "0": 69}, "0": {"1": 136, "0": 274}}]
+MHS-DT/jstatus.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 432, "0": 78}, "0": {"1": 123, "0": 287}}]

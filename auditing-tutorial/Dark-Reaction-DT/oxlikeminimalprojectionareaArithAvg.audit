@@ -1,0 +1,12 @@
+GFA Audit for:oxlikeminimalprojectionareaArithAvg
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 750, "0.0": 159}, "0.0": {"0.0": 233, "1.0": 177}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 755, "0.0": 154}, "0.0": {"0.0": 222, "1.0": 188}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 741, "0.0": 168}, "0.0": {"0.0": 229, "1.0": 181}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 651, "0.0": 258}, "0.0": {"0.0": 224, "1.0": 186}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 284, "1.0": 625}, "0.0": {"0.0": 230, "1.0": 180}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"0.0": 283, "1.0": 626}, "0.0": {"0.0": 217, "1.0": 193}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 621, "0.0": 288}, "0.0": {"0.0": 217, "1.0": 193}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 560, "0.0": 349}, "0.0": {"1.0": 204, "0.0": 206}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 555, "0.0": 354}, "0.0": {"1.0": 207, "0.0": 203}}]
+Dark-Reaction-DT/oxlikeminimalprojectionareaArithAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 552, "0.0": 357}, "0.0": {"1.0": 209, "0.0": 201}}]

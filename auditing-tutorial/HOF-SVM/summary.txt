@@ -1,0 +1,15 @@
+Audit Start Time: 2023-07-26 18:02:29.384142
+Audit End Time: 2023-07-26 18:03:04.933053
+Retrained Per Repair: False
+Model Factory ID: 1690408949.384285
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 4211
+Test Size: 2106
+Non-standard Ignored Features: []
+Features: ['\ufeffheight', 'weight', 'shootCatch', 'pos', 'birthCountry', 'MarjorAwards', 'AllStarTeams', 'TotalPts', 'TotalGoals', 'TotalPtsPost', 'TotalGoalsPost', 'TotalGWG', 'TotalGWGPost', 'InHF']
+
+Ranked Features by accuracy: [('\ufeffheight', 0.007597340930674212), ('weight', 0.007597340930674212), ('pos', 0.007597340930674212), ('birthCountry', 0.007597340930674212), ('MarjorAwards', 0.007597340930674212), ('AllStarTeams', 0.007597340930674212), ('TotalPts', 0.007597340930674212), ('TotalGoals', 0.007597340930674212), ('TotalPtsPost', 0.007597340930674212), ('TotalGoalsPost', 0.007597340930674212), ('TotalGWG', 0.007597340930674212), ('TotalGWGPost', 0.007597340930674212), ('shootCatch', -0.00047483380816715215)]
+	Approx. Trend Groups: [['\ufeffheight', 'weight', 'shootCatch', 'pos', 'birthCountry', 'MarjorAwards', 'AllStarTeams', 'TotalPts', 'TotalGoals', 'TotalPtsPost', 'TotalGoalsPost', 'TotalGWG', 'TotalGWGPost']]
+Ranked Features by BCR: [('\ufeffheight', 0.22231182795698923), ('weight', 0.22231182795698923), ('pos', 0.22231182795698923), ('birthCountry', 0.22231182795698923), ('MarjorAwards', 0.22231182795698923), ('AllStarTeams', 0.22231182795698923), ('TotalPts', 0.22231182795698923), ('TotalGoals', 0.22231182795698923), ('TotalPtsPost', 0.22231182795698923), ('TotalGoalsPost', 0.22231182795698923), ('TotalGWG', 0.22231182795698923), ('TotalGWGPost', 0.22231182795698923), ('shootCatch', 0.040200391006842584)]
+	Approx. Trend Groups: [['\ufeffheight', 'weight', 'pos', 'birthCountry', 'TotalPts', 'TotalGoals', 'TotalPtsPost', 'TotalGoalsPost', 'TotalGWGPost'], ['MarjorAwards'], ['TotalGWG'], ['AllStarTeams'], ['shootCatch']]

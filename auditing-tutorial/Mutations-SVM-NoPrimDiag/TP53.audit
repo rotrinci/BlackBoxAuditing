@@ -1,0 +1,12 @@
+GFA Audit for:TP53
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 131, "GBM": 24}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 127, "GBM": 28}, "GBM": {"GBM": 118, "LGG": 13}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 127, "GBM": 28}, "GBM": {"GBM": 118, "LGG": 13}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 125, "GBM": 30}, "GBM": {"GBM": 112, "LGG": 19}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 125, "GBM": 30}, "GBM": {"GBM": 113, "LGG": 18}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 121, "GBM": 34}, "GBM": {"GBM": 110, "LGG": 21}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 122, "GBM": 33}, "GBM": {"LGG": 20, "GBM": 111}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 123, "GBM": 32}, "GBM": {"GBM": 111, "LGG": 20}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 122, "GBM": 33}, "GBM": {"LGG": 22, "GBM": 109}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 113, "GBM": 42}, "GBM": {"GBM": 106, "LGG": 25}}]
+Mutations-SVM-NoPrimDiag/TP53.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 112, "GBM": 43}, "GBM": {"LGG": 27, "GBM": 104}}]

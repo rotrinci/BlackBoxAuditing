@@ -1,0 +1,335 @@
+Pre-Repaired Feature,Response,Prediction
+<100,bad,bad
+no known savings,good,good
+<100,bad,bad
+<100,bad,bad
+100<=X<500,bad,bad
+no known savings,good,bad
+<100,good,good
+100<=X<500,good,bad
+<100,good,good
+<100,bad,good
+<100,good,good
+<100,good,bad
+100<=X<500,good,bad
+100<=X<500,good,good
+no known savings,good,bad
+<100,bad,bad
+no known savings,good,good
+<100,good,good
+<100,bad,good
+no known savings,good,bad
+no known savings,good,good
+<100,good,bad
+no known savings,bad,good
+<100,good,bad
+<100,bad,bad
+<100,good,good
+<100,bad,bad
+<100,good,bad
+100<=X<500,good,good
+<100,good,bad
+no known savings,good,good
+<100,good,bad
+<100,bad,good
+500<=X<1000,good,bad
+no known savings,bad,good
+no known savings,good,good
+<100,bad,bad
+no known savings,good,bad
+<100,bad,bad
+100<=X<500,good,good
+no known savings,good,good
+500<=X<1000,bad,bad
+no known savings,good,good
+<100,good,good
+>=1000,good,good
+<100,good,bad
+<100,bad,good
+100<=X<500,good,bad
+100<=X<500,good,good
+<100,good,good
+100<=X<500,good,good
+<100,good,good
+<100,good,good
+<100,good,good
+500<=X<1000,good,good
+500<=X<1000,good,good
+<100,bad,bad
+<100,bad,good
+<100,good,good
+<100,bad,bad
+<100,bad,bad
+<100,good,bad
+100<=X<500,bad,bad
+<100,bad,bad
+<100,good,bad
+<100,good,bad
+>=1000,good,good
+no known savings,good,good
+no known savings,good,good
+<100,good,good
+no known savings,good,bad
+<100,good,bad
+no known savings,good,good
+<100,good,good
+>=1000,bad,good
+<100,bad,bad
+<100,bad,good
+<100,good,bad
+500<=X<1000,good,good
+100<=X<500,good,good
+no known savings,bad,good
+100<=X<500,bad,bad
+no known savings,bad,bad
+<100,good,good
+<100,good,good
+500<=X<1000,good,good
+<100,good,good
+100<=X<500,good,good
+<100,bad,bad
+no known savings,good,good
+<100,good,good
+<100,good,good
+<100,good,good
+<100,good,good
+<100,bad,bad
+no known savings,good,good
+no known savings,good,good
+500<=X<1000,good,bad
+<100,bad,bad
+<100,good,good
+no known savings,good,bad
+100<=X<500,good,good
+<100,good,good
+<100,good,bad
+<100,good,good
+<100,bad,bad
+<100,bad,bad
+no known savings,good,good
+>=1000,good,bad
+<100,good,good
+500<=X<1000,bad,bad
+<100,good,bad
+>=1000,good,good
+<100,good,good
+no known savings,good,good
+<100,good,good
+100<=X<500,bad,good
+no known savings,bad,bad
+<100,good,good
+<100,good,bad
+<100,good,good
+<100,bad,good
+no known savings,good,good
+<100,bad,good
+<100,good,good
+no known savings,good,bad
+<100,good,good
+no known savings,good,good
+<100,good,good
+no known savings,good,good
+<100,bad,bad
+<100,bad,good
+<100,good,good
+<100,bad,good
+<100,good,bad
+no known savings,good,bad
+no known savings,good,good
+<100,good,bad
+<100,good,good
+<100,bad,good
+no known savings,bad,bad
+<100,good,good
+500<=X<1000,good,good
+no known savings,bad,good
+<100,good,bad
+100<=X<500,good,good
+<100,good,bad
+<100,bad,bad
+<100,bad,bad
+<100,good,good
+no known savings,good,good
+>=1000,bad,bad
+<100,good,good
+<100,bad,good
+<100,good,good
+<100,good,bad
+<100,good,bad
+no known savings,good,bad
+<100,good,good
+<100,good,good
+<100,bad,good
+<100,good,good
+<100,good,good
+100<=X<500,bad,bad
+<100,bad,good
+<100,good,good
+100<=X<500,good,bad
+<100,good,good
+<100,good,bad
+>=1000,good,bad
+500<=X<1000,good,good
+<100,bad,bad
+<100,good,bad
+<100,good,good
+no known savings,bad,good
+100<=X<500,bad,good
+<100,good,bad
+<100,good,bad
+100<=X<500,good,good
+<100,good,good
+no known savings,good,good
+<100,good,good
+<100,bad,good
+100<=X<500,good,good
+<100,good,good
+100<=X<500,good,good
+<100,good,bad
+no known savings,bad,bad
+<100,bad,good
+<100,bad,bad
+<100,good,good
+<100,good,bad
+100<=X<500,bad,good
+<100,bad,good
+<100,bad,good
+<100,good,good
+<100,good,bad
+no known savings,good,good
+<100,good,good
+<100,bad,bad
+no known savings,good,good
+<100,bad,good
+<100,good,good
+<100,good,good
+<100,bad,good
+<100,good,bad
+<100,bad,bad
+<100,bad,bad
+<100,bad,good
+<100,good,good
+100<=X<500,bad,bad
+<100,good,good
+100<=X<500,bad,bad
+<100,good,good
+no known savings,bad,good
+<100,bad,bad
+<100,good,good
+<100,good,bad
+<100,good,bad
+no known savings,bad,good
+100<=X<500,bad,bad
+no known savings,good,good
+<100,good,good
+<100,good,good
+100<=X<500,good,good
+<100,good,good
+500<=X<1000,good,good
+<100,good,good
+100<=X<500,bad,good
+no known savings,good,good
+100<=X<500,good,bad
+<100,good,bad
+no known savings,good,good
+<100,good,good
+<100,good,good
+<100,good,good
+<100,good,good
+500<=X<1000,bad,good
+<100,good,good
+500<=X<1000,good,bad
+no known savings,good,good
+<100,good,good
+<100,bad,bad
+no known savings,good,bad
+<100,bad,good
+500<=X<1000,good,good
+<100,bad,bad
+<100,good,bad
+100<=X<500,good,bad
+<100,good,good
+<100,good,good
+<100,bad,bad
+<100,good,good
+no known savings,bad,good
+<100,bad,good
+<100,good,good
+<100,good,good
+no known savings,good,good
+<100,bad,good
+100<=X<500,good,good
+500<=X<1000,good,bad
+<100,good,good
+>=1000,good,good
+>=1000,good,good
+no known savings,good,good
+<100,bad,bad
+no known savings,good,good
+<100,good,good
+no known savings,good,good
+no known savings,good,good
+<100,good,bad
+<100,bad,bad
+<100,good,good
+<100,bad,bad
+<100,bad,bad
+<100,good,good
+<100,good,good
+<100,good,good
+<100,bad,good
+no known savings,good,bad
+500<=X<1000,good,good
+<100,bad,bad
+<100,good,good
+<100,good,good
+no known savings,good,good
+<100,good,good
+<100,good,good
+<100,bad,good
+<100,bad,good
+<100,good,bad
+<100,good,good
+no known savings,good,bad
+<100,good,good
+<100,bad,good
+<100,good,good
+no known savings,good,good
+no known savings,good,bad
+<100,bad,bad
+no known savings,good,bad
+no known savings,good,good
+<100,good,bad
+>=1000,good,good
+no known savings,good,good
+no known savings,good,good
+no known savings,good,bad
+<100,bad,good
+100<=X<500,good,good
+100<=X<500,bad,bad
+<100,bad,good
+<100,bad,bad
+<100,good,good
+<100,bad,good
+<100,good,good
+500<=X<1000,good,bad
+<100,good,bad
+<100,good,good
+500<=X<1000,good,good
+<100,good,good
+>=1000,good,bad
+<100,good,good
+<100,good,good
+<100,good,bad
+no known savings,good,bad
+<100,good,good
+<100,good,bad
+<100,bad,bad
+<100,good,good
+500<=X<1000,good,bad
+no known savings,good,bad
+<100,bad,good
+<100,bad,bad
+<100,good,good
+<100,good,good
+<100,good,good

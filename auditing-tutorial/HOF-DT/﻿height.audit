@@ -1,0 +1,12 @@
+GFA Audit for:﻿height
+HOF-DT/﻿height.audit.test.repaired_0.0.data:[0.0, {"No": {"No": 2003, "Yes": 43}, "Yes": {"Yes": 36, "No": 24}}]
+HOF-DT/﻿height.audit.test.repaired_0.1.data:[0.1, {"No": {"No": 2023, "Yes": 23}, "Yes": {"Yes": 30, "No": 30}}]
+HOF-DT/﻿height.audit.test.repaired_0.2.data:[0.2, {"No": {"No": 2025, "Yes": 21}, "Yes": {"Yes": 24, "No": 36}}]
+HOF-DT/﻿height.audit.test.repaired_0.3.data:[0.30000000000000004, {"No": {"No": 2031, "Yes": 15}, "Yes": {"Yes": 18, "No": 42}}]
+HOF-DT/﻿height.audit.test.repaired_0.4.data:[0.4, {"No": {"No": 2036, "Yes": 10}, "Yes": {"Yes": 17, "No": 43}}]
+HOF-DT/﻿height.audit.test.repaired_0.5.data:[0.5, {"No": {"No": 2041, "Yes": 5}, "Yes": {"No": 52, "Yes": 8}}]
+HOF-DT/﻿height.audit.test.repaired_0.6.data:[0.6, {"No": {"Yes": 457, "No": 1589}, "Yes": {"No": 49, "Yes": 11}}]
+HOF-DT/﻿height.audit.test.repaired_0.7.data:[0.7, {"No": {"Yes": 1400, "No": 646}, "Yes": {"No": 47, "Yes": 13}}]
+HOF-DT/﻿height.audit.test.repaired_0.8.data:[0.7999999999999999, {"No": {"Yes": 1404, "No": 642}, "Yes": {"No": 46, "Yes": 14}}]
+HOF-DT/﻿height.audit.test.repaired_0.9.data:[0.8999999999999999, {"No": {"Yes": 1411, "No": 635}, "Yes": {"No": 49, "Yes": 11}}]
+HOF-DT/﻿height.audit.test.repaired_1.0.data:[0.9999999999999999, {"No": {"Yes": 2046}, "Yes": {"Yes": 60}}]

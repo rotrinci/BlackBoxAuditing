@@ -1,0 +1,12 @@
+GFA Audit for:oxlikemaximalprojectionradiusMin
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 829, "0.0": 80}, "0.0": {"1.0": 231, "0.0": 179}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 825, "0.0": 84}, "0.0": {"1.0": 234, "0.0": 176}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 819, "0.0": 90}, "0.0": {"1.0": 230, "0.0": 180}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 822, "0.0": 87}, "0.0": {"1.0": 230, "0.0": 180}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 801, "0.0": 108}, "0.0": {"1.0": 235, "0.0": 175}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 770, "0.0": 139}, "0.0": {"1.0": 240, "0.0": 170}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 153, "1.0": 756}, "0.0": {"1.0": 234, "0.0": 176}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 746, "0.0": 163}, "0.0": {"1.0": 243, "0.0": 167}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 719, "0.0": 190}, "0.0": {"1.0": 247, "0.0": 163}}]
+Dark-Reaction-SVM/oxlikemaximalprojectionradiusMin.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 204, "1.0": 705}, "0.0": {"1.0": 265, "0.0": 145}}]

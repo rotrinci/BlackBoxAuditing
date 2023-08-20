@@ -1,0 +1,12 @@
+GFA Audit for:orgASA_HMax
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 840, "0.0": 69}, "0.0": {"1.0": 239, "0.0": 171}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 840, "0.0": 69}, "0.0": {"1.0": 257, "0.0": 153}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 837, "0.0": 72}, "0.0": {"1.0": 264, "0.0": 146}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 837, "0.0": 72}, "0.0": {"1.0": 273, "0.0": 137}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 829, "0.0": 80}, "0.0": {"1.0": 289, "0.0": 121}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 890, "0.0": 19}, "0.0": {"1.0": 373, "0.0": 37}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 889, "0.0": 20}, "0.0": {"1.0": 382, "0.0": 28}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 892, "0.0": 17}, "0.0": {"1.0": 390, "0.0": 20}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 886, "0.0": 23}, "0.0": {"1.0": 391, "0.0": 19}}]
+Dark-Reaction-SVM/orgASA_HMax.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 893, "0.0": 16}, "0.0": {"1.0": 398, "0.0": 12}}]

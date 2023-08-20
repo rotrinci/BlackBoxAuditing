@@ -1,0 +1,12 @@
+GFA Audit for:orghbdamsdonMax
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 840, "0.0": 69}, "0.0": {"1.0": 201, "0.0": 209}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.2.data:[0.2, {"1.0": {"0.0": 94, "1.0": 815}, "0.0": {"0.0": 193, "1.0": 217}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 747, "0.0": 162}, "0.0": {"1.0": 202, "0.0": 208}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 723, "0.0": 186}, "0.0": {"1.0": 192, "0.0": 218}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 676, "0.0": 233}, "0.0": {"1.0": 181, "0.0": 229}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 855, "0.0": 54}, "0.0": {"1.0": 361, "0.0": 49}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 863, "0.0": 46}, "0.0": {"1.0": 367, "0.0": 43}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 846, "0.0": 63}, "0.0": {"1.0": 375, "0.0": 35}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 748, "0.0": 161}, "0.0": {"1.0": 333, "0.0": 77}}]
+Dark-Reaction-NN/orghbdamsdonMax.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 722, "0.0": 187}, "0.0": {"1.0": 323, "0.0": 87}}]

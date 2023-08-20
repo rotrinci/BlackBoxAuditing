@@ -1,0 +1,12 @@
+GFA Audit for:NOTCH1
+Mutations-NN/NOTCH1.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 162}, "GBM": {"GBM": 124}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 162}, "GBM": {"GBM": 114, "LGG": 10}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"LGG": 14, "GBM": 110}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 158, "GBM": 4}, "GBM": {"LGG": 24, "GBM": 100}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"GBM": 96, "LGG": 28}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"GBM": 89, "LGG": 35}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"LGG": 56, "GBM": 68}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"GBM": 51, "LGG": 73}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"LGG": 84, "GBM": 40}}]
+Mutations-NN/NOTCH1.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 160, "GBM": 2}, "GBM": {"LGG": 102, "GBM": 22}}]
+Mutations-NN/NOTCH1.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 162}, "GBM": {"LGG": 124}}]

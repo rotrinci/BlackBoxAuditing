@@ -1,0 +1,12 @@
+GFA Audit for:FUBP1
+Mutations-DT/FUBP1.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 162}, "GBM": {"GBM": 124}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 160, "GBM": 2}, "GBM": {"GBM": 118, "LGG": 6}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 158, "GBM": 4}, "GBM": {"GBM": 112, "LGG": 12}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 155, "GBM": 7}, "GBM": {"GBM": 104, "LGG": 20}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 151, "GBM": 11}, "GBM": {"GBM": 90, "LGG": 34}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 156, "GBM": 6}, "GBM": {"GBM": 91, "LGG": 33}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 152, "GBM": 10}, "GBM": {"LGG": 48, "GBM": 76}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 147, "GBM": 15}, "GBM": {"LGG": 63, "GBM": 61}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 154, "GBM": 8}, "GBM": {"GBM": 47, "LGG": 77}}]
+Mutations-DT/FUBP1.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 156, "GBM": 6}, "GBM": {"LGG": 102, "GBM": 22}}]
+Mutations-DT/FUBP1.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 162}, "GBM": {"LGG": 124}}]

@@ -1,0 +1,12 @@
+GFA Audit for:B
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.0.data:[0.0, {"False": {"False": 1002, "True": 3}, "True": {"True": 995}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.1.data:[0.1, {"False": {"False": 979, "True": 26}, "True": {"True": 981, "False": 14}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.2.data:[0.2, {"False": {"False": 982, "True": 23}, "True": {"True": 963, "False": 32}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.3.data:[0.30000000000000004, {"False": {"False": 983, "True": 22}, "True": {"True": 947, "False": 48}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.4.data:[0.4, {"False": {"False": 984, "True": 21}, "True": {"True": 908, "False": 87}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.5.data:[0.5, {"False": {"False": 985, "True": 20}, "True": {"True": 873, "False": 122}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.6.data:[0.6, {"False": {"False": 986, "True": 19}, "True": {"True": 808, "False": 187}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.7.data:[0.7, {"False": {"False": 980, "True": 25}, "True": {"True": 682, "False": 313}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.8.data:[0.7999999999999999, {"False": {"False": 980, "True": 25}, "True": {"True": 494, "False": 501}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_0.9.data:[0.8999999999999999, {"False": {"False": 988, "True": 17}, "True": {"True": 193, "False": 802}}]
+synthetic-audit-output-NN-Const/B.audit.test.repaired_1.0.data:[0.9999999999999999, {"False": {"False": 1005}, "True": {"False": 995}}]

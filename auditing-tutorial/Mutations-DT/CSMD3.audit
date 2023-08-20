@@ -1,0 +1,12 @@
+GFA Audit for:CSMD3
+Mutations-DT/CSMD3.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 162}, "GBM": {"GBM": 124}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 161, "GBM": 1}, "GBM": {"GBM": 122, "LGG": 2}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"GBM": 121, "LGG": 3}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 158, "GBM": 4}, "GBM": {"GBM": 118, "LGG": 6}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 160, "GBM": 2}, "GBM": {"GBM": 115, "LGG": 9}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 156, "GBM": 6}, "GBM": {"GBM": 116, "LGG": 8}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 154, "GBM": 8}, "GBM": {"GBM": 111, "LGG": 13}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 152, "GBM": 10}, "GBM": {"GBM": 113, "LGG": 11}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 155, "GBM": 7}, "GBM": {"LGG": 12, "GBM": 112}}]
+Mutations-DT/CSMD3.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 152, "GBM": 10}, "GBM": {"GBM": 101, "LGG": 23}}]
+Mutations-DT/CSMD3.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"GBM": 12, "LGG": 150}, "GBM": {"LGG": 18, "GBM": 106}}]

@@ -1,0 +1,12 @@
+GFA Audit for:jpiers
+MHS-DT/jpiers.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 433, "0": 77}, "0": {"1": 87, "0": 323}}]
+MHS-DT/jpiers.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 429, "0": 81}, "0": {"1": 93, "0": 317}}]
+MHS-DT/jpiers.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 429, "0": 81}, "0": {"1": 103, "0": 307}}]
+MHS-DT/jpiers.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 423, "0": 87}, "0": {"1": 109, "0": 301}}]
+MHS-DT/jpiers.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 424, "0": 86}, "0": {"1": 109, "0": 301}}]
+MHS-DT/jpiers.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 419, "0": 91}, "0": {"1": 115, "0": 295}}]
+MHS-DT/jpiers.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 417, "0": 93}, "0": {"1": 113, "0": 297}}]
+MHS-DT/jpiers.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 417, "0": 93}, "0": {"1": 107, "0": 303}}]
+MHS-DT/jpiers.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 420, "0": 90}, "0": {"1": 123, "0": 287}}]
+MHS-DT/jpiers.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 414, "0": 96}, "0": {"1": 122, "0": 288}}]
+MHS-DT/jpiers.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 419, "0": 91}, "0": {"1": 132, "0": 278}}]

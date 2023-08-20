@@ -1,0 +1,12 @@
+GFA Audit for:oxlikepolarsurfaceareaArithAvg
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 762, "0.0": 147}, "0.0": {"0.0": 243, "1.0": 167}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 768, "0.0": 141}, "0.0": {"0.0": 217, "1.0": 193}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 676, "0.0": 233}, "0.0": {"0.0": 215, "1.0": 195}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"0.0": 241, "1.0": 668}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 253, "1.0": 656}, "0.0": {"0.0": 203, "1.0": 207}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 598, "0.0": 311}, "0.0": {"1.0": 231, "0.0": 179}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 607, "0.0": 302}, "0.0": {"1.0": 235, "0.0": 175}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 624, "0.0": 285}, "0.0": {"1.0": 261, "0.0": 149}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 651, "0.0": 258}, "0.0": {"1.0": 283, "0.0": 127}}]
+Dark-Reaction-DT/oxlikepolarsurfaceareaArithAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 665, "0.0": 244}, "0.0": {"1.0": 317, "0.0": 93}}]

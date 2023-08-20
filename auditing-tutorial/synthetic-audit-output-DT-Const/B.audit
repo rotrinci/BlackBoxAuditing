@@ -1,0 +1,12 @@
+GFA Audit for:B
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.0.data:[0.0, {"False": {"False": 1005}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.1.data:[0.1, {"False": {"False": 1005}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.2.data:[0.2, {"False": {"False": 1005}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.3.data:[0.30000000000000004, {"False": {"False": 993, "True": 12}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.4.data:[0.4, {"False": {"False": 977, "True": 28}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.5.data:[0.5, {"False": {"False": 962, "True": 43}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.6.data:[0.6, {"False": {"False": 945, "True": 60}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.7.data:[0.7, {"False": {"False": 899, "True": 106}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.8.data:[0.7999999999999999, {"False": {"False": 822, "True": 183}, "True": {"False": 5, "True": 990}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_0.9.data:[0.8999999999999999, {"False": {"False": 594, "True": 411}, "True": {"False": 26, "True": 969}}]
+synthetic-audit-output-DT-Const/B.audit.test.repaired_1.0.data:[0.9999999999999999, {"False": {"False": 257, "True": 748}, "True": {"False": 199, "True": 796}}]

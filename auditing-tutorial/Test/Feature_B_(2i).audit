@@ -1,0 +1,12 @@
+GFA Audit for:Feature B (2i)
+Test/Feature_B_(2i).audit.test.repaired_0.0.data:[0.0, {"A": {"A": 1024}, "B": {"B": 976}}]
+Test/Feature_B_(2i).audit.test.repaired_0.1.data:[0.1, {"A": {"A": 1018, "B": 6}, "B": {"B": 974, "A": 2}}]
+Test/Feature_B_(2i).audit.test.repaired_0.2.data:[0.2, {"A": {"A": 1008, "B": 16}, "B": {"B": 971, "A": 5}}]
+Test/Feature_B_(2i).audit.test.repaired_0.3.data:[0.30000000000000004, {"A": {"A": 984, "B": 40}, "B": {"B": 972, "A": 4}}]
+Test/Feature_B_(2i).audit.test.repaired_0.4.data:[0.4, {"A": {"A": 965, "B": 59}, "B": {"B": 967, "A": 9}}]
+Test/Feature_B_(2i).audit.test.repaired_0.5.data:[0.5, {"A": {"A": 911, "B": 113}, "B": {"B": 954, "A": 22}}]
+Test/Feature_B_(2i).audit.test.repaired_0.6.data:[0.6, {"A": {"A": 871, "B": 153}, "B": {"B": 950, "A": 26}}]
+Test/Feature_B_(2i).audit.test.repaired_0.7.data:[0.7, {"A": {"A": 808, "B": 216}, "B": {"B": 938, "A": 38}}]
+Test/Feature_B_(2i).audit.test.repaired_0.8.data:[0.7999999999999999, {"A": {"A": 706, "B": 318}, "B": {"B": 918, "A": 58}}]
+Test/Feature_B_(2i).audit.test.repaired_0.9.data:[0.8999999999999999, {"A": {"A": 635, "B": 389}, "B": {"B": 918, "A": 58}}]
+Test/Feature_B_(2i).audit.test.repaired_1.0.data:[0.9999999999999999, {"A": {"B": 465, "A": 559}, "B": {"B": 896, "A": 80}}]

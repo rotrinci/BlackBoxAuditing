@@ -1,0 +1,12 @@
+GFA Audit for:G1
+Student-SVM/G1.audit.test.repaired_0.0.data:[0.0, {"0": {"0": 86, "1": 24}, "1": {"1": 98, "0": 9}}]
+Student-SVM/G1.audit.test.repaired_0.1.data:[0.1, {"0": {"0": 85, "1": 25}, "1": {"1": 99, "0": 8}}]
+Student-SVM/G1.audit.test.repaired_0.2.data:[0.2, {"0": {"0": 83, "1": 27}, "1": {"1": 97, "0": 10}}]
+Student-SVM/G1.audit.test.repaired_0.3.data:[0.30000000000000004, {"0": {"1": 30, "0": 80}, "1": {"1": 99, "0": 8}}]
+Student-SVM/G1.audit.test.repaired_0.4.data:[0.4, {"0": {"0": 82, "1": 28}, "1": {"1": 97, "0": 10}}]
+Student-SVM/G1.audit.test.repaired_0.5.data:[0.5, {"0": {"0": 81, "1": 29}, "1": {"1": 99, "0": 8}}]
+Student-SVM/G1.audit.test.repaired_0.6.data:[0.6, {"0": {"1": 30, "0": 80}, "1": {"1": 85, "0": 22}}]
+Student-SVM/G1.audit.test.repaired_0.7.data:[0.7, {"0": {"1": 28, "0": 82}, "1": {"0": 23, "1": 84}}]
+Student-SVM/G1.audit.test.repaired_0.8.data:[0.7999999999999999, {"0": {"1": 42, "0": 68}, "1": {"0": 29, "1": 78}}]
+Student-SVM/G1.audit.test.repaired_0.9.data:[0.8999999999999999, {"0": {"1": 48, "0": 62}, "1": {"0": 48, "1": 59}}]
+Student-SVM/G1.audit.test.repaired_1.0.data:[0.9999999999999999, {"0": {"1": 52, "0": 58}, "1": {"0": 46, "1": 61}}]

@@ -1,0 +1,12 @@
+GFA Audit for:AllStarTeams
+HOF-NN/AllStarTeams.audit.test.repaired_0.0.data:[0.0, {"No": {"No": 2024, "Yes": 22}, "Yes": {"Yes": 38, "No": 22}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.1.data:[0.1, {"No": {"No": 2027, "Yes": 19}, "Yes": {"Yes": 33, "No": 27}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.2.data:[0.2, {"No": {"No": 2040, "Yes": 6}, "Yes": {"Yes": 22, "No": 38}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.3.data:[0.30000000000000004, {"No": {"No": 2041, "Yes": 5}, "Yes": {"Yes": 21, "No": 39}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.4.data:[0.4, {"No": {"No": 2040, "Yes": 6}, "Yes": {"Yes": 15, "No": 45}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.5.data:[0.5, {"No": {"No": 2043, "Yes": 3}, "Yes": {"Yes": 11, "No": 49}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.6.data:[0.6, {"No": {"No": 2045, "Yes": 1}, "Yes": {"No": 54, "Yes": 6}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.7.data:[0.7, {"No": {"No": 2044, "Yes": 2}, "Yes": {"No": 57, "Yes": 3}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.8.data:[0.7999999999999999, {"No": {"No": 2044, "Yes": 2}, "Yes": {"No": 54, "Yes": 6}}]
+HOF-NN/AllStarTeams.audit.test.repaired_0.9.data:[0.8999999999999999, {"No": {"No": 2046}, "Yes": {"No": 59, "Yes": 1}}]
+HOF-NN/AllStarTeams.audit.test.repaired_1.0.data:[0.9999999999999999, {"No": {"No": 2046}, "Yes": {"No": 60}}]

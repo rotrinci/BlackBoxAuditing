@@ -1,0 +1,15 @@
+Audit Start Time: 2023-07-29 12:20:29.398220
+Audit End Time: 2023-07-29 12:20:49.736302
+Retrained Per Repair: False
+Model Factory ID: 1690647629.398263
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 232
+Test Size: 117
+Non-standard Ignored Features: []
+Features: ['Disease', 'Fever', 'Cough', 'Fatigue', 'Difficulty Breathing', 'Age', 'Gender', 'Blood Pressure', 'Cholesterol Level', 'Outcome']
+
+Ranked Features by accuracy: [('Disease', 0.23076923076923073), ('Cholesterol Level', 0.21367521367521358), ('Blood Pressure', 0.16239316239316237), ('Difficulty Breathing', 0.15384615384615385), ('Age', 0.15384615384615385), ('Fatigue', 0.14529914529914523), ('Cough', 0.11965811965811957), ('Fever', 0.09401709401709402), ('Gender', 0.05982905982905984)]
+	Approx. Trend Groups: [['Disease'], ['Cholesterol Level'], ['Fever'], ['Blood Pressure'], ['Fatigue'], ['Cough'], ['Difficulty Breathing'], ['Age'], ['Gender']]
+Ranked Features by BCR: [('Disease', 0.2567448680351906), ('Cholesterol Level', 0.2262463343108504), ('Age', 0.16774193548387095), ('Blood Pressure', 0.1624633431085044), ('Fatigue', 0.15762463343108502), ('Difficulty Breathing', 0.15747800586510252), ('Cough', 0.12521994134897352), ('Fever', 0.09178885630498534), ('Gender', 0.06158357771261003)]
+	Approx. Trend Groups: [['Disease'], ['Cholesterol Level'], ['Fever'], ['Blood Pressure'], ['Fatigue'], ['Cough'], ['Difficulty Breathing'], ['Age'], ['Gender']]

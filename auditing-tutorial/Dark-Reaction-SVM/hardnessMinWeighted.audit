@@ -1,0 +1,12 @@
+GFA Audit for:hardnessMinWeighted
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 845, "0.0": 64}, "0.0": {"1.0": 248, "0.0": 162}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 848, "0.0": 61}, "0.0": {"1.0": 258, "0.0": 152}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 857, "0.0": 52}, "0.0": {"1.0": 275, "0.0": 135}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 857, "0.0": 52}, "0.0": {"1.0": 296, "0.0": 114}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 867, "0.0": 42}, "0.0": {"1.0": 321, "0.0": 89}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 872, "0.0": 37}, "0.0": {"1.0": 345, "0.0": 65}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 882, "0.0": 27}, "0.0": {"1.0": 355, "0.0": 55}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 864, "0.0": 45}, "0.0": {"0.0": 29, "1.0": 381}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 872, "0.0": 37}, "0.0": {"1.0": 384, "0.0": 26}}]
+Dark-Reaction-SVM/hardnessMinWeighted.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 899, "0.0": 10}, "0.0": {"1.0": 398, "0.0": 12}}]

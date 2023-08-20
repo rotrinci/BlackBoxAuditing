@@ -1,0 +1,12 @@
+GFA Audit for:oxlikeASAMin
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 823, "0.0": 86}, "0.0": {"0.0": 205, "1.0": 205}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.2.data:[0.2, {"1.0": {"0.0": 150, "1.0": 759}, "0.0": {"0.0": 200, "1.0": 210}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"0.0": 210, "1.0": 699}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.4.data:[0.4, {"1.0": {"0.0": 226, "1.0": 683}, "0.0": {"0.0": 217, "1.0": 193}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 638, "0.0": 271}, "0.0": {"0.0": 229, "1.0": 181}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 626, "0.0": 283}, "0.0": {"1.0": 231, "0.0": 179}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 593, "0.0": 316}, "0.0": {"0.0": 208, "1.0": 202}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 594, "0.0": 315}, "0.0": {"0.0": 186, "1.0": 224}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 560, "0.0": 349}, "0.0": {"0.0": 192, "1.0": 218}}]
+Dark-Reaction-NN/oxlikeASAMin.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 571, "0.0": 338}, "0.0": {"0.0": 199, "1.0": 211}}]

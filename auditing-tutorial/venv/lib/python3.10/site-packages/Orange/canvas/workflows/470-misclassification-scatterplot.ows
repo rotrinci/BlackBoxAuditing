@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="Where are Misclassifications?" description="Cross-validation of, say, logistic regression can expose the data instances which were misclassified. There are six such instances for Iris Dataset and ridge-regularized logistic regression. We can select different types of misclassification in Confusion Matrix and highlight them in the Scatter Plot. No surprise: the misclassified instances are close to the class-bordering regions in the scatter plot projection.">
+	<nodes>
+		<node id="0" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File" position="(77.0, 71.0)" />
+		<node id="1" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test &amp; Score" position="(196.0, 149.0)" />
+		<node id="2" name="Logistic Regression" qualified_name="Orange.widgets.model.owlogisticregression.OWLogisticRegression" project_name="Orange3" version="" title="Logistic Regression" position="(69.0, 228.0)" />
+		<node id="3" name="Confusion Matrix" qualified_name="Orange.widgets.evaluate.owconfusionmatrix.OWConfusionMatrix" project_name="Orange3" version="" title="Confusion Matrix" position="(339.0, 148.0)" />
+		<node id="4" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(490.0, 44.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="train_data" />
+		<link id="1" source_node_id="2" sink_node_id="1" source_channel="Learner" sink_channel="Learner" enabled="true" source_channel_id="learner" sink_channel_id="learner" />
+		<link id="2" source_node_id="1" sink_node_id="3" source_channel="Evaluation Results" sink_channel="Evaluation Results" enabled="true" source_channel_id="evaluations_results" sink_channel_id="evaluation_results" />
+		<link id="3" source_node_id="0" sink_node_id="4" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="4" source_node_id="3" sink_node_id="4" source_channel="Selected Data" sink_channel="Data Subset" enabled="true" source_channel_id="selected_data" sink_channel_id="data_subset" />
+	</links>
+	<annotations>
+		<text id="0" type="text/plain" rect="(266.0, 236.0, 150.0, 72.0)" font-family="Helvetica" font-size="12">Shows different types of misclassifications. For Iris dataset, Iris virginica are confused with versicolor and vice versa.</text>
+		<text id="1" type="text/plain" rect="(469.0, 146.0, 150.0, 60.0)" font-family="Helvetica" font-size="12">Misclassifications for Iris datasets are best seen in petal length-petal width projection.</text>
+		<text id="2" type="text/plain" rect="(36.0, 319.0, 150.0, 48.0)" font-family="Helvetica" font-size="12">Replace logistic regression with any other classification method.</text>
+		<arrow id="3" start="(522.0, 142.0)" end="(494.0, 98.0)" fill="#C1272D" />
+		<arrow id="4" start="(335.0, 233.0)" end="(337.0, 199.0)" fill="#C1272D" />
+		<arrow id="5" start="(99.0, 316.0)" end="(82.0, 283.0)" fill="#39B54A" />
+	</annotations>
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="pickle">gASVvAMAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjAxyZWNlbnRfcGF0aHOUXZSMHm9y
+YW5nZXdpZGdldC51dGlscy5maWxlZGlhbG9nc5SMClJlY2VudFBhdGiUk5QpgZR9lCiMB2Fic3Bh
+dGiUjC0vVXNlcnMvamFuZXovb3JhbmdlMy9PcmFuZ2UvZGF0YXNldHMvaXJpcy50YWKUjAZwcmVm
+aXiUjA9zYW1wbGUtZGF0YXNldHOUjAdyZWxwYXRolIwIaXJpcy50YWKUjAV0aXRsZZSMAJSMBXNo
+ZWV0lGgQjAtmaWxlX2Zvcm1hdJROdWJhjAtyZWNlbnRfdXJsc5RdlIwTc2F2ZWRXaWRnZXRHZW9t
+ZXRyeZRDMgHZ0MsAAgAAAAACEwAAATwAAAQlAAADUgAAAhMAAAFSAAAEJQAAA1IAAAAAAAAAAAWg
+lIwLc2hlZXRfbmFtZXOUfZSMBnNvdXJjZZRLAIwDdXJslGgQjA1kb21haW5fZWRpdG9ylH2UjAtf
+X3ZlcnNpb25fX5RLAYwQY29udGV4dF9zZXR0aW5nc5RdlIwVb3Jhbmdld2lkZ2V0LnNldHRpbmdz
+lIwHQ29udGV4dJSTlCmBlH2UKIwEdGltZZRHQdanFk28/Q2MBnZhbHVlc5R9lCiMCXZhcmlhYmxl
+c5RdlGgbfZRoKF2UKF2UKIwMc2VwYWwgbGVuZ3RolIwUT3JhbmdlLmRhdGEudmFyaWFibGWUjBJD
+b250aW51b3VzVmFyaWFibGWUk5RLAGgQiGVdlCiMC3NlcGFsIHdpZHRolGgwSwBoEIhlXZQojAxw
+ZXRhbCBsZW5ndGiUaDBLAGgQiGVdlCiMC3BldGFsIHdpZHRolGgwSwBoEIhlXZQojARpcmlzlGgu
+jBBEaXNjcmV0ZVZhcmlhYmxllJOUSwGMLElyaXMtc2V0b3NhLCBJcmlzLXZlcnNpY29sb3IsIEly
+aXMtdmlyZ2luaWNhlIllZXNoHUsBdYwKYXR0cmlidXRlc5QojAxzZXBhbCBsZW5ndGiUSwKGlIwL
+c2VwYWwgd2lkdGiUSwKGlIwMcGV0YWwgbGVuZ3RolEsChpSMC3BldGFsIHdpZHRolEsChpR0lIwF
+bWV0YXOUKYwKY2xhc3NfdmFyc5SMBGlyaXOUXZQojAtJcmlzLXNldG9zYZSMD0lyaXMtdmVyc2lj
+b2xvcpSMDklyaXMtdmlyZ2luaWNhlGWGlIWUjBJtb2RpZmllZF92YXJpYWJsZXOUXZR1YmF1Lg==
+</properties>
+		<properties node_id="1" format="pickle">gASVjwMAAAAAAAB9lCiMFGNvbXBhcmlzb25fY3JpdGVyaW9ulEsAjBJjb250cm9sQXJlYVZpc2li
+bGWUiIwNY3Zfc3RyYXRpZmllZJSIjAduX2ZvbGRzlEsDjAluX3JlcGVhdHOUSwOMCnJlc2FtcGxp
+bmeUSwCMBHJvcGWURz+5mZmZmZmajAtzYW1wbGVfc2l6ZZRLCYwTc2F2ZWRXaWRnZXRHZW9tZXRy
+eZRDLgHZ0MsAAQAAAAADcgAAAnEAAAZ9AAAD+gAAA3IAAAKHAAAGfQAAA/oAAAAAAACUjBJzaHVm
+ZmxlX3N0cmF0aWZpZWSUiIwIdXNlX3JvcGWUiYwLc2NvcmVfdGFibGWUfZSMEHNob3dfc2NvcmVf
+aGludHOUfZQojAZNb2RlbF+UiIwGVHJhaW5flImMBVRlc3RflImMAkNBlIiMF1ByZWNpc2lvblJl
+Y2FsbEZTdXBwb3J0lIiMC1RhcmdldFNjb3JllIiMCVByZWNpc2lvbpSIjAZSZWNhbGyUiIwCRjGU
+iIwDQVVDlIiMB0xvZ0xvc3OUiYwLU3BlY2lmaWNpdHmUiYwXTWF0dGhld3NDb3JyQ29lZmZpY2ll
+bnSUiIwDTVNFlIiMBFJNU0WUiIwDTUFFlIiMAlIylIiMBkNWUk1TRZSJjA9DbHVzdGVyaW5nU2Nv
+cmWUiIwKU2lsaG91ZXR0ZZSIjBdBZGp1c3RlZE11dHVhbEluZm9TY29yZZSIdXOMC19fdmVyc2lv
+bl9flEsEjBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250
+ZXh0lJOUKYGUfZQojAR0aW1llEdB1qcWTcZskIwGdmFsdWVzlH2UKIwPY2xhc3Nfc2VsZWN0aW9u
+lIwhKE5vbmUsIHNob3cgYXZlcmFnZSBvdmVyIGNsYXNzZXMplEr/////hpSMDGZvbGRfZmVhdHVy
+ZZROSv7///+GlIwVZm9sZF9mZWF0dXJlX3NlbGVjdGVklIlK/v///4aUaA19lGgmSwR1jAphdHRy
+aWJ1dGVzlCiMDHNlcGFsIGxlbmd0aJRLAoaUjAtzZXBhbCB3aWR0aJRLAoaUjAxwZXRhbCBsZW5n
+dGiUSwKGlIwLcGV0YWwgd2lkdGiUSwKGlHSUjAVtZXRhc5QpjApjbGFzc192YXJzlIwEaXJpc5RL
+AYaUhZR1YmF1Lg==
+</properties>
+		<properties node_id="2" format="literal">{'C_index': 61, 'auto_apply': True, 'class_weight': False, 'controlAreaVisible': True, 'learner_name': 'Logistic Regression', 'penalty_type': 1, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x01\x00\x00\x00\x00\x04b\x00\x00\x02/\x00\x00\x05\x8e\x00\x00\x03L\x00\x00\x04b\x00\x00\x02E\x00\x00\x05\x8e\x00\x00\x03L\x00\x00\x00\x00\x00\x00', '__version__': 2}</properties>
+		<properties node_id="3" format="pickle">gASVsgEAAAAAAAB9lCiMEmFwcGVuZF9wcmVkaWN0aW9uc5SIjBRhcHBlbmRfcHJvYmFiaWxpdGll
+c5SJjAphdXRvY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21l
+dHJ5lEMuAdnQywABAAAAAAOBAAABvgAABm4AAAPAAAADgQAAAdQAAAZuAAADwAAAAAAAAJSMEHNl
+bGVjdGVkX2xlYXJuZXKUXZRLAGGMEXNlbGVjdGVkX3F1YW50aXR5lEsAjAtfX3ZlcnNpb25fX5RL
+AYwQY29udGV4dF9zZXR0aW5nc5RdlIwVb3Jhbmdld2lkZ2V0LnNldHRpbmdzlIwHQ29udGV4dJST
+lCmBlH2UKIwEdGltZZRHQdanFk3QbrWMB2NsYXNzZXOUXZQojAtJcmlzLXNldG9zYZSMD0lyaXMt
+dmVyc2ljb2xvcpSMDklyaXMtdmlyZ2luaWNhlGWMBnZhbHVlc5R9lCiMCXNlbGVjdGlvbpSPlChL
+AEsBhpRLAUsChpRLAksBhpRLAksAhpRLAEsChpRLAUsAhpSQaApLAXV1YmF1Lg==
+</properties>
+		<properties node_id="4" format="pickle">gASVEwMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
+VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lEMuAdnQywABAAAAAAWKAAABpgAACL8AAAR1
+AAAFigAAAbwAAAi/AAAEdQAAAAAAAJSMCXNlbGVjdGlvbpROjBF0b29sdGlwX3Nob3dzX2FsbJSI
+jA92aXN1YWxfc2V0dGluZ3OUfZSMBWdyYXBolH2UKIwLYWxwaGFfdmFsdWWUS4CMDWNsYXNzX2Rl
+bnNpdHmUiIwRaml0dGVyX2NvbnRpbnVvdXOUiIwLaml0dGVyX3NpemWUSwGME2xhYmVsX29ubHlf
+c2VsZWN0ZWSUiYwWb3J0aG9ub3JtYWxfcmVncmVzc2lvbpSJjAtwb2ludF93aWR0aJRLCowJc2hv
+d19ncmlklImMC3Nob3dfbGVnZW5klIiMDXNob3dfcmVnX2xpbmWUiXWMC19fdmVyc2lvbl9flEsF
+jBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOU
+KYGUfZQojA5vcmRlcmVkX2RvbWFpbpRdlCiMDHNlcGFsIGxlbmd0aJRLAoaUjAtzZXBhbCB3aWR0
+aJRLAoaUjAxwZXRhbCBsZW5ndGiUSwKGlIwLcGV0YWwgd2lkdGiUSwKGlIwEaXJpc5RLAYaUZYwK
+YXR0cmlidXRlc5R9lChoIEsCaCZLAmgkSwJoIksCaChLAXWMBnZhbHVlc5R9lCiMCmF0dHJfY29s
+b3KUjARpcmlzlEtlhpSMCmF0dHJfbGFiZWyUTkr+////hpSMCmF0dHJfc2hhcGWUTkr+////hpSM
+CWF0dHJfc2l6ZZROSv7///+GlIwGYXR0cl94lIwMcGV0YWwgbGVuZ3RolEtmhpSMBmF0dHJfeZSM
+C3BldGFsIHdpZHRolEtmhpRoCn2UaBZLBXWMBW1ldGFzlH2UjAR0aW1llEdB1qcWTdgAzXViYXUu
+</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>

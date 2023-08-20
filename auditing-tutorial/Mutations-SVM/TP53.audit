@@ -1,0 +1,12 @@
+GFA Audit for:TP53
+Mutations-SVM/TP53.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 129, "GBM": 28}, "GBM": {"GBM": 118, "LGG": 11}}]
+Mutations-SVM/TP53.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 127, "GBM": 30}, "GBM": {"GBM": 117, "LGG": 12}}]
+Mutations-SVM/TP53.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 123, "GBM": 34}, "GBM": {"GBM": 116, "LGG": 13}}]
+Mutations-SVM/TP53.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 124, "GBM": 33}, "GBM": {"GBM": 114, "LGG": 15}}]
+Mutations-SVM/TP53.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 127, "GBM": 30}, "GBM": {"GBM": 116, "LGG": 13}}]
+Mutations-SVM/TP53.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 118, "GBM": 39}, "GBM": {"GBM": 109, "LGG": 20}}]
+Mutations-SVM/TP53.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 120, "GBM": 37}, "GBM": {"GBM": 110, "LGG": 19}}]
+Mutations-SVM/TP53.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 124, "GBM": 33}, "GBM": {"GBM": 103, "LGG": 26}}]
+Mutations-SVM/TP53.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 116, "GBM": 41}, "GBM": {"GBM": 102, "LGG": 27}}]
+Mutations-SVM/TP53.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 107, "GBM": 50}, "GBM": {"GBM": 101, "LGG": 28}}]
+Mutations-SVM/TP53.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 114, "GBM": 43}, "GBM": {"GBM": 95, "LGG": 34}}]

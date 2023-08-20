@@ -1,0 +1,118 @@
+Pre-Repaired Feature,Response,Prediction
+Influenza,Positive,Positive
+Hyperthyroidism,Negative,Positive
+Gastroenteritis,Negative,Positive
+Depression,Positive,Positive
+Stroke,Positive,Positive
+Urinary Tract Infection,Positive,Positive
+Muscular Dystrophy,Negative,Positive
+Bipolar Disorder,Positive,Positive
+Eczema,Positive,Positive
+Influenza,Positive,Positive
+Urinary Tract Infection (UTI),Positive,Positive
+Asthma,Negative,Negative
+Pneumonia,Positive,Positive
+Allergic Rhinitis,Negative,Negative
+Asthma,Negative,Positive
+Asthma,Negative,Positive
+Eczema,Negative,Positive
+Epilepsy,Negative,Positive
+Obsessive-Compulsive Disorde...,Negative,Positive
+Pneumonia,Negative,Positive
+Cirrhosis,Positive,Positive
+Conjunctivitis (Pink Eye),Positive,Positive
+Hyperthyroidism,Positive,Positive
+Liver Cancer,Positive,Positive
+Pancreatitis,Positive,Positive
+Rheumatoid Arthritis,Positive,Positive
+Ulcerative Colitis,Positive,Negative
+Urinary Tract Infection,Positive,Positive
+Influenza,Negative,Negative
+Liver Disease,Negative,Negative
+Anxiety Disorders,Positive,Negative
+Bronchitis,Negative,Positive
+Cystic Fibrosis,Negative,Positive
+Diabetes,Negative,Positive
+Osteoarthritis,Negative,Positive
+Rabies,Negative,Negative
+Asthma,Positive,Positive
+Psoriasis,Positive,Positive
+Tuberculosis,Positive,Positive
+Tuberculosis,Positive,Positive
+Depression,Negative,Positive
+Migraine,Negative,Positive
+Osteoarthritis,Negative,Negative
+Stroke,Negative,Negative
+Hypothyroidism,Positive,Positive
+Hypothyroidism,Positive,Positive
+Kidney Disease,Positive,Negative
+Allergic Rhinitis,Negative,Positive
+Autism Spectrum Disorder (ASD),Negative,Positive
+Crohn's Disease,Negative,Positive
+Kidney Cancer,Negative,Negative
+Melanoma,Negative,Positive
+Turner Syndrome,Negative,Positive
+Turner Syndrome,Negative,Negative
+Urinary Tract Infection,Negative,Negative
+Zika Virus,Negative,Positive
+Zika Virus,Negative,Positive
+Cataracts,Positive,Positive
+Crohn's Disease,Positive,Positive
+Diabetes,Positive,Positive
+Liver Disease,Positive,Positive
+Multiple Sclerosis,Positive,Positive
+Osteoarthritis,Positive,Positive
+Pneumonia,Positive,Positive
+Sickle Cell Anemia,Positive,Positive
+Tetanus,Positive,Positive
+Anemia,Negative,Positive
+Crohn's Disease,Negative,Negative
+Depression,Negative,Positive
+Endometriosis,Negative,Positive
+Hypertension,Negative,Negative
+Kidney Cancer,Negative,Positive
+Sepsis,Negative,Negative
+Urinary Tract Infection,Negative,Positive
+Ebola Virus,Positive,Positive
+Eczema,Positive,Negative
+Klinefelter Syndrome,Positive,Negative
+Stroke,Positive,Negative
+Hypertension,Negative,Positive
+Bronchitis,Negative,Positive
+Common Cold,Negative,Positive
+HIV/AIDS,Negative,Positive
+Migraine,Negative,Positive
+Parkinson's Disease,Negative,Positive
+Coronary Artery Disease,Positive,Negative
+Hemorrhoids,Positive,Positive
+Hypothyroidism,Positive,Positive
+Osteoarthritis,Positive,Positive
+Osteoporosis,Positive,Positive
+Osteoporosis,Positive,Positive
+Typhoid Fever,Positive,Positive
+Coronary Artery Disease,Negative,Positive
+Coronary Artery Disease,Negative,Positive
+Measles,Negative,Positive
+Osteomyelitis,Negative,Positive
+Osteoporosis,Negative,Positive
+Hemophilia,Positive,Positive
+Hepatitis B,Positive,Positive
+Prader-Willi Syndrome,Positive,Positive
+Thyroid Cancer,Positive,Positive
+Tuberculosis,Positive,Positive
+Bladder Cancer,Negative,Positive
+Otitis Media (Ear Infection),Negative,Positive
+Alzheimer's Disease,Positive,Positive
+Alzheimer's Disease,Positive,Positive
+Bronchitis,Positive,Positive
+Chronic Obstructive Pulmonary Disease (COPD),Positive,Positive
+Diabetes,Positive,Negative
+Liver Cancer,Positive,Negative
+Lung Cancer,Positive,Positive
+Mumps,Positive,Positive
+Chronic Obstructive Pulmonary Disease (COPD),Negative,Negative
+Schizophrenia,Negative,Positive
+Stroke,Positive,Negative
+Stroke,Positive,Positive
+Stroke,Positive,Positive
+Stroke,Positive,Positive

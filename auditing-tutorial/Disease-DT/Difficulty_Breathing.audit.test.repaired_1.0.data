@@ -1,0 +1,118 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome
+Stroke,Yes,Yes,Yes,No,25,Female,Normal,Normal,Positive
+Urinary Tract Infection,No,Yes,No,No,25,Female,Normal,Normal,Negative
+Stroke,No,Yes,Yes,No,29,Male,High,Normal,Negative
+Tuberculosis,Yes,Yes,Yes,No,29,Male,High,Normal,Positive
+Stroke,Yes,Yes,Yes,No,29,Female,Normal,High,Positive
+Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,Low,Positive
+Stroke,Yes,No,Yes,No,30,Male,High,Normal,Negative
+Migraine,No,No,Yes,No,30,Male,High,High,Positive
+Osteoarthritis,Yes,Yes,No,No,30,Male,High,High,Positive
+Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive
+Stroke,Yes,Yes,No,No,30,Female,Normal,Normal,Positive
+Stroke,No,No,No,No,30,Male,Normal,Normal,Negative
+Depression,Yes,No,Yes,No,32,Female,High,Normal,Positive
+Depression,Yes,No,Yes,No,30,Female,High,Low,Negative
+Influenza,No,Yes,Yes,No,35,Female,Normal,Normal,Negative
+Liver Disease,No,Yes,Yes,No,35,Female,High,Normal,Negative
+Kidney Cancer,No,Yes,No,No,30,Male,High,Normal,Negative
+Influenza,No,No,Yes,No,30,Male,High,High,Negative
+Stroke,No,Yes,Yes,No,30,Male,Normal,Normal,Negative
+Osteoarthritis,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative
+Migraine,No,No,Yes,No,30,Male,Normal,High,Positive
+Stroke,No,Yes,No,No,30,Female,High,Normal,Positive
+Stroke,Yes,Yes,Yes,No,30,Male,High,Low,Positive
+Depression,Yes,No,Yes,No,30,Female,High,High,Positive
+Osteoporosis,No,No,Yes,No,30,Male,Normal,High,Positive
+Osteoarthritis,Yes,Yes,Yes,No,30,Male,Normal,Low,Positive
+Urinary Tract Infection,Yes,No,Yes,No,30,Male,High,High,Positive
+Urinary Tract Infection,Yes,No,Yes,No,30,Female,Normal,High,Positive
+Influenza,Yes,No,No,No,32,Male,High,Normal,Negative
+Influenza,No,Yes,No,No,38,Male,Normal,Low,Negative
+Tuberculosis,No,No,Yes,No,38,Male,Normal,High,Positive
+Kidney Cancer,No,No,No,No,40,Female,Normal,Normal,Negative
+Urinary Tract Infection,No,No,Yes,No,40,Male,High,High,Negative
+Osteoporosis,Yes,Yes,No,No,35,Female,High,High,Negative
+Kidney Cancer,No,No,Yes,No,35,Male,High,Normal,Negative
+Depression,Yes,Yes,No,No,35,Female,High,Normal,Negative
+Stroke,Yes,Yes,No,No,40,Female,Normal,Normal,Positive
+Influenza,No,Yes,No,No,35,Female,Normal,High,Positive
+Urinary Tract Infection,No,Yes,Yes,No,40,Male,High,High,Positive
+Stroke,Yes,Yes,Yes,No,40,Male,High,High,Positive
+Liver Disease,Yes,No,No,No,42,Male,High,Normal,Negative
+Migraine,Yes,Yes,Yes,No,38,Male,High,High,Negative
+Osteoarthritis,No,No,Yes,No,38,Male,Normal,Low,Negative
+Stroke,Yes,No,Yes,No,38,Male,Normal,Low,Negative
+Liver Disease,Yes,Yes,Yes,No,38,Female,High,High,Positive
+Stroke,Yes,Yes,Yes,No,38,Male,High,Low,Positive
+Urinary Tract Infection,Yes,Yes,Yes,No,38,Female,High,Low,Positive
+Urinary Tract Infection,No,Yes,Yes,No,40,Male,High,Normal,Negative
+Osteoarthritis,No,No,Yes,No,40,Male,Normal,Normal,Negative
+Tuberculosis,Yes,Yes,Yes,No,40,Male,High,Normal,Negative
+Osteoarthritis,No,Yes,Yes,No,45,Male,Normal,Low,Negative
+Influenza,Yes,No,Yes,No,40,Male,High,Normal,Negative
+Influenza,No,No,Yes,No,40,Male,High,High,Negative
+Kidney Cancer,No,No,Yes,No,40,Male,High,High,Negative
+Urinary Tract Infection,No,Yes,No,No,40,Female,Low,Normal,Negative
+Osteoarthritis,No,Yes,Yes,No,40,Male,High,Normal,Negative
+Depression,No,Yes,Yes,No,40,Male,High,Normal,Negative
+Stroke,No,Yes,Yes,No,40,Female,Normal,Normal,Positive
+Stroke,Yes,Yes,Yes,No,40,Female,High,High,Positive
+Migraine,Yes,No,Yes,No,40,Female,High,High,Positive
+Liver Disease,Yes,Yes,Yes,No,40,Female,High,High,Positive
+Urinary Tract Infection,Yes,No,No,No,40,Female,High,High,Positive
+Influenza,Yes,No,Yes,No,45,Male,High,Normal,Positive
+Influenza,Yes,Yes,Yes,No,45,Male,High,High,Positive
+Osteoporosis,No,No,Yes,No,40,Male,Normal,Normal,Positive
+Urinary Tract Infection,No,No,Yes,No,40,Male,Normal,High,Positive
+Kidney Cancer,No,No,Yes,No,40,Male,Normal,Normal,Negative
+Depression,Yes,No,Yes,No,40,Male,Normal,High,Negative
+Depression,No,Yes,Yes,No,40,Male,Normal,Low,Negative
+Osteoporosis,Yes,No,No,No,40,Male,High,Normal,Negative
+Urinary Tract Infection,No,Yes,No,No,40,Female,Normal,Low,Negative
+Kidney Cancer,Yes,Yes,No,No,40,Male,Low,High,Negative
+Urinary Tract Infection,Yes,Yes,Yes,No,40,Male,Normal,Normal,Negative
+Osteoporosis,Yes,Yes,No,No,50,Male,High,Low,Negative
+Stroke,Yes,Yes,Yes,No,50,Female,Normal,Normal,Positive
+Stroke,No,Yes,Yes,No,40,Female,High,Low,Positive
+Influenza,No,No,Yes,No,40,Female,Normal,Normal,Positive
+Migraine,No,Yes,Yes,No,50,Male,High,High,Positive
+Influenza,Yes,Yes,Yes,No,42,Male,Normal,Low,Negative
+Urinary Tract Infection,No,No,No,No,55,Male,High,High,Negative
+Osteoarthritis,No,No,Yes,No,55,Male,Normal,Low,Negative
+Osteoporosis,Yes,No,Yes,No,45,Female,High,High,Negative
+Stroke,No,Yes,Yes,No,55,Female,Normal,Normal,Negative
+Osteoporosis,No,No,Yes,No,45,Female,Normal,Low,Negative
+Osteoarthritis,No,No,Yes,No,45,Male,Normal,Normal,Positive
+Migraine,No,No,No,No,45,Female,High,Low,Positive
+Stroke,Yes,No,Yes,No,45,Female,High,High,Positive
+Osteoarthritis,Yes,Yes,No,No,45,Male,High,High,Positive
+Osteoarthritis,Yes,No,No,No,55,Male,High,Low,Positive
+Osteoporosis,Yes,No,Yes,No,45,Female,Normal,Normal,Positive
+Urinary Tract Infection,No,Yes,No,No,45,Male,Normal,Low,Positive
+Urinary Tract Infection,Yes,Yes,No,No,50,Male,High,High,Negative
+Stroke,Yes,Yes,Yes,No,50,Male,High,Normal,Negative
+Urinary Tract Infection,Yes,Yes,No,No,50,Female,High,Normal,Negative
+Kidney Cancer,Yes,Yes,Yes,No,50,Male,High,Normal,Negative
+Osteoporosis,No,Yes,Yes,No,50,Male,High,High,Negative
+Tuberculosis,Yes,Yes,Yes,No,50,Female,Normal,Normal,Positive
+Osteoarthritis,No,Yes,Yes,No,50,Male,Normal,Low,Positive
+Migraine,No,No,Yes,No,50,Male,Normal,Normal,Positive
+Osteoarthritis,Yes,No,Yes,No,50,Female,High,High,Positive
+Tuberculosis,Yes,Yes,Yes,No,50,Female,High,Low,Positive
+Stroke,No,No,Yes,No,55,Male,Normal,Normal,Negative
+Migraine,Yes,Yes,Yes,No,55,Male,Normal,Normal,Negative
+Tuberculosis,No,Yes,No,No,55,Male,Normal,High,Positive
+Urinary Tract Infection,Yes,Yes,No,No,55,Male,Normal,High,Positive
+Stroke,Yes,No,Yes,No,65,Male,High,High,Positive
+Stroke,Yes,No,Yes,No,65,Female,High,High,Positive
+Kidney Cancer,Yes,Yes,Yes,No,55,Female,Normal,High,Positive
+Influenza,Yes,Yes,Yes,No,55,Male,High,Normal,Positive
+Osteoarthritis,Yes,No,Yes,No,55,Female,Normal,High,Positive
+Osteoarthritis,No,No,Yes,No,55,Male,Normal,High,Positive
+Liver Disease,No,Yes,Yes,No,70,Male,Normal,High,Negative
+Tuberculosis,Yes,Yes,Yes,No,55,Male,Normal,Normal,Negative
+Stroke,Yes,Yes,No,No,55,Male,Normal,Normal,Positive
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive
+Stroke,Yes,No,Yes,No,70,Female,High,High,Positive
+Stroke,Yes,No,Yes,No,70,Female,High,High,Positive

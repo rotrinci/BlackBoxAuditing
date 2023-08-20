@@ -1,0 +1,12 @@
+GFA Audit for:EAGeomWeighted
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 846, "0.0": 63}, "0.0": {"0.0": 198, "1.0": 212}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 831, "0.0": 78}, "0.0": {"0.0": 200, "1.0": 210}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 793, "0.0": 116}, "0.0": {"1.0": 213, "0.0": 197}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 793, "0.0": 116}, "0.0": {"1.0": 223, "0.0": 187}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 127, "1.0": 782}, "0.0": {"1.0": 234, "0.0": 176}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 795, "0.0": 114}, "0.0": {"0.0": 140, "1.0": 270}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 799, "0.0": 110}, "0.0": {"0.0": 120, "1.0": 290}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 794, "0.0": 115}, "0.0": {"1.0": 297, "0.0": 113}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 775, "0.0": 134}, "0.0": {"1.0": 301, "0.0": 109}}]
+Dark-Reaction-NN/EAGeomWeighted.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 848, "0.0": 61}, "0.0": {"1.0": 359, "0.0": 51}}]

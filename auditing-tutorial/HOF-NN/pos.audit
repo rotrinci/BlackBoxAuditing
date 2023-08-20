@@ -1,0 +1,12 @@
+GFA Audit for:pos
+HOF-NN/pos.audit.test.repaired_0.0.data:[0.0, {"No": {"No": 2024, "Yes": 22}, "Yes": {"Yes": 38, "No": 22}}]
+HOF-NN/pos.audit.test.repaired_0.1.data:[0.1, {"No": {"No": 2033, "Yes": 13}, "Yes": {"Yes": 33, "No": 27}}]
+HOF-NN/pos.audit.test.repaired_0.2.data:[0.2, {"No": {"No": 2036, "Yes": 10}, "Yes": {"Yes": 23, "No": 37}}]
+HOF-NN/pos.audit.test.repaired_0.3.data:[0.30000000000000004, {"No": {"No": 2038, "Yes": 8}, "Yes": {"Yes": 18, "No": 42}}]
+HOF-NN/pos.audit.test.repaired_0.4.data:[0.4, {"No": {"No": 2035, "Yes": 11}, "Yes": {"Yes": 14, "No": 46}}]
+HOF-NN/pos.audit.test.repaired_0.5.data:[0.5, {"No": {"No": 2039, "Yes": 7}, "Yes": {"No": 51, "Yes": 9}}]
+HOF-NN/pos.audit.test.repaired_0.6.data:[0.6, {"No": {"No": 2044, "Yes": 2}, "Yes": {"No": 54, "Yes": 6}}]
+HOF-NN/pos.audit.test.repaired_0.7.data:[0.7, {"No": {"No": 2045, "Yes": 1}, "Yes": {"No": 57, "Yes": 3}}]
+HOF-NN/pos.audit.test.repaired_0.8.data:[0.7999999999999999, {"No": {"No": 2046}, "Yes": {"No": 58, "Yes": 2}}]
+HOF-NN/pos.audit.test.repaired_0.9.data:[0.8999999999999999, {"No": {"No": 2046}, "Yes": {"No": 60}}]
+HOF-NN/pos.audit.test.repaired_1.0.data:[0.9999999999999999, {"No": {"No": 2046}, "Yes": {"No": 60}}]

@@ -1,0 +1,12 @@
+
+@canvas_icons: orange;
+
+CanvasToolDock QToolBar QToolButton:menu-indicator {
+    height: 8px;
+    width: 8px;
+}
+
+CollapsibleDockWidget QWidget#canvas-quick-dock QToolBar QToolButton:menu-indicator {
+    height: 8px;
+    width: 8px;
+}

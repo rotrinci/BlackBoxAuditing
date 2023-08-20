@@ -1,0 +1,12 @@
+GFA Audit for:native-country
+adult-audit-output-SVM/native-country.audit.test.repaired_0.0.data:[0.0, {"<=50K": {"<=50K": 11729, ">50K": 706}, ">50K": {"<=50K": 1663, ">50K": 2183}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.1.data:[0.1, {"<=50K": {"<=50K": 11766, ">50K": 669}, ">50K": {"<=50K": 1736, ">50K": 2110}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.2.data:[0.2, {"<=50K": {"<=50K": 11785, ">50K": 650}, ">50K": {"<=50K": 1813, ">50K": 2033}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.3.data:[0.30000000000000004, {"<=50K": {"<=50K": 11772, ">50K": 663}, ">50K": {"<=50K": 1861, ">50K": 1985}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.4.data:[0.4, {"<=50K": {"<=50K": 11809, ">50K": 626}, ">50K": {"<=50K": 1980, ">50K": 1866}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.5.data:[0.5, {"<=50K": {"<=50K": 11799, ">50K": 636}, ">50K": {"<=50K": 2008, ">50K": 1838}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.6.data:[0.6, {"<=50K": {"<=50K": 11829, ">50K": 606}, ">50K": {"<=50K": 2069, ">50K": 1777}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.7.data:[0.7, {"<=50K": {"<=50K": 11862, ">50K": 573}, ">50K": {"<=50K": 2179, ">50K": 1667}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.8.data:[0.7999999999999999, {"<=50K": {"<=50K": 11868, ">50K": 567}, ">50K": {"<=50K": 2208, ">50K": 1638}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_0.9.data:[0.8999999999999999, {"<=50K": {"<=50K": 11875, ">50K": 560}, ">50K": {"<=50K": 2298, ">50K": 1548}}]
+adult-audit-output-SVM/native-country.audit.test.repaired_1.0.data:[0.9999999999999999, {"<=50K": {"<=50K": 11890, ">50K": 545}, ">50K": {"<=50K": 2522, ">50K": 1324}}]

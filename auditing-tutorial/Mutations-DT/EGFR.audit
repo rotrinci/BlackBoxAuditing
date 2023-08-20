@@ -1,0 +1,12 @@
+GFA Audit for:EGFR
+Mutations-DT/EGFR.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 162}, "GBM": {"GBM": 124}}]
+Mutations-DT/EGFR.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/EGFR.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 155, "GBM": 7}, "GBM": {"GBM": 124}}]
+Mutations-DT/EGFR.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 152, "GBM": 10}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/EGFR.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 150, "GBM": 12}, "GBM": {"GBM": 121, "LGG": 3}}]
+Mutations-DT/EGFR.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 139, "GBM": 23}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/EGFR.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 136, "GBM": 26}, "GBM": {"GBM": 122, "LGG": 2}}]
+Mutations-DT/EGFR.audit.test.repaired_0.7.data:[0.7, {"LGG": {"GBM": 33, "LGG": 129}, "GBM": {"GBM": 121, "LGG": 3}}]
+Mutations-DT/EGFR.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 126, "GBM": 36}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/EGFR.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"GBM": 41, "LGG": 121}, "GBM": {"GBM": 120, "LGG": 4}}]
+Mutations-DT/EGFR.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"GBM": 38, "LGG": 124}, "GBM": {"GBM": 119, "LGG": 5}}]

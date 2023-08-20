@@ -1,0 +1,12 @@
+GFA Audit for:numberInorg
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 829, "0.0": 80}, "0.0": {"0.0": 211, "1.0": 199}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 811, "0.0": 98}, "0.0": {"0.0": 211, "1.0": 199}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 768, "0.0": 141}, "0.0": {"0.0": 218, "1.0": 192}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"0.0": 153, "1.0": 756}, "0.0": {"0.0": 220, "1.0": 190}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 186, "1.0": 723}, "0.0": {"0.0": 220, "1.0": 190}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"0.0": 412, "1.0": 497}, "0.0": {"1.0": 121, "0.0": 289}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 448, "1.0": 461}, "0.0": {"1.0": 112, "0.0": 298}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 522, "1.0": 387}, "0.0": {"0.0": 313, "1.0": 97}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 599, "1.0": 310}, "0.0": {"1.0": 86, "0.0": 324}}]
+Dark-Reaction-NN/numberInorg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 602, "1.0": 307}, "0.0": {"1.0": 88, "0.0": 322}}]

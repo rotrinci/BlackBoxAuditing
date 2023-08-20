@@ -1,0 +1,12 @@
+GFA Audit for:relationship
+adult-audit-output-NN/relationship.audit.test.repaired_0.0.data:[0.0, {"<=50K": {"<=50K": 11282, ">50K": 1153}, ">50K": {">50K": 2472, "<=50K": 1374}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.1.data:[0.1, {"<=50K": {"<=50K": 11310, ">50K": 1125}, ">50K": {">50K": 2430, "<=50K": 1416}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.2.data:[0.2, {"<=50K": {"<=50K": 11366, ">50K": 1069}, ">50K": {">50K": 2342, "<=50K": 1504}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.3.data:[0.30000000000000004, {"<=50K": {"<=50K": 11402, ">50K": 1033}, ">50K": {">50K": 2308, "<=50K": 1538}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.4.data:[0.4, {"<=50K": {"<=50K": 11437, ">50K": 998}, ">50K": {">50K": 2150, "<=50K": 1696}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.5.data:[0.5, {"<=50K": {"<=50K": 11488, ">50K": 947}, ">50K": {"<=50K": 1795, ">50K": 2051}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.6.data:[0.6, {"<=50K": {"<=50K": 11624, ">50K": 811}, ">50K": {"<=50K": 1954, ">50K": 1892}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.7.data:[0.7, {"<=50K": {"<=50K": 11719, ">50K": 716}, ">50K": {"<=50K": 2122, ">50K": 1724}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.8.data:[0.7999999999999999, {"<=50K": {"<=50K": 11839, ">50K": 596}, ">50K": {"<=50K": 2388, ">50K": 1458}}]
+adult-audit-output-NN/relationship.audit.test.repaired_0.9.data:[0.8999999999999999, {"<=50K": {"<=50K": 11888, ">50K": 547}, ">50K": {"<=50K": 2662, ">50K": 1184}}]
+adult-audit-output-NN/relationship.audit.test.repaired_1.0.data:[0.9999999999999999, {"<=50K": {"<=50K": 12096, ">50K": 339}, ">50K": {"<=50K": 3020, ">50K": 826}}]

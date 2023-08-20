@@ -1,0 +1,12 @@
+GFA Audit for:oxlikeavgpol_pHdependentMax
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 831, "0.0": 78}, "0.0": {"0.0": 208, "1.0": 202}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 781, "0.0": 128}, "0.0": {"0.0": 201, "1.0": 209}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 761, "0.0": 148}, "0.0": {"1.0": 214, "0.0": 196}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 755, "0.0": 154}, "0.0": {"1.0": 222, "0.0": 188}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 718, "0.0": 191}, "0.0": {"1.0": 229, "0.0": 181}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 591, "0.0": 318}, "0.0": {"1.0": 211, "0.0": 199}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 589, "0.0": 320}, "0.0": {"1.0": 221, "0.0": 189}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 684, "0.0": 225}, "0.0": {"1.0": 270, "0.0": 140}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 689, "0.0": 220}, "0.0": {"1.0": 279, "0.0": 131}}]
+Dark-Reaction-NN/oxlikeavgpol_pHdependentMax.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 688, "0.0": 221}, "0.0": {"1.0": 279, "0.0": 131}}]

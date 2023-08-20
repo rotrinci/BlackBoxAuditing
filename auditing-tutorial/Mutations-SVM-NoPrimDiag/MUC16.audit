@@ -1,0 +1,12 @@
+GFA Audit for:MUC16
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 131, "GBM": 24}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 129, "GBM": 26}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 128, "GBM": 27}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 129, "GBM": 26}, "GBM": {"GBM": 121, "LGG": 10}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 125, "GBM": 30}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 125, "GBM": 30}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 124, "GBM": 31}, "GBM": {"GBM": 119, "LGG": 12}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.7.data:[0.7, {"LGG": {"GBM": 34, "LGG": 121}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 119, "GBM": 36}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 117, "GBM": 38}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/MUC16.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 118, "GBM": 37}, "GBM": {"GBM": 119, "LGG": 12}}]

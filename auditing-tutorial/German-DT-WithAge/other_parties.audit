@@ -1,0 +1,12 @@
+GFA Audit for:other_parties
+German-DT-WithAge/other_parties.audit.test.repaired_0.0.data:[0.0, {"bad": {"bad": 53, "good": 47}, "good": {"bad": 49, "good": 185}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.1.data:[0.1, {"bad": {"bad": 53, "good": 47}, "good": {"bad": 50, "good": 184}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.2.data:[0.2, {"bad": {"bad": 50, "good": 50}, "good": {"bad": 56, "good": 178}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.3.data:[0.30000000000000004, {"bad": {"bad": 54, "good": 46}, "good": {"bad": 59, "good": 175}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.4.data:[0.4, {"bad": {"bad": 53, "good": 47}, "good": {"good": 176, "bad": 58}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.5.data:[0.5, {"bad": {"bad": 52, "good": 48}, "good": {"bad": 66, "good": 168}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.6.data:[0.6, {"bad": {"bad": 62, "good": 38}, "good": {"good": 176, "bad": 58}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.7.data:[0.7, {"bad": {"bad": 55, "good": 45}, "good": {"good": 165, "bad": 69}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.8.data:[0.7999999999999999, {"bad": {"bad": 55, "good": 45}, "good": {"bad": 68, "good": 166}}]
+German-DT-WithAge/other_parties.audit.test.repaired_0.9.data:[0.8999999999999999, {"bad": {"bad": 56, "good": 44}, "good": {"good": 164, "bad": 70}}]
+German-DT-WithAge/other_parties.audit.test.repaired_1.0.data:[0.9999999999999999, {"bad": {"bad": 56, "good": 44}, "good": {"good": 161, "bad": 73}}]

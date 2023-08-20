@@ -1,0 +1,12 @@
+GFA Audit for:occupation
+adult-audit-output-SVM/occupation.audit.test.repaired_0.0.data:[0.0, {"<=50K": {"<=50K": 11729, ">50K": 706}, ">50K": {"<=50K": 1663, ">50K": 2183}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.1.data:[0.1, {"<=50K": {"<=50K": 11375, ">50K": 1060}, ">50K": {">50K": 2487, "<=50K": 1359}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.2.data:[0.2, {"<=50K": {"<=50K": 10622, ">50K": 1813}, ">50K": {">50K": 2881, "<=50K": 965}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.3.data:[0.30000000000000004, {"<=50K": {"<=50K": 10314, ">50K": 2121}, ">50K": {">50K": 2988, "<=50K": 858}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.4.data:[0.4, {"<=50K": {"<=50K": 10024, ">50K": 2411}, ">50K": {">50K": 3071, "<=50K": 775}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.5.data:[0.5, {"<=50K": {"<=50K": 9649, ">50K": 2786}, ">50K": {"<=50K": 702, ">50K": 3144}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.6.data:[0.6, {"<=50K": {"<=50K": 9581, ">50K": 2854}, ">50K": {">50K": 3108, "<=50K": 738}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.7.data:[0.7, {"<=50K": {"<=50K": 9305, ">50K": 3130}, ">50K": {">50K": 3148, "<=50K": 698}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.8.data:[0.7999999999999999, {"<=50K": {"<=50K": 9100, ">50K": 3335}, ">50K": {">50K": 3141, "<=50K": 705}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_0.9.data:[0.8999999999999999, {"<=50K": {"<=50K": 8875, ">50K": 3560}, ">50K": {">50K": 3174, "<=50K": 672}}]
+adult-audit-output-SVM/occupation.audit.test.repaired_1.0.data:[0.9999999999999999, {"<=50K": {"<=50K": 8519, ">50K": 3916}, ">50K": {">50K": 3171, "<=50K": 675}}]

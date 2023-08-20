@@ -1,0 +1,12 @@
+GFA Audit for:EAMaxWeighted
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 846, "0.0": 63}, "0.0": {"1.0": 216, "0.0": 194}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 813, "0.0": 96}, "0.0": {"0.0": 196, "1.0": 214}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 809, "0.0": 100}, "0.0": {"1.0": 234, "0.0": 176}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 826, "0.0": 83}, "0.0": {"1.0": 256, "0.0": 154}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 819, "0.0": 90}, "0.0": {"1.0": 269, "0.0": 141}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 892, "0.0": 17}, "0.0": {"1.0": 387, "0.0": 23}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 901, "0.0": 8}, "0.0": {"1.0": 402, "0.0": 8}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 903, "0.0": 6}, "0.0": {"1.0": 405, "0.0": 5}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 905, "0.0": 4}, "0.0": {"1.0": 406, "0.0": 4}}]
+Dark-Reaction-NN/EAMaxWeighted.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 905, "0.0": 4}, "0.0": {"1.0": 406, "0.0": 4}}]

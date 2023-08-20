@@ -1,0 +1,12 @@
+GFA Audit for:orgmaximalprojectionsizeArithAvg
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 769, "0.0": 140}, "0.0": {"1.0": 214, "0.0": 196}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 738, "0.0": 171}, "0.0": {"1.0": 213, "0.0": 197}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 717, "0.0": 192}, "0.0": {"1.0": 209, "0.0": 201}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 826, "0.0": 83}, "0.0": {"1.0": 277, "0.0": 133}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 793, "0.0": 116}, "0.0": {"1.0": 260, "0.0": 150}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"0.0": 633, "1.0": 276}, "0.0": {"1.0": 129, "0.0": 281}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 748, "1.0": 161}, "0.0": {"1.0": 89, "0.0": 321}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 909}, "0.0": {"0.0": 405, "1.0": 5}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 909}, "0.0": {"0.0": 410}}]
+Dark-Reaction-DT/orgmaximalprojectionsizeArithAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 909}, "0.0": {"0.0": 410}}]

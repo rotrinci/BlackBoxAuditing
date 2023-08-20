@@ -1,0 +1,12 @@
+GFA Audit for:TotalPtsPost
+HOF-DT/TotalPtsPost.audit.test.repaired_0.0.data:[0.0, {"No": {"No": 2003, "Yes": 43}, "Yes": {"Yes": 36, "No": 24}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.1.data:[0.1, {"No": {"No": 2021, "Yes": 25}, "Yes": {"Yes": 34, "No": 26}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.2.data:[0.2, {"No": {"No": 2035, "Yes": 11}, "Yes": {"Yes": 25, "No": 35}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.3.data:[0.30000000000000004, {"No": {"No": 2037, "Yes": 9}, "Yes": {"Yes": 20, "No": 40}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.4.data:[0.4, {"No": {"No": 2039, "Yes": 7}, "Yes": {"Yes": 16, "No": 44}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.5.data:[0.5, {"No": {"No": 2041, "Yes": 5}, "Yes": {"No": 53, "Yes": 7}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.6.data:[0.6, {"No": {"No": 2044, "Yes": 2}, "Yes": {"No": 53, "Yes": 7}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.7.data:[0.7, {"No": {"No": 2046}, "Yes": {"No": 57, "Yes": 3}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.8.data:[0.7999999999999999, {"No": {"No": 2045, "Yes": 1}, "Yes": {"No": 59, "Yes": 1}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_0.9.data:[0.8999999999999999, {"No": {"No": 2046}, "Yes": {"No": 60}}]
+HOF-DT/TotalPtsPost.audit.test.repaired_1.0.data:[0.9999999999999999, {"No": {"No": 2046}, "Yes": {"No": 60}}]

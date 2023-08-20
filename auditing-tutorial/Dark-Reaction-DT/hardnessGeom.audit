@@ -1,0 +1,12 @@
+GFA Audit for:hardnessGeom
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 744, "0.0": 165}, "0.0": {"1.0": 211, "0.0": 199}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 708, "0.0": 201}, "0.0": {"1.0": 187, "0.0": 223}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 679, "0.0": 230}, "0.0": {"1.0": 209, "0.0": 201}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 723, "0.0": 186}, "0.0": {"1.0": 215, "0.0": 195}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 806, "0.0": 103}, "0.0": {"1.0": 293, "0.0": 117}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.6.data:[0.6, {"1.0": {"0.0": 502, "1.0": 407}, "0.0": {"1.0": 191, "0.0": 219}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 488, "1.0": 421}, "0.0": {"1.0": 198, "0.0": 212}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 484, "1.0": 425}, "0.0": {"1.0": 214, "0.0": 196}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 514, "0.0": 395}, "0.0": {"1.0": 257, "0.0": 153}}]
+Dark-Reaction-DT/hardnessGeom.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

@@ -1,0 +1,12 @@
+GFA Audit for:MUC16
+Mutations-DT/MUC16.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 162}, "GBM": {"GBM": 124}}]
+Mutations-DT/MUC16.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 160, "GBM": 2}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/MUC16.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 158, "GBM": 4}, "GBM": {"GBM": 124}}]
+Mutations-DT/MUC16.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 151, "GBM": 11}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/MUC16.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"GBM": 124}}]
+Mutations-DT/MUC16.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"GBM": 124}}]
+Mutations-DT/MUC16.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 149, "GBM": 13}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/MUC16.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 144, "GBM": 18}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/MUC16.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 142, "GBM": 20}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/MUC16.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 141, "GBM": 21}, "GBM": {"GBM": 123, "LGG": 1}}]
+Mutations-DT/MUC16.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 144, "GBM": 18}, "GBM": {"GBM": 122, "LGG": 2}}]

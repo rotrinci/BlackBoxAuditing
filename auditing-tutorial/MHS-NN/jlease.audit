@@ -1,0 +1,12 @@
+GFA Audit for:jlease
+MHS-NN/jlease.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 406, "0": 104}, "0": {"1": 61, "0": 349}}]
+MHS-NN/jlease.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 406, "0": 104}, "0": {"1": 64, "0": 346}}]
+MHS-NN/jlease.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 431, "0": 79}, "0": {"1": 77, "0": 333}}]
+MHS-NN/jlease.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 436, "0": 74}, "0": {"1": 81, "0": 329}}]
+MHS-NN/jlease.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 440, "0": 70}, "0": {"1": 94, "0": 316}}]
+MHS-NN/jlease.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 446, "0": 64}, "0": {"1": 119, "0": 291}}]
+MHS-NN/jlease.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 441, "0": 69}, "0": {"1": 114, "0": 296}}]
+MHS-NN/jlease.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 442, "0": 68}, "0": {"1": 131, "0": 279}}]
+MHS-NN/jlease.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 449, "0": 61}, "0": {"1": 127, "0": 283}}]
+MHS-NN/jlease.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 464, "0": 46}, "0": {"1": 159, "0": 251}}]
+MHS-NN/jlease.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 446, "0": 64}, "0": {"1": 139, "0": 271}}]

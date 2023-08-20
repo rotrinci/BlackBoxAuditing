@@ -1,0 +1,12 @@
+GFA Audit for:MarjorAwards
+HOF-DT/MarjorAwards.audit.test.repaired_0.0.data:[0.0, {"No": {"No": 2003, "Yes": 43}, "Yes": {"Yes": 36, "No": 24}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.1.data:[0.1, {"No": {"No": 2013, "Yes": 33}, "Yes": {"Yes": 36, "No": 24}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.2.data:[0.2, {"No": {"No": 2033, "Yes": 13}, "Yes": {"Yes": 28, "No": 32}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.3.data:[0.30000000000000004, {"No": {"No": 2027, "Yes": 19}, "Yes": {"Yes": 26, "No": 34}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.4.data:[0.4, {"No": {"No": 2026, "Yes": 20}, "Yes": {"Yes": 23, "No": 37}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.5.data:[0.5, {"No": {"No": 2034, "Yes": 12}, "Yes": {"No": 42, "Yes": 18}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.6.data:[0.6, {"No": {"No": 2024, "Yes": 22}, "Yes": {"Yes": 24, "No": 36}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.7.data:[0.7, {"No": {"No": 2020, "Yes": 26}, "Yes": {"No": 38, "Yes": 22}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.8.data:[0.7999999999999999, {"No": {"No": 1982, "Yes": 64}, "Yes": {"Yes": 35, "No": 25}}]
+HOF-DT/MarjorAwards.audit.test.repaired_0.9.data:[0.8999999999999999, {"No": {"Yes": 1982, "No": 64}, "Yes": {"Yes": 57, "No": 3}}]
+HOF-DT/MarjorAwards.audit.test.repaired_1.0.data:[0.9999999999999999, {"No": {"Yes": 2046}, "Yes": {"Yes": 60}}]

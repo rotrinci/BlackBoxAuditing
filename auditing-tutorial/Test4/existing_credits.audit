@@ -1,0 +1,12 @@
+GFA Audit for:existing_credits
+testing/existing_credits.audit.test.repaired_0.0.data:[0.0, {"good": {"good": 171, "bad": 65}, "bad": {"bad": 50, "good": 48}}]
+testing/existing_credits.audit.test.repaired_0.1.data:[0.1, {"good": {"good": 175, "bad": 61}, "bad": {"bad": 48, "good": 50}}]
+testing/existing_credits.audit.test.repaired_0.2.data:[0.2, {"good": {"good": 177, "bad": 59}, "bad": {"bad": 49, "good": 49}}]
+testing/existing_credits.audit.test.repaired_0.3.data:[0.30000000000000004, {"good": {"good": 182, "bad": 54}, "bad": {"bad": 41, "good": 57}}]
+testing/existing_credits.audit.test.repaired_0.4.data:[0.4, {"good": {"good": 187, "bad": 49}, "bad": {"bad": 42, "good": 56}}]
+testing/existing_credits.audit.test.repaired_0.5.data:[0.5, {"good": {"good": 191, "bad": 45}, "bad": {"bad": 40, "good": 58}}]
+testing/existing_credits.audit.test.repaired_0.6.data:[0.6, {"good": {"good": 193, "bad": 43}, "bad": {"good": 68, "bad": 30}}]
+testing/existing_credits.audit.test.repaired_0.7.data:[0.7, {"good": {"good": 194, "bad": 42}, "bad": {"good": 69, "bad": 29}}]
+testing/existing_credits.audit.test.repaired_0.8.data:[0.7999999999999999, {"good": {"good": 202, "bad": 34}, "bad": {"bad": 22, "good": 76}}]
+testing/existing_credits.audit.test.repaired_0.9.data:[0.8999999999999999, {"good": {"good": 207, "bad": 29}, "bad": {"bad": 19, "good": 79}}]
+testing/existing_credits.audit.test.repaired_1.0.data:[0.9999999999999999, {"good": {"good": 205, "bad": 31}, "bad": {"bad": 20, "good": 78}}]

@@ -1,0 +1,12 @@
+GFA Audit for:oxlikehbdamsaccMax
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 823, "0.0": 86}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 791, "0.0": 118}, "0.0": {"0.0": 215, "1.0": 195}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"0.0": 139, "1.0": 770}, "0.0": {"1.0": 221, "0.0": 189}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 749, "0.0": 160}, "0.0": {"1.0": 213, "0.0": 197}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 189, "1.0": 720}, "0.0": {"1.0": 212, "0.0": 198}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 631, "0.0": 278}, "0.0": {"1.0": 221, "0.0": 189}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 633, "0.0": 276}, "0.0": {"1.0": 222, "0.0": 188}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 641, "0.0": 268}, "0.0": {"1.0": 242, "0.0": 168}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 642, "0.0": 267}, "0.0": {"1.0": 243, "0.0": 167}}]
+Dark-Reaction-NN/oxlikehbdamsaccMax.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 663, "0.0": 246}, "0.0": {"1.0": 239, "0.0": 171}}]

@@ -1,0 +1,12 @@
+GFA Audit for:A
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.0.data:[0.0, {"False": {"False": 998, "True": 7}, "True": {"True": 991, "False": 4}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.1.data:[0.1, {"False": {"False": 978, "True": 27}, "True": {"True": 982, "False": 13}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.2.data:[0.2, {"False": {"False": 980, "True": 25}, "True": {"True": 977, "False": 18}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.3.data:[0.30000000000000004, {"False": {"False": 981, "True": 24}, "True": {"False": 28, "True": 967}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.4.data:[0.4, {"False": {"False": 961, "True": 44}, "True": {"True": 971, "False": 24}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.5.data:[0.5, {"False": {"False": 957, "True": 48}, "True": {"False": 39, "True": 956}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.6.data:[0.6, {"False": {"False": 952, "True": 53}, "True": {"True": 938, "False": 57}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.7.data:[0.7, {"False": {"False": 946, "True": 59}, "True": {"False": 71, "True": 924}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.8.data:[0.7999999999999999, {"False": {"False": 920, "True": 85}, "True": {"False": 106, "True": 889}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_0.9.data:[0.8999999999999999, {"False": {"False": 865, "True": 140}, "True": {"False": 243, "True": 752}}]
+synthetic-audit-output-SVM-Const-Retrain/A.audit.test.repaired_1.0.data:[0.9999999999999999, {"False": {"True": 918, "False": 87}, "True": {"False": 79, "True": 916}}]

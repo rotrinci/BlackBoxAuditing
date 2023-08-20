@@ -1,0 +1,15 @@
+Audit Start Time: 2023-08-01 17:34:07.271133
+Audit End Time: 2023-08-01 17:34:16.721976
+Retrained Per Repair: False
+Model Factory ID: 1690925647.271533
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 4000
+Test Size: 2000
+Non-standard Ignored Features: []
+Features: ['Feature A (i)', 'Feature B (2i)', 'Feature C (-i)', 'Constant Feature', 'Random Feature', 'Gender', 'Outcome']
+
+Ranked Features by accuracy: [('Gender', 0.488), ('Feature C (-i)', 0.3185), ('Feature A (i)', 0.27949999999999997), ('Feature B (2i)', 0.27249999999999996), ('Random Feature', 0.026499999999999968), ('Constant Feature', 0.0004999999999999449)]
+	Approx. Trend Groups: [['Feature A (i)', 'Feature B (2i)', 'Feature C (-i)'], ['Constant Feature', 'Random Feature'], ['Gender']]
+Ranked Features by BCR: [('Gender', 0.5), ('Feature C (-i)', 0.3254434554303278), ('Feature A (i)', 0.27477426997950816), ('Feature B (2i)', 0.268034387807377), ('Random Feature', 0.02655129354508201), ('Constant Feature', 0.00048828125)]
+	Approx. Trend Groups: [['Feature A (i)', 'Feature B (2i)'], ['Feature C (-i)'], ['Constant Feature', 'Random Feature'], ['Gender']]

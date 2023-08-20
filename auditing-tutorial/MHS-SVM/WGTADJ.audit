@@ -1,0 +1,12 @@
+GFA Audit for:WGTADJ
+MHS-SVM/WGTADJ.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 415, "0": 95}, "0": {"1": 76, "0": 334}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 440, "0": 70}, "0": {"1": 98, "0": 312}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 465, "0": 45}, "0": {"1": 123, "0": 287}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 474, "0": 36}, "0": {"1": 145, "0": 265}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 480, "0": 30}, "0": {"1": 193, "0": 217}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 492, "0": 18}, "0": {"1": 233, "0": 177}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 507, "0": 3}, "0": {"1": 370, "0": 40}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 509, "0": 1}, "0": {"1": 383, "0": 27}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 509, "0": 1}, "0": {"1": 401, "0": 9}}]
+MHS-SVM/WGTADJ.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 508, "0": 2}, "0": {"1": 405, "0": 5}}]
+MHS-SVM/WGTADJ.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 509, "0": 1}, "0": {"1": 407, "0": 3}}]

@@ -1,0 +1,12 @@
+GFA Audit for:FAT4
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 131, "GBM": 24}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 126, "GBM": 29}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 121, "GBM": 34}, "GBM": {"GBM": 122, "LGG": 9}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 119, "GBM": 36}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 114, "GBM": 41}, "GBM": {"GBM": 121, "LGG": 10}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 107, "GBM": 48}, "GBM": {"GBM": 120, "LGG": 11}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 105, "GBM": 50}, "GBM": {"GBM": 121, "LGG": 10}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 100, "GBM": 55}, "GBM": {"GBM": 125, "LGG": 6}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 92, "GBM": 63}, "GBM": {"GBM": 122, "LGG": 9}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"GBM": 72, "LGG": 83}, "GBM": {"GBM": 124, "LGG": 7}}]
+Mutations-SVM-NoPrimDiag/FAT4.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 77, "GBM": 78}, "GBM": {"GBM": 125, "LGG": 6}}]

@@ -1,0 +1,12 @@
+GFA Audit for:age
+German-NN-WithAge/age.audit.test.repaired_0.0.data:[0.0, {"good": {"good": 189, "bad": 56}, "bad": {"bad": 50, "good": 39}}]
+German-NN-WithAge/age.audit.test.repaired_0.1.data:[0.1, {"good": {"good": 180, "bad": 65}, "bad": {"bad": 48, "good": 41}}]
+German-NN-WithAge/age.audit.test.repaired_0.2.data:[0.2, {"good": {"good": 189, "bad": 56}, "bad": {"bad": 43, "good": 46}}]
+German-NN-WithAge/age.audit.test.repaired_0.3.data:[0.30000000000000004, {"good": {"good": 193, "bad": 52}, "bad": {"bad": 37, "good": 52}}]
+German-NN-WithAge/age.audit.test.repaired_0.4.data:[0.4, {"good": {"good": 205, "bad": 40}, "bad": {"bad": 37, "good": 52}}]
+German-NN-WithAge/age.audit.test.repaired_0.5.data:[0.5, {"good": {"good": 203, "bad": 42}, "bad": {"bad": 35, "good": 54}}]
+German-NN-WithAge/age.audit.test.repaired_0.6.data:[0.6, {"good": {"good": 201, "bad": 44}, "bad": {"bad": 30, "good": 59}}]
+German-NN-WithAge/age.audit.test.repaired_0.7.data:[0.7, {"good": {"good": 202, "bad": 43}, "bad": {"good": 57, "bad": 32}}]
+German-NN-WithAge/age.audit.test.repaired_0.8.data:[0.7999999999999999, {"good": {"good": 211, "bad": 34}, "bad": {"good": 64, "bad": 25}}]
+German-NN-WithAge/age.audit.test.repaired_0.9.data:[0.8999999999999999, {"good": {"good": 210, "bad": 35}, "bad": {"good": 73, "bad": 16}}]
+German-NN-WithAge/age.audit.test.repaired_1.0.data:[0.9999999999999999, {"good": {"good": 209, "bad": 36}, "bad": {"bad": 22, "good": 67}}]

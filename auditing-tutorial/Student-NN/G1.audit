@@ -1,0 +1,12 @@
+GFA Audit for:G1
+Student-NN/G1.audit.test.repaired_0.0.data:[0.0, {"0": {"0": 89, "1": 21}, "1": {"0": 13, "1": 94}}]
+Student-NN/G1.audit.test.repaired_0.1.data:[0.1, {"0": {"0": 91, "1": 19}, "1": {"1": 95, "0": 12}}]
+Student-NN/G1.audit.test.repaired_0.2.data:[0.2, {"0": {"1": 20, "0": 90}, "1": {"1": 97, "0": 10}}]
+Student-NN/G1.audit.test.repaired_0.3.data:[0.30000000000000004, {"0": {"0": 88, "1": 22}, "1": {"1": 91, "0": 16}}]
+Student-NN/G1.audit.test.repaired_0.4.data:[0.4, {"0": {"0": 92, "1": 18}, "1": {"1": 91, "0": 16}}]
+Student-NN/G1.audit.test.repaired_0.5.data:[0.5, {"0": {"0": 95, "1": 15}, "1": {"1": 89, "0": 18}}]
+Student-NN/G1.audit.test.repaired_0.6.data:[0.6, {"0": {"0": 87, "1": 23}, "1": {"1": 76, "0": 31}}]
+Student-NN/G1.audit.test.repaired_0.7.data:[0.7, {"0": {"0": 86, "1": 24}, "1": {"0": 34, "1": 73}}]
+Student-NN/G1.audit.test.repaired_0.8.data:[0.7999999999999999, {"0": {"0": 81, "1": 29}, "1": {"1": 59, "0": 48}}]
+Student-NN/G1.audit.test.repaired_0.9.data:[0.8999999999999999, {"0": {"1": 29, "0": 81}, "1": {"1": 46, "0": 61}}]
+Student-NN/G1.audit.test.repaired_1.0.data:[0.9999999999999999, {"0": {"1": 40, "0": 70}, "1": {"1": 36, "0": 71}}]

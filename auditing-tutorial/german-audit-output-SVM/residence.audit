@@ -1,0 +1,12 @@
+GFA Audit for:residence
+german-audit-output-SVM/residence.audit.test.repaired_0.0.data:[0.0, {"good": {"good": 213, "bad": 19}, "bad": {"good": 61, "bad": 41}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.1.data:[0.1, {"good": {"good": 215, "bad": 17}, "bad": {"good": 60, "bad": 42}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.2.data:[0.2, {"good": {"good": 214, "bad": 18}, "bad": {"good": 62, "bad": 40}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.3.data:[0.30000000000000004, {"good": {"good": 217, "bad": 15}, "bad": {"good": 64, "bad": 38}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.4.data:[0.4, {"good": {"good": 217, "bad": 15}, "bad": {"good": 66, "bad": 36}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.5.data:[0.5, {"good": {"good": 215, "bad": 17}, "bad": {"good": 65, "bad": 37}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.6.data:[0.6, {"good": {"good": 214, "bad": 18}, "bad": {"good": 65, "bad": 37}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.7.data:[0.7, {"good": {"good": 212, "bad": 20}, "bad": {"good": 67, "bad": 35}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.8.data:[0.7999999999999999, {"good": {"good": 217, "bad": 15}, "bad": {"good": 68, "bad": 34}}]
+german-audit-output-SVM/residence.audit.test.repaired_0.9.data:[0.8999999999999999, {"good": {"good": 217, "bad": 15}, "bad": {"good": 68, "bad": 34}}]
+german-audit-output-SVM/residence.audit.test.repaired_1.0.data:[0.9999999999999999, {"good": {"good": 221, "bad": 11}, "bad": {"good": 67, "bad": 35}}]

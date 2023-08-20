@@ -1,0 +1,12 @@
+GFA Audit for:PaulingElectronegGeom
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 843, "0.0": 66}, "0.0": {"0.0": 195, "1.0": 215}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 831, "0.0": 78}, "0.0": {"0.0": 188, "1.0": 222}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 815, "0.0": 94}, "0.0": {"1.0": 243, "0.0": 167}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 804, "0.0": 105}, "0.0": {"1.0": 264, "0.0": 146}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 777, "0.0": 132}, "0.0": {"1.0": 262, "0.0": 148}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 701, "0.0": 208}, "0.0": {"0.0": 179, "1.0": 231}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 254, "1.0": 655}, "0.0": {"1.0": 229, "0.0": 181}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 573, "0.0": 336}, "0.0": {"1.0": 222, "0.0": 188}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 382, "1.0": 527}, "0.0": {"1.0": 208, "0.0": 202}}]
+Dark-Reaction-NN/PaulingElectronegGeom.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 503, "1.0": 406}, "0.0": {"0.0": 253, "1.0": 157}}]

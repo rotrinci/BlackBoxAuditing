@@ -1,0 +1,12 @@
+GFA Audit for:jstatus
+MHS-NN/jstatus.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 406, "0": 104}, "0": {"1": 61, "0": 349}}]
+MHS-NN/jstatus.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 407, "0": 103}, "0": {"1": 60, "0": 350}}]
+MHS-NN/jstatus.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 430, "0": 80}, "0": {"1": 86, "0": 324}}]
+MHS-NN/jstatus.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 423, "0": 87}, "0": {"1": 81, "0": 329}}]
+MHS-NN/jstatus.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 439, "0": 71}, "0": {"1": 86, "0": 324}}]
+MHS-NN/jstatus.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 449, "0": 61}, "0": {"1": 113, "0": 297}}]
+MHS-NN/jstatus.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 454, "0": 56}, "0": {"1": 120, "0": 290}}]
+MHS-NN/jstatus.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 450, "0": 60}, "0": {"1": 125, "0": 285}}]
+MHS-NN/jstatus.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 451, "0": 59}, "0": {"1": 132, "0": 278}}]
+MHS-NN/jstatus.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 455, "0": 55}, "0": {"1": 158, "0": 252}}]
+MHS-NN/jstatus.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 449, "0": 61}, "0": {"1": 140, "0": 270}}]

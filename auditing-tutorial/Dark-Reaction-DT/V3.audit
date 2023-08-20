@@ -1,0 +1,12 @@
+GFA Audit for:V3
+Dark-Reaction-DT/V3.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 749, "0.0": 160}, "0.0": {"1.0": 196, "0.0": 214}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 722, "0.0": 187}, "0.0": {"0.0": 206, "1.0": 204}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 694, "0.0": 215}, "0.0": {"0.0": 208, "1.0": 202}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 692, "0.0": 217}, "0.0": {"0.0": 206, "1.0": 204}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 244, "1.0": 665}, "0.0": {"1.0": 224, "0.0": 186}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.6.data:[0.6, {"1.0": {"0.0": 258, "1.0": 651}, "0.0": {"1.0": 230, "0.0": 180}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 297, "1.0": 612}, "0.0": {"1.0": 233, "0.0": 177}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 301, "1.0": 608}, "0.0": {"1.0": 221, "0.0": 189}}]
+Dark-Reaction-DT/V3.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 299, "1.0": 610}, "0.0": {"1.0": 215, "0.0": 195}}]
+Dark-Reaction-DT/V3.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 289, "1.0": 620}, "0.0": {"1.0": 243, "0.0": 167}}]

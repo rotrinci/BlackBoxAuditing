@@ -1,0 +1,12 @@
+GFA Audit for:Random Feature
+Test/Random_Feature.audit.test.repaired_0.0.data:[0.0, {"A": {"A": 1024}, "B": {"B": 976}}]
+Test/Random_Feature.audit.test.repaired_0.1.data:[0.1, {"A": {"A": 1019, "B": 5}, "B": {"B": 973, "A": 3}}]
+Test/Random_Feature.audit.test.repaired_0.2.data:[0.2, {"A": {"A": 1020, "B": 4}, "B": {"B": 970, "A": 6}}]
+Test/Random_Feature.audit.test.repaired_0.3.data:[0.30000000000000004, {"A": {"A": 1021, "B": 3}, "B": {"B": 968, "A": 8}}]
+Test/Random_Feature.audit.test.repaired_0.4.data:[0.4, {"A": {"A": 1016, "B": 8}, "B": {"B": 965, "A": 11}}]
+Test/Random_Feature.audit.test.repaired_0.5.data:[0.5, {"A": {"A": 1014, "B": 10}, "B": {"B": 962, "A": 14}}]
+Test/Random_Feature.audit.test.repaired_0.6.data:[0.6, {"A": {"A": 1008, "B": 16}, "B": {"B": 960, "A": 16}}]
+Test/Random_Feature.audit.test.repaired_0.7.data:[0.7, {"A": {"A": 1009, "B": 15}, "B": {"B": 957, "A": 19}}]
+Test/Random_Feature.audit.test.repaired_0.8.data:[0.7999999999999999, {"A": {"A": 1007, "B": 17}, "B": {"B": 952, "A": 24}}]
+Test/Random_Feature.audit.test.repaired_0.9.data:[0.8999999999999999, {"A": {"A": 1003, "B": 21}, "B": {"B": 948, "A": 28}}]
+Test/Random_Feature.audit.test.repaired_1.0.data:[0.9999999999999999, {"A": {"A": 999, "B": 25}, "B": {"B": 948, "A": 28}}]

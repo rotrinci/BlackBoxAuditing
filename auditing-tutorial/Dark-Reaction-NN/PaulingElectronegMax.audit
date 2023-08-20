@@ -1,0 +1,12 @@
+GFA Audit for:PaulingElectronegMax
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 841, "0.0": 68}, "0.0": {"0.0": 201, "1.0": 209}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 816, "0.0": 93}, "0.0": {"0.0": 206, "1.0": 204}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 812, "0.0": 97}, "0.0": {"0.0": 191, "1.0": 219}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 780, "0.0": 129}, "0.0": {"1.0": 202, "0.0": 208}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 769, "0.0": 140}, "0.0": {"0.0": 178, "1.0": 232}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 754, "0.0": 155}, "0.0": {"0.0": 157, "1.0": 253}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 712, "0.0": 197}, "0.0": {"0.0": 161, "1.0": 249}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 723, "0.0": 186}, "0.0": {"1.0": 272, "0.0": 138}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 772, "0.0": 137}, "0.0": {"1.0": 294, "0.0": 116}}]
+Dark-Reaction-NN/PaulingElectronegMax.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 794, "0.0": 115}, "0.0": {"1.0": 343, "0.0": 67}}]

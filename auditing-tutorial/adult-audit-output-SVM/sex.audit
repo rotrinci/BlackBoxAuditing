@@ -1,0 +1,12 @@
+GFA Audit for:sex
+adult-audit-output-SVM/sex.audit.test.repaired_0.0.data:[0.0, {"<=50K": {"<=50K": 11729, ">50K": 706}, ">50K": {"<=50K": 1663, ">50K": 2183}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.1.data:[0.1, {"<=50K": {"<=50K": 11770, ">50K": 665}, ">50K": {"<=50K": 1732, ">50K": 2114}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.2.data:[0.2, {"<=50K": {"<=50K": 11781, ">50K": 654}, ">50K": {"<=50K": 1802, ">50K": 2044}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.3.data:[0.30000000000000004, {"<=50K": {"<=50K": 11825, ">50K": 610}, ">50K": {"<=50K": 1879, ">50K": 1967}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.4.data:[0.4, {"<=50K": {"<=50K": 11896, ">50K": 539}, ">50K": {"<=50K": 2000, ">50K": 1846}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.5.data:[0.5, {"<=50K": {"<=50K": 11972, ">50K": 463}, ">50K": {"<=50K": 2082, ">50K": 1764}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.6.data:[0.6, {"<=50K": {"<=50K": 12002, ">50K": 433}, ">50K": {"<=50K": 2209, ">50K": 1637}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.7.data:[0.7, {"<=50K": {"<=50K": 12033, ">50K": 402}, ">50K": {"<=50K": 2337, ">50K": 1509}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.8.data:[0.7999999999999999, {"<=50K": {"<=50K": 12101, ">50K": 334}, ">50K": {"<=50K": 2473, ">50K": 1373}}]
+adult-audit-output-SVM/sex.audit.test.repaired_0.9.data:[0.8999999999999999, {"<=50K": {"<=50K": 12179, ">50K": 256}, ">50K": {"<=50K": 2646, ">50K": 1200}}]
+adult-audit-output-SVM/sex.audit.test.repaired_1.0.data:[0.9999999999999999, {"<=50K": {"<=50K": 12252, ">50K": 183}, ">50K": {"<=50K": 2846, ">50K": 1000}}]

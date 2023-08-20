@@ -1,0 +1,12 @@
+GFA Audit for:hardnessGeomWeighted
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 853, "0.0": 56}, "0.0": {"0.0": 165, "1.0": 245}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 848, "0.0": 61}, "0.0": {"0.0": 164, "1.0": 246}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 839, "0.0": 70}, "0.0": {"1.0": 266, "0.0": 144}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 844, "0.0": 65}, "0.0": {"1.0": 284, "0.0": 126}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 864, "0.0": 45}, "0.0": {"1.0": 324, "0.0": 86}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 868, "0.0": 41}, "0.0": {"1.0": 368, "0.0": 42}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 894, "0.0": 15}, "0.0": {"1.0": 391, "0.0": 19}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 904, "0.0": 5}, "0.0": {"1.0": 407, "0.0": 3}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]
+Dark-Reaction-NN/hardnessGeomWeighted.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

@@ -1,0 +1,12 @@
+GFA Audit for:Cough
+Disease-DT/Cough.audit.test.repaired_0.0.data:[0.0, {"Positive": {"Positive": 51, "Negative": 11}, "Negative": {"Negative": 34, "Positive": 21}}]
+Disease-DT/Cough.audit.test.repaired_0.1.data:[0.1, {"Positive": {"Positive": 47, "Negative": 15}, "Negative": {"Negative": 33, "Positive": 22}}]
+Disease-DT/Cough.audit.test.repaired_0.2.data:[0.2, {"Positive": {"Positive": 45, "Negative": 17}, "Negative": {"Negative": 29, "Positive": 26}}]
+Disease-DT/Cough.audit.test.repaired_0.3.data:[0.30000000000000004, {"Positive": {"Positive": 45, "Negative": 17}, "Negative": {"Negative": 32, "Positive": 23}}]
+Disease-DT/Cough.audit.test.repaired_0.4.data:[0.4, {"Positive": {"Positive": 42, "Negative": 20}, "Negative": {"Negative": 32, "Positive": 23}}]
+Disease-DT/Cough.audit.test.repaired_0.5.data:[0.5, {"Positive": {"Positive": 43, "Negative": 19}, "Negative": {"Negative": 29, "Positive": 26}}]
+Disease-DT/Cough.audit.test.repaired_0.6.data:[0.6, {"Positive": {"Negative": 20, "Positive": 42}, "Negative": {"Negative": 33, "Positive": 22}}]
+Disease-DT/Cough.audit.test.repaired_0.7.data:[0.7, {"Positive": {"Positive": 41, "Negative": 21}, "Negative": {"Negative": 31, "Positive": 24}}]
+Disease-DT/Cough.audit.test.repaired_0.8.data:[0.7999999999999999, {"Positive": {"Positive": 42, "Negative": 20}, "Negative": {"Negative": 32, "Positive": 23}}]
+Disease-DT/Cough.audit.test.repaired_0.9.data:[0.8999999999999999, {"Positive": {"Positive": 41, "Negative": 21}, "Negative": {"Negative": 32, "Positive": 23}}]
+Disease-DT/Cough.audit.test.repaired_1.0.data:[0.9999999999999999, {"Positive": {"Positive": 43, "Negative": 19}, "Negative": {"Negative": 31, "Positive": 24}}]

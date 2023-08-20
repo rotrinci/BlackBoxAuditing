@@ -1,0 +1,335 @@
+Pre-Repaired Feature,Response,Prediction
+0<=X<200,bad,good
+<0,good,good
+no checking,good,good
+<0,bad,good
+no checking,good,good
+<0,good,good
+0<=X<200,bad,good
+0<=X<200,good,good
+<0,good,good
+no checking,good,good
+<0,bad,good
+no checking,good,good
+>=200,good,good
+>=200,bad,good
+0<=X<200,good,good
+0<=X<200,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+>=200,good,good
+<0,bad,bad
+0<=X<200,bad,good
+0<=X<200,bad,good
+no checking,good,good
+no checking,bad,good
+<0,bad,good
+<0,good,good
+0<=X<200,good,good
+0<=X<200,good,good
+no checking,bad,good
+<0,good,good
+no checking,good,good
+0<=X<200,good,good
+0<=X<200,bad,good
+no checking,good,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,bad,good
+<0,good,good
+0<=X<200,good,good
+>=200,good,good
+<0,good,good
+<0,bad,good
+<0,good,good
+<0,bad,good
+>=200,good,good
+0<=X<200,bad,good
+0<=X<200,good,good
+no checking,good,good
+no checking,good,good
+>=200,good,good
+0<=X<200,good,good
+<0,bad,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+0<=X<200,good,good
+<0,bad,good
+<0,good,good
+0<=X<200,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+<0,good,good
+no checking,good,good
+0<=X<200,bad,good
+0<=X<200,bad,good
+0<=X<200,bad,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+0<=X<200,good,good
+no checking,good,good
+>=200,bad,good
+<0,good,good
+<0,good,good
+0<=X<200,good,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+no checking,bad,good
+no checking,good,good
+0<=X<200,good,good
+0<=X<200,bad,good
+no checking,good,good
+no checking,good,good
+<0,bad,good
+no checking,good,good
+no checking,good,good
+<0,good,good
+<0,good,good
+0<=X<200,bad,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+<0,bad,good
+no checking,bad,good
+no checking,good,good
+0<=X<200,bad,good
+>=200,good,good
+no checking,good,good
+no checking,good,good
+>=200,bad,good
+0<=X<200,good,good
+0<=X<200,good,good
+0<=X<200,good,good
+no checking,good,good
+0<=X<200,bad,good
+<0,good,good
+no checking,good,good
+<0,good,good
+no checking,good,good
+no checking,bad,good
+<0,bad,good
+0<=X<200,good,good
+0<=X<200,good,good
+>=200,good,good
+0<=X<200,good,good
+0<=X<200,bad,good
+<0,bad,good
+no checking,good,good
+no checking,good,good
+>=200,good,good
+no checking,good,good
+0<=X<200,good,good
+no checking,good,good
+<0,good,good
+0<=X<200,bad,good
+no checking,good,good
+0<=X<200,good,good
+no checking,good,good
+0<=X<200,good,good
+0<=X<200,bad,good
+no checking,good,good
+no checking,bad,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+<0,bad,good
+0<=X<200,bad,good
+<0,good,good
+>=200,bad,good
+>=200,good,good
+<0,bad,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+0<=X<200,bad,good
+<0,bad,good
+<0,bad,good
+no checking,good,good
+>=200,good,good
+<0,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+0<=X<200,good,good
+no checking,good,good
+>=200,good,good
+<0,bad,good
+>=200,good,good
+no checking,good,good
+0<=X<200,good,good
+<0,good,good
+<0,good,good
+<0,bad,good
+0<=X<200,good,good
+<0,good,good
+0<=X<200,good,good
+no checking,good,good
+<0,bad,good
+>=200,good,good
+0<=X<200,bad,good
+no checking,good,good
+<0,bad,good
+no checking,good,good
+no checking,good,good
+0<=X<200,good,good
+0<=X<200,bad,good
+<0,bad,good
+<0,bad,good
+no checking,good,good
+<0,good,good
+0<=X<200,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+<0,good,good
+<0,bad,good
+<0,good,good
+0<=X<200,bad,good
+no checking,bad,good
+0<=X<200,bad,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+<0,good,good
+no checking,bad,good
+no checking,good,good
+no checking,bad,good
+<0,good,good
+<0,bad,good
+>=200,good,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+<0,bad,good
+no checking,bad,good
+<0,bad,good
+<0,good,good
+no checking,good,good
+0<=X<200,good,good
+>=200,good,good
+no checking,good,good
+no checking,good,good
+no checking,bad,good
+0<=X<200,bad,good
+no checking,good,good
+>=200,good,good
+<0,good,good
+no checking,good,good
+>=200,good,good
+0<=X<200,good,good
+no checking,good,good
+0<=X<200,bad,good
+0<=X<200,good,good
+no checking,good,good
+<0,good,good
+0<=X<200,bad,good
+>=200,good,good
+0<=X<200,good,good
+>=200,bad,good
+0<=X<200,bad,good
+no checking,good,good
+0<=X<200,good,good
+<0,good,good
+no checking,good,good
+<0,good,good
+0<=X<200,good,good
+no checking,good,bad
+no checking,bad,good
+<0,bad,good
+<0,bad,good
+no checking,bad,good
+0<=X<200,good,good
+>=200,good,good
+<0,bad,good
+no checking,good,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+<0,bad,good
+no checking,good,good
+no checking,good,good
+0<=X<200,good,good
+0<=X<200,good,good
+0<=X<200,good,good
+0<=X<200,good,good
+no checking,good,good
+<0,good,good
+0<=X<200,good,good
+<0,good,good
+no checking,good,good
+0<=X<200,good,good
+no checking,good,good
+<0,bad,good
+no checking,good,good
+no checking,bad,good
+<0,bad,good
+no checking,bad,good
+no checking,good,good
+<0,good,good
+no checking,good,good
+no checking,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+no checking,good,good
+<0,good,good
+0<=X<200,good,good
+<0,bad,good
+no checking,good,good
+no checking,good,good
+<0,good,good
+0<=X<200,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+<0,bad,good
+<0,bad,good
+0<=X<200,good,good
+<0,bad,good
+<0,good,good
+<0,good,good
+0<=X<200,bad,good
+no checking,good,good
+no checking,good,good
+0<=X<200,bad,good
+no checking,good,good
+<0,bad,good
+no checking,bad,bad
+0<=X<200,good,good
+0<=X<200,good,good
+0<=X<200,good,good
+no checking,good,good
+0<=X<200,good,good
+no checking,good,good
+<0,bad,good
+no checking,good,good
+0<=X<200,good,good
+0<=X<200,good,good
+no checking,bad,good
+no checking,good,good
+<0,good,good
+no checking,good,good
+0<=X<200,good,good

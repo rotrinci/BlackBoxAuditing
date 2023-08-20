@@ -1,0 +1,12 @@
+GFA Audit for:A
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.0.data:[0.0, {"True": {"True": 1021}, "False": {"True": 1, "False": 978}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.1.data:[0.1, {"True": {"True": 1005, "False": 16}, "False": {"False": 930, "True": 49}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.2.data:[0.2, {"True": {"True": 1006, "False": 15}, "False": {"False": 876, "True": 103}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.3.data:[0.30000000000000004, {"True": {"True": 1009, "False": 12}, "False": {"True": 179, "False": 800}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.4.data:[0.4, {"True": {"True": 1009, "False": 12}, "False": {"False": 745, "True": 234}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.5.data:[0.5, {"True": {"True": 1012, "False": 9}, "False": {"False": 654, "True": 325}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.6.data:[0.6, {"True": {"True": 1014, "False": 7}, "False": {"True": 410, "False": 569}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.7.data:[0.7, {"True": {"True": 1014, "False": 7}, "False": {"True": 536, "False": 443}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.8.data:[0.7999999999999999, {"True": {"True": 1018, "False": 3}, "False": {"True": 658, "False": 321}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_0.9.data:[0.8999999999999999, {"True": {"True": 1020, "False": 1}, "False": {"False": 173, "True": 806}}]
+synthetic-audit-output-DT-NoConstant/A.audit.test.repaired_1.0.data:[0.9999999999999999, {"True": {"True": 1021}, "False": {"True": 979}}]

@@ -1,0 +1,12 @@
+GFA Audit for:orgavgpol_pHdependentMin
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 842, "0.0": 67}, "0.0": {"0.0": 197, "1.0": 213}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 825, "0.0": 84}, "0.0": {"1.0": 223, "0.0": 187}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 774, "0.0": 135}, "0.0": {"1.0": 218, "0.0": 192}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 745, "0.0": 164}, "0.0": {"1.0": 209, "0.0": 201}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 710, "0.0": 199}, "0.0": {"1.0": 208, "0.0": 202}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 844, "0.0": 65}, "0.0": {"1.0": 328, "0.0": 82}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 817, "0.0": 92}, "0.0": {"1.0": 332, "0.0": 78}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 128, "1.0": 781}, "0.0": {"1.0": 324, "0.0": 86}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 716, "0.0": 193}, "0.0": {"0.0": 115, "1.0": 295}}]
+Dark-Reaction-NN/orgavgpol_pHdependentMin.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 694, "0.0": 215}, "0.0": {"1.0": 293, "0.0": 117}}]

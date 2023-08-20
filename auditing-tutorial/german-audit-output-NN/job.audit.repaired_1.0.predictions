@@ -1,0 +1,335 @@
+Pre-Repaired Feature,Response,Prediction
+skilled,good,good
+skilled,bad,bad
+skilled,bad,bad
+unskilled resident,bad,good
+skilled,good,bad
+skilled,good,good
+skilled,good,bad
+skilled,good,good
+skilled,good,good
+unskilled resident,good,good
+unskilled resident,good,good
+unskilled resident,bad,good
+skilled,good,good
+skilled,good,good
+unemp/unskilled non res,good,good
+unskilled resident,good,good
+high qualif/self emp/mgmt,good,bad
+high qualif/self emp/mgmt,bad,good
+unskilled resident,bad,bad
+skilled,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+high qualif/self emp/mgmt,bad,good
+skilled,bad,bad
+skilled,good,good
+skilled,bad,good
+skilled,good,good
+skilled,bad,good
+high qualif/self emp/mgmt,good,good
+skilled,bad,bad
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,bad,bad
+skilled,good,good
+skilled,bad,good
+high qualif/self emp/mgmt,good,good
+high qualif/self emp/mgmt,good,good
+unskilled resident,good,good
+skilled,good,good
+skilled,bad,bad
+skilled,good,good
+skilled,good,good
+unemp/unskilled non res,good,good
+unskilled resident,good,bad
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,bad,bad
+skilled,bad,good
+skilled,bad,bad
+skilled,good,good
+skilled,bad,bad
+high qualif/self emp/mgmt,good,good
+skilled,bad,good
+unemp/unskilled non res,good,bad
+unskilled resident,bad,good
+skilled,bad,good
+skilled,bad,good
+high qualif/self emp/mgmt,bad,good
+skilled,bad,bad
+skilled,good,good
+high qualif/self emp/mgmt,bad,good
+skilled,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,bad
+skilled,good,bad
+skilled,good,good
+skilled,good,good
+skilled,bad,good
+skilled,good,good
+unemp/unskilled non res,bad,bad
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,bad,bad
+skilled,good,good
+unskilled resident,good,good
+skilled,good,good
+skilled,good,bad
+high qualif/self emp/mgmt,good,good
+unskilled resident,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,bad
+skilled,bad,good
+unskilled resident,bad,good
+skilled,good,good
+skilled,bad,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,bad
+skilled,good,good
+high qualif/self emp/mgmt,bad,bad
+skilled,good,good
+skilled,bad,good
+unemp/unskilled non res,good,good
+unskilled resident,bad,good
+skilled,good,bad
+unskilled resident,good,good
+skilled,good,good
+unskilled resident,bad,good
+unskilled resident,good,good
+skilled,bad,bad
+unskilled resident,good,good
+skilled,good,good
+high qualif/self emp/mgmt,bad,good
+skilled,good,bad
+unskilled resident,good,good
+skilled,good,bad
+skilled,bad,good
+skilled,good,good
+skilled,bad,bad
+skilled,good,good
+unemp/unskilled non res,bad,bad
+skilled,good,good
+skilled,bad,bad
+skilled,good,good
+skilled,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+skilled,bad,bad
+skilled,good,good
+high qualif/self emp/mgmt,bad,good
+skilled,good,good
+skilled,good,bad
+unskilled resident,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,bad
+high qualif/self emp/mgmt,good,good
+skilled,bad,bad
+skilled,good,good
+unskilled resident,good,good
+skilled,bad,good
+skilled,good,good
+skilled,bad,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+unskilled resident,good,good
+unskilled resident,good,good
+high qualif/self emp/mgmt,bad,bad
+unemp/unskilled non res,good,good
+unemp/unskilled non res,bad,good
+skilled,good,good
+unskilled resident,bad,good
+high qualif/self emp/mgmt,bad,good
+unskilled resident,good,good
+skilled,bad,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+high qualif/self emp/mgmt,good,bad
+skilled,bad,good
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+unskilled resident,bad,bad
+unskilled resident,good,good
+skilled,bad,good
+unskilled resident,bad,bad
+unskilled resident,good,good
+skilled,good,good
+high qualif/self emp/mgmt,bad,good
+skilled,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+high qualif/self emp/mgmt,bad,bad
+skilled,good,good
+high qualif/self emp/mgmt,good,bad
+skilled,good,good
+skilled,good,good
+skilled,good,bad
+skilled,good,good
+skilled,good,bad
+skilled,good,good
+skilled,good,bad
+skilled,good,good
+skilled,bad,good
+unskilled resident,bad,bad
+skilled,good,good
+skilled,good,bad
+high qualif/self emp/mgmt,good,good
+skilled,bad,bad
+skilled,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,bad
+unskilled resident,good,bad
+skilled,good,bad
+unskilled resident,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+unskilled resident,good,good
+high qualif/self emp/mgmt,bad,bad
+skilled,bad,bad
+skilled,good,good
+unskilled resident,bad,bad
+skilled,good,bad
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+skilled,good,good
+skilled,bad,bad
+unskilled resident,good,good
+skilled,good,bad
+skilled,good,good
+skilled,good,good
+unskilled resident,bad,good
+skilled,good,good
+skilled,bad,good
+skilled,good,bad
+unskilled resident,bad,bad
+skilled,good,bad
+skilled,bad,bad
+skilled,good,good
+unskilled resident,good,good
+skilled,good,good
+skilled,good,good
+skilled,bad,bad
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+skilled,bad,good
+skilled,good,good
+skilled,bad,good
+skilled,bad,bad
+skilled,bad,bad
+high qualif/self emp/mgmt,bad,good
+skilled,good,good
+skilled,good,good
+high qualif/self emp/mgmt,bad,good
+skilled,bad,bad
+skilled,bad,bad
+skilled,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,bad
+unskilled resident,bad,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,good
+skilled,bad,good
+unskilled resident,good,bad
+skilled,good,good
+unemp/unskilled non res,good,good
+skilled,good,good
+skilled,good,good
+unskilled resident,bad,bad
+high qualif/self emp/mgmt,good,good
+unskilled resident,good,good
+skilled,bad,bad
+skilled,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,bad,good
+unskilled resident,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,good
+skilled,good,good
+skilled,bad,good
+skilled,bad,bad
+unskilled resident,good,good
+high qualif/self emp/mgmt,good,good
+skilled,bad,good
+skilled,bad,good
+skilled,bad,good
+skilled,good,good
+skilled,bad,bad
+skilled,bad,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,bad,good
+unskilled resident,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,good,bad
+skilled,good,good
+skilled,bad,good
+skilled,good,good
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+unskilled resident,good,good
+skilled,bad,bad
+skilled,good,bad
+skilled,bad,bad
+high qualif/self emp/mgmt,bad,bad
+skilled,good,good
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+skilled,bad,good
+unskilled resident,bad,good
+high qualif/self emp/mgmt,good,good
+high qualif/self emp/mgmt,good,good
+skilled,good,good
+unskilled resident,good,good
+unskilled resident,bad,good
+unemp/unskilled non res,good,bad
+high qualif/self emp/mgmt,bad,bad
+unskilled resident,good,good
+unskilled resident,bad,bad
+skilled,good,good
+unskilled resident,good,good
+high qualif/self emp/mgmt,good,good
+unskilled resident,good,good
+unskilled resident,good,good
+high qualif/self emp/mgmt,bad,bad
+skilled,bad,good
+unskilled resident,good,good
+unskilled resident,good,good
+unskilled resident,good,good
+high qualif/self emp/mgmt,good,bad
+skilled,good,good

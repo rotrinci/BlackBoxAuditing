@@ -1,0 +1,335 @@
+Pre-Repaired Feature,Response,Prediction
+new car,bad,bad
+furniture/equipment,good,good
+used car,good,good
+new car,bad,good
+new car,bad,good
+radio/tv,good,good
+business,good,bad
+used car,bad,good
+new car,good,good
+furniture/equipment,good,bad
+radio/tv,good,good
+furniture/equipment,good,good
+radio/tv,bad,good
+radio/tv,good,bad
+radio/tv,good,good
+repairs,good,good
+radio/tv,good,good
+new car,good,good
+radio/tv,good,good
+new car,good,bad
+furniture/equipment,bad,good
+radio/tv,good,good
+repairs,good,good
+used car,good,bad
+other,good,good
+education,bad,bad
+furniture/equipment,good,bad
+radio/tv,bad,good
+radio/tv,good,good
+radio/tv,good,bad
+business,good,good
+radio/tv,bad,good
+business,bad,good
+education,good,good
+business,good,good
+radio/tv,good,good
+used car,good,good
+radio/tv,good,bad
+used car,good,good
+business,good,good
+new car,bad,good
+radio/tv,good,good
+furniture/equipment,bad,good
+radio/tv,bad,bad
+new car,good,good
+radio/tv,good,bad
+repairs,bad,bad
+furniture/equipment,good,good
+furniture/equipment,good,bad
+radio/tv,good,good
+business,good,bad
+new car,good,good
+used car,good,good
+business,good,good
+new car,good,good
+domestic appliance,good,good
+furniture/equipment,bad,good
+furniture/equipment,good,bad
+business,bad,good
+new car,bad,good
+education,bad,good
+radio/tv,good,good
+radio/tv,good,good
+used car,bad,good
+new car,good,good
+business,bad,bad
+furniture/equipment,bad,bad
+new car,good,good
+business,good,good
+new car,good,good
+domestic appliance,good,good
+used car,good,good
+radio/tv,good,good
+business,bad,good
+radio/tv,good,good
+radio/tv,good,good
+radio/tv,good,bad
+business,good,good
+used car,good,good
+radio/tv,bad,good
+radio/tv,good,bad
+radio/tv,good,good
+new car,bad,good
+used car,bad,good
+new car,good,bad
+furniture/equipment,good,good
+radio/tv,good,good
+education,good,bad
+new car,good,good
+radio/tv,good,good
+furniture/equipment,good,good
+radio/tv,bad,good
+repairs,bad,good
+radio/tv,good,good
+furniture/equipment,good,good
+furniture/equipment,bad,good
+used car,good,good
+furniture/equipment,good,good
+radio/tv,good,good
+used car,good,good
+business,good,good
+furniture/equipment,bad,bad
+used car,good,good
+new car,good,good
+furniture/equipment,good,good
+radio/tv,bad,bad
+other,good,bad
+furniture/equipment,good,good
+new car,bad,bad
+new car,good,good
+furniture/equipment,good,good
+education,good,good
+furniture/equipment,good,good
+used car,good,good
+new car,good,good
+furniture/equipment,good,good
+new car,good,good
+radio/tv,good,good
+used car,good,good
+used car,bad,bad
+business,good,good
+radio/tv,good,good
+radio/tv,good,good
+education,bad,good
+furniture/equipment,bad,bad
+radio/tv,bad,good
+radio/tv,good,good
+furniture/equipment,good,good
+other,bad,good
+radio/tv,good,good
+new car,good,good
+furniture/equipment,good,good
+used car,bad,good
+new car,good,good
+furniture/equipment,good,good
+new car,good,good
+radio/tv,good,good
+new car,good,good
+radio/tv,bad,good
+used car,good,good
+new car,bad,good
+new car,good,good
+new car,bad,bad
+new car,good,good
+new car,good,good
+furniture/equipment,bad,good
+radio/tv,good,good
+furniture/equipment,good,good
+repairs,bad,good
+repairs,good,good
+radio/tv,bad,good
+new car,good,good
+furniture/equipment,bad,good
+new car,good,good
+furniture/equipment,good,bad
+furniture/equipment,good,good
+business,good,good
+radio/tv,bad,bad
+business,good,good
+radio/tv,bad,good
+retraining,good,good
+radio/tv,bad,good
+new car,good,good
+new car,good,good
+new car,good,bad
+new car,good,good
+radio/tv,good,good
+new car,bad,bad
+new car,bad,good
+new car,bad,bad
+used car,good,good
+business,good,good
+radio/tv,good,good
+new car,good,good
+new car,good,bad
+repairs,good,good
+furniture/equipment,bad,good
+used car,good,good
+radio/tv,good,good
+radio/tv,bad,bad
+new car,good,bad
+radio/tv,good,good
+radio/tv,good,good
+new car,good,good
+furniture/equipment,good,good
+new car,bad,good
+furniture/equipment,good,good
+furniture/equipment,bad,good
+repairs,good,good
+furniture/equipment,bad,good
+furniture/equipment,bad,good
+business,good,bad
+furniture/equipment,good,bad
+radio/tv,good,bad
+education,good,good
+new car,good,good
+new car,good,good
+new car,good,good
+furniture/equipment,good,bad
+furniture/equipment,bad,good
+new car,bad,bad
+new car,bad,bad
+new car,bad,good
+business,good,good
+radio/tv,good,bad
+education,bad,good
+furniture/equipment,good,bad
+furniture/equipment,good,bad
+business,good,good
+radio/tv,bad,good
+domestic appliance,bad,good
+business,good,bad
+radio/tv,good,bad
+business,good,good
+business,bad,bad
+education,good,good
+radio/tv,good,bad
+radio/tv,good,good
+education,good,good
+radio/tv,good,good
+radio/tv,good,good
+repairs,good,good
+education,bad,good
+radio/tv,good,good
+new car,bad,good
+furniture/equipment,good,good
+new car,bad,good
+furniture/equipment,good,good
+education,good,good
+other,good,good
+furniture/equipment,good,good
+new car,bad,good
+business,bad,good
+radio/tv,good,bad
+radio/tv,good,good
+furniture/equipment,good,good
+repairs,good,bad
+radio/tv,good,good
+new car,good,good
+business,good,good
+radio/tv,good,good
+education,bad,good
+radio/tv,good,good
+radio/tv,good,good
+used car,good,good
+radio/tv,bad,bad
+radio/tv,good,good
+used car,good,good
+new car,good,good
+new car,good,bad
+new car,good,good
+used car,good,good
+used car,good,good
+new car,bad,bad
+repairs,bad,good
+new car,good,good
+radio/tv,good,bad
+radio/tv,good,bad
+furniture/equipment,bad,good
+furniture/equipment,good,good
+radio/tv,good,good
+used car,good,good
+radio/tv,good,good
+new car,bad,bad
+used car,good,good
+used car,bad,good
+furniture/equipment,good,good
+new car,good,good
+education,good,good
+radio/tv,good,good
+new car,bad,good
+used car,good,bad
+new car,bad,bad
+radio/tv,good,bad
+domestic appliance,good,good
+new car,good,good
+furniture/equipment,bad,bad
+business,good,good
+new car,bad,bad
+radio/tv,good,good
+new car,bad,bad
+radio/tv,good,good
+furniture/equipment,good,good
+used car,good,good
+new car,bad,good
+new car,good,good
+radio/tv,bad,good
+used car,good,good
+new car,bad,good
+new car,good,good
+new car,good,bad
+furniture/equipment,good,good
+business,good,good
+new car,good,bad
+domestic appliance,good,good
+new car,good,good
+education,bad,bad
+business,good,good
+used car,good,good
+furniture/equipment,bad,bad
+education,good,bad
+radio/tv,good,good
+business,bad,bad
+used car,good,good
+new car,bad,good
+furniture/equipment,bad,bad
+radio/tv,good,good
+new car,good,good
+furniture/equipment,good,good
+radio/tv,good,good
+new car,good,good
+new car,good,good
+new car,good,good
+furniture/equipment,bad,good
+furniture/equipment,bad,bad
+radio/tv,good,good
+radio/tv,good,good
+new car,good,good
+radio/tv,good,bad
+radio/tv,good,good
+new car,good,good
+new car,bad,good
+business,bad,good
+radio/tv,good,good
+business,good,good
+new car,bad,bad
+furniture/equipment,bad,good
+business,bad,bad
+furniture/equipment,good,good
+furniture/equipment,good,good
+radio/tv,good,good
+furniture/equipment,good,good
+used car,good,good
+radio/tv,bad,bad

@@ -1,0 +1,12 @@
+GFA Audit for:Co
+Dark-Reaction-SVM/Co.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 841, "0.0": 68}, "0.0": {"1.0": 248, "0.0": 162}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 839, "0.0": 70}, "0.0": {"1.0": 255, "0.0": 155}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 852, "0.0": 57}, "0.0": {"1.0": 265, "0.0": 145}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 856, "0.0": 53}, "0.0": {"1.0": 278, "0.0": 132}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 864, "0.0": 45}, "0.0": {"1.0": 303, "0.0": 107}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 869, "0.0": 40}, "0.0": {"1.0": 315, "0.0": 95}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 878, "0.0": 31}, "0.0": {"1.0": 372, "0.0": 38}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 894, "0.0": 15}, "0.0": {"1.0": 388, "0.0": 22}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 906, "0.0": 3}, "0.0": {"1.0": 406, "0.0": 4}}]
+Dark-Reaction-SVM/Co.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

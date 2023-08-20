@@ -1,0 +1,12 @@
+GFA Audit for:REGION
+MHS-SVM/REGION.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 415, "0": 95}, "0": {"1": 76, "0": 334}}]
+MHS-SVM/REGION.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 410, "0": 100}, "0": {"1": 72, "0": 338}}]
+MHS-SVM/REGION.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 405, "0": 105}, "0": {"1": 66, "0": 344}}]
+MHS-SVM/REGION.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 403, "0": 107}, "0": {"1": 67, "0": 343}}]
+MHS-SVM/REGION.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 397, "0": 113}, "0": {"1": 61, "0": 349}}]
+MHS-SVM/REGION.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 398, "0": 112}, "0": {"1": 61, "0": 349}}]
+MHS-SVM/REGION.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 473, "0": 37}, "0": {"1": 185, "0": 225}}]
+MHS-SVM/REGION.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 473, "0": 37}, "0": {"1": 184, "0": 226}}]
+MHS-SVM/REGION.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 469, "0": 41}, "0": {"1": 178, "0": 232}}]
+MHS-SVM/REGION.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 460, "0": 50}, "0": {"1": 181, "0": 229}}]
+MHS-SVM/REGION.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 454, "0": 56}, "0": {"1": 186, "0": 224}}]

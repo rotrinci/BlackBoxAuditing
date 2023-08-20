@@ -1,0 +1,12 @@
+GFA Audit for:Random
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.0.data:[0.0, {"False": {"False": 1002}, "True": {"False": 1, "True": 997}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.1.data:[0.1, {"False": {"False": 1002}, "True": {"False": 2, "True": 996}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.2.data:[0.2, {"False": {"False": 1002}, "True": {"False": 4, "True": 994}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.3.data:[0.30000000000000004, {"False": {"False": 1002}, "True": {"False": 6, "True": 992}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.4.data:[0.4, {"False": {"False": 1002}, "True": {"False": 8, "True": 990}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.5.data:[0.5, {"False": {"False": 1002}, "True": {"False": 11, "True": 987}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.6.data:[0.6, {"False": {"False": 1002}, "True": {"False": 17, "True": 981}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.7.data:[0.7, {"False": {"False": 1002}, "True": {"False": 25, "True": 973}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.8.data:[0.7999999999999999, {"False": {"False": 1002}, "True": {"False": 43, "True": 955}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_0.9.data:[0.8999999999999999, {"False": {"False": 1002}, "True": {"False": 95, "True": 903}}]
+synthetic-audit-output-DT-NoCon/Random.audit.test.repaired_1.0.data:[0.9999999999999999, {"False": {"False": 1002}, "True": {"False": 998}}]

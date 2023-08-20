@@ -1,0 +1,12 @@
+GFA Audit for:FUBP1
+Mutations-SVM/FUBP1.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 129, "GBM": 28}, "GBM": {"GBM": 118, "LGG": 11}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 131, "GBM": 26}, "GBM": {"GBM": 115, "LGG": 14}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 133, "GBM": 24}, "GBM": {"GBM": 112, "LGG": 17}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 133, "GBM": 24}, "GBM": {"GBM": 109, "LGG": 20}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 134, "GBM": 23}, "GBM": {"GBM": 97, "LGG": 32}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 130, "GBM": 27}, "GBM": {"GBM": 92, "LGG": 37}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 139, "GBM": 18}, "GBM": {"LGG": 41, "GBM": 88}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 140, "GBM": 17}, "GBM": {"LGG": 38, "GBM": 91}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 137, "GBM": 20}, "GBM": {"GBM": 72, "LGG": 57}}]
+Mutations-SVM/FUBP1.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 138, "GBM": 19}, "GBM": {"LGG": 67, "GBM": 62}}]
+Mutations-SVM/FUBP1.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 142, "GBM": 15}, "GBM": {"LGG": 77, "GBM": 52}}]

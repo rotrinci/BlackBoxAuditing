@@ -1,0 +1,335 @@
+Pre-Repaired Feature,Response,Prediction
+no known property,bad,good
+no known property,good,good
+car,bad,bad
+life insurance,bad,bad
+car,bad,good
+car,good,bad
+real estate,good,good
+life insurance,good,good
+car,good,bad
+life insurance,bad,bad
+no known property,good,good
+real estate,good,bad
+car,good,bad
+real estate,good,good
+life insurance,good,good
+no known property,bad,good
+real estate,good,bad
+car,good,bad
+no known property,bad,good
+life insurance,good,bad
+car,good,bad
+life insurance,good,bad
+car,bad,good
+life insurance,good,bad
+real estate,bad,bad
+real estate,good,good
+no known property,bad,bad
+real estate,good,bad
+real estate,good,good
+car,good,bad
+life insurance,good,good
+real estate,good,good
+real estate,bad,bad
+real estate,good,bad
+car,bad,bad
+real estate,good,good
+car,bad,good
+car,good,good
+life insurance,bad,bad
+real estate,good,good
+real estate,good,good
+real estate,bad,bad
+real estate,good,good
+car,good,good
+real estate,good,good
+car,good,good
+car,bad,good
+car,good,good
+car,good,good
+life insurance,good,good
+no known property,good,good
+life insurance,good,good
+life insurance,good,good
+no known property,good,good
+life insurance,good,good
+car,good,good
+real estate,bad,bad
+life insurance,bad,good
+car,good,good
+car,bad,bad
+car,bad,good
+car,good,good
+life insurance,bad,good
+no known property,bad,good
+car,good,bad
+car,good,bad
+life insurance,good,good
+real estate,good,good
+car,good,good
+real estate,good,good
+life insurance,good,good
+real estate,good,bad
+real estate,good,good
+car,good,good
+no known property,bad,bad
+no known property,bad,bad
+car,bad,good
+no known property,good,bad
+no known property,good,good
+no known property,good,good
+life insurance,bad,bad
+car,bad,good
+car,bad,bad
+life insurance,good,good
+real estate,good,good
+real estate,good,good
+real estate,good,good
+no known property,good,good
+real estate,bad,good
+real estate,good,good
+real estate,good,good
+car,good,bad
+real estate,good,good
+car,good,bad
+life insurance,bad,good
+car,good,good
+life insurance,good,good
+car,good,good
+real estate,bad,bad
+car,good,good
+life insurance,good,good
+car,good,good
+real estate,good,good
+life insurance,good,bad
+real estate,good,good
+car,bad,good
+car,bad,bad
+car,good,good
+car,good,good
+life insurance,good,good
+no known property,bad,bad
+real estate,good,bad
+car,good,good
+real estate,good,bad
+life insurance,good,good
+car,good,good
+real estate,bad,good
+car,bad,bad
+life insurance,good,bad
+real estate,good,good
+life insurance,good,good
+car,bad,bad
+no known property,good,good
+car,bad,bad
+real estate,good,good
+no known property,good,good
+life insurance,good,good
+real estate,good,good
+car,good,good
+no known property,good,good
+no known property,bad,bad
+no known property,bad,good
+real estate,good,bad
+car,bad,bad
+car,good,bad
+car,good,bad
+car,good,good
+car,good,good
+car,good,good
+car,bad,good
+life insurance,bad,bad
+life insurance,good,good
+car,good,bad
+life insurance,bad,good
+real estate,good,good
+real estate,good,good
+real estate,good,bad
+car,bad,bad
+car,bad,bad
+real estate,good,good
+real estate,good,good
+life insurance,bad,bad
+car,good,good
+no known property,bad,good
+car,good,good
+life insurance,good,good
+real estate,good,good
+life insurance,good,good
+car,good,good
+no known property,good,good
+car,bad,bad
+car,good,good
+car,good,good
+car,bad,bad
+life insurance,bad,good
+car,good,good
+real estate,good,good
+real estate,good,good
+life insurance,good,bad
+life insurance,good,good
+real estate,good,good
+life insurance,bad,good
+life insurance,good,good
+no known property,good,good
+car,bad,good
+no known property,bad,bad
+real estate,good,good
+no known property,good,bad
+real estate,good,good
+no known property,good,good
+life insurance,good,good
+real estate,good,good
+life insurance,bad,good
+car,good,good
+real estate,good,good
+life insurance,good,good
+life insurance,good,good
+life insurance,bad,bad
+real estate,bad,good
+real estate,bad,bad
+car,good,good
+car,good,good
+car,bad,bad
+car,bad,good
+real estate,bad,good
+car,good,good
+car,good,bad
+car,good,good
+car,good,good
+real estate,bad,good
+no known property,good,good
+real estate,bad,bad
+real estate,good,good
+life insurance,good,bad
+real estate,bad,bad
+real estate,good,good
+life insurance,bad,bad
+no known property,bad,good
+car,bad,good
+real estate,good,good
+no known property,bad,bad
+car,good,bad
+car,bad,good
+life insurance,good,good
+real estate,bad,bad
+no known property,bad,bad
+car,good,good
+car,good,good
+life insurance,good,good
+car,bad,bad
+car,bad,good
+car,good,good
+real estate,good,good
+life insurance,good,bad
+life insurance,good,good
+life insurance,good,good
+car,good,good
+car,good,good
+car,bad,good
+no known property,good,good
+no known property,good,bad
+life insurance,good,good
+real estate,good,good
+car,good,good
+life insurance,good,good
+car,good,good
+car,good,bad
+car,bad,good
+real estate,good,good
+life insurance,good,bad
+real estate,good,good
+real estate,good,bad
+no known property,bad,bad
+car,good,good
+car,bad,good
+life insurance,good,good
+no known property,bad,bad
+car,good,good
+car,good,bad
+no known property,good,good
+life insurance,good,bad
+real estate,bad,bad
+car,good,good
+no known property,bad,bad
+real estate,bad,bad
+real estate,good,bad
+real estate,good,good
+real estate,good,bad
+no known property,bad,bad
+life insurance,good,good
+no known property,good,bad
+car,good,good
+car,good,good
+real estate,good,good
+real estate,good,good
+life insurance,bad,good
+car,good,bad
+no known property,good,bad
+car,good,good
+real estate,good,good
+real estate,good,good
+real estate,bad,bad
+real estate,good,good
+car,bad,bad
+car,bad,bad
+car,good,good
+real estate,good,good
+car,good,good
+car,bad,good
+no known property,good,bad
+car,good,good
+car,bad,bad
+real estate,good,good
+car,good,good
+life insurance,good,good
+car,good,bad
+no known property,good,good
+life insurance,bad,good
+car,bad,good
+car,good,good
+life insurance,good,good
+life insurance,good,bad
+life insurance,good,good
+no known property,bad,good
+car,good,good
+no known property,good,good
+real estate,good,good
+car,bad,good
+no known property,good,good
+real estate,good,good
+life insurance,good,good
+life insurance,good,good
+real estate,good,good
+real estate,good,good
+car,good,good
+life insurance,bad,bad
+real estate,good,bad
+life insurance,bad,good
+life insurance,bad,good
+no known property,bad,bad
+real estate,good,good
+car,bad,good
+real estate,good,good
+life insurance,good,good
+car,good,bad
+real estate,good,good
+car,good,good
+life insurance,good,good
+life insurance,good,good
+real estate,good,good
+real estate,good,good
+life insurance,good,bad
+no known property,good,bad
+life insurance,good,good
+real estate,good,good
+no known property,bad,bad
+car,good,bad
+car,good,good
+life insurance,good,good
+car,bad,good
+life insurance,bad,bad
+life insurance,good,good
+real estate,good,good
+life insurance,good,good

@@ -1,0 +1,12 @@
+GFA Audit for:PearsonElectronegGeom
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 841, "0.0": 68}, "0.0": {"1.0": 245, "0.0": 165}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 844, "0.0": 65}, "0.0": {"1.0": 260, "0.0": 150}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 843, "0.0": 66}, "0.0": {"1.0": 276, "0.0": 134}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.4.data:[0.4, {"1.0": {"0.0": 55, "1.0": 854}, "0.0": {"1.0": 296, "0.0": 114}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 867, "0.0": 42}, "0.0": {"1.0": 330, "0.0": 80}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 878, "0.0": 31}, "0.0": {"1.0": 350, "0.0": 60}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 882, "0.0": 27}, "0.0": {"1.0": 377, "0.0": 33}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 883, "0.0": 26}, "0.0": {"1.0": 400, "0.0": 10}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 903, "0.0": 6}, "0.0": {"1.0": 400, "0.0": 10}}]
+Dark-Reaction-SVM/PearsonElectronegGeom.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

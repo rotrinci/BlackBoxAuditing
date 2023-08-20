@@ -1,0 +1,12 @@
+GFA Audit for:num_dependents
+german-audit-output-NN/num_dependents.audit.test.repaired_0.0.data:[0.0, {"good": {"good": 204, "bad": 29}, "bad": {"bad": 56, "good": 45}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.1.data:[0.1, {"good": {"good": 204, "bad": 29}, "bad": {"bad": 57, "good": 44}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.2.data:[0.2, {"good": {"good": 202, "bad": 31}, "bad": {"bad": 55, "good": 46}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.3.data:[0.30000000000000004, {"good": {"good": 201, "bad": 32}, "bad": {"good": 47, "bad": 54}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.4.data:[0.4, {"good": {"good": 201, "bad": 32}, "bad": {"bad": 53, "good": 48}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.5.data:[0.5, {"good": {"good": 204, "bad": 29}, "bad": {"bad": 50, "good": 51}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.6.data:[0.6, {"good": {"good": 200, "bad": 33}, "bad": {"bad": 52, "good": 49}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.7.data:[0.7, {"good": {"good": 196, "bad": 37}, "bad": {"good": 53, "bad": 48}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.8.data:[0.7999999999999999, {"good": {"good": 204, "bad": 29}, "bad": {"bad": 53, "good": 48}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_0.9.data:[0.8999999999999999, {"good": {"good": 198, "bad": 35}, "bad": {"good": 50, "bad": 51}}]
+german-audit-output-NN/num_dependents.audit.test.repaired_1.0.data:[0.9999999999999999, {"good": {"good": 207, "bad": 26}, "bad": {"bad": 48, "good": 53}}]

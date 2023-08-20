@@ -1,0 +1,12 @@
+GFA Audit for:oxlikeASA-Max
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 236, "0.0": 174}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 820, "0.0": 89}, "0.0": {"1.0": 226, "0.0": 184}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 794, "0.0": 115}, "0.0": {"1.0": 225, "0.0": 185}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.4.data:[0.4, {"1.0": {"0.0": 110, "1.0": 799}, "0.0": {"1.0": 217, "0.0": 193}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 768, "0.0": 141}, "0.0": {"1.0": 213, "0.0": 197}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 872, "0.0": 37}, "0.0": {"1.0": 348, "0.0": 62}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 876, "0.0": 33}, "0.0": {"1.0": 354, "0.0": 56}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 885, "0.0": 24}, "0.0": {"1.0": 363, "0.0": 47}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 882, "0.0": 27}, "0.0": {"1.0": 367, "0.0": 43}}]
+Dark-Reaction-SVM/oxlikeASA-Max.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 882, "0.0": 27}, "0.0": {"1.0": 374, "0.0": 36}}]

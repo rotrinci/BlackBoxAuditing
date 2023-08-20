@@ -1,0 +1,15 @@
+Audit Start Time: 2023-06-06 20:46:39.574319
+Audit End Time: 2023-06-06 21:45:05.088048
+Retrained Per Repair: False
+Model Factory ID: 1686098799.575091
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 32561
+Test Size: 16281
+Non-standard Ignored Features: []
+Features: ['age', 'workclass', 'fnlwgt', 'education', 'education-num', 'marital-status', 'occupation', 'relationship', 'race', 'sex', 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country', 'income-per-year']
+
+Ranked Features by accuracy: [('age', 0.22283643510840856), ('workclass', 0.16356489159142562), ('occupation', 0.1364781033106075), ('capital-loss', 0.09366746514341873), ('capital-gain', 0.09071924328972425), ('marital-status', 0.08611264664332652), ('education-num', 0.08353295252134385), ('hours-per-week', 0.07646950433020083), ('education', 0.0727228057244641), ('relationship', 0.05054972053313678), ('fnlwgt', 0.04594312388673916), ('native-country', 0.04287205945580741), ('sex', 0.04053805048829928), ('race', 0.014863951845709766)]
+	Approx. Trend Groups: [['age'], ['workclass', 'occupation'], ['fnlwgt', 'education', 'education-num', 'marital-status', 'relationship', 'sex', 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country'], ['race']]
+Ranked Features by BCR: [('capital-gain', 0.2554137364529563), ('capital-loss', 0.24719681187730014), ('hours-per-week', 0.1972361427629602), ('relationship', 0.15476581186287253), ('sex', 0.13276679921237866), ('native-country', 0.10520080393083031), ('age', 0.07458045487078824), ('education', 0.06835046140084444), ('marital-status', 0.05691191700744025), ('fnlwgt', 0.05162746437481136), ('workclass', 0.014766395239645513), ('race', 0.008563249646994286), ('education-num', 0.0023332248127078126), ('occupation', 0.0006260322789268802)]
+	Approx. Trend Groups: [['age', 'fnlwgt', 'education', 'marital-status'], ['native-country'], ['workclass', 'education-num', 'occupation', 'race'], ['relationship', 'sex'], ['capital-gain', 'capital-loss'], ['hours-per-week']]

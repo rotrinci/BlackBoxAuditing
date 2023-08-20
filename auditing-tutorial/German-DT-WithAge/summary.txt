@@ -1,0 +1,15 @@
+Audit Start Time: 2023-08-15 23:54:03.680029
+Audit End Time: 2023-08-15 23:54:39.553811
+Retrained Per Repair: False
+Model Factory ID: 1692158043.680088
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 666
+Test Size: 334
+Non-standard Ignored Features: []
+Features: ['checking_status', 'duration', 'credit_history', 'purpose', 'credit_amount', 'savings_status', 'employment', 'installment_commitment', 'personal_status', 'other_parties', 'residence', 'property_magnitude', 'age', 'age_cat', 'other_payment_plans', 'housing', 'existing_credits', 'job', 'num_dependents', 'own_telephone', 'foreign_worker', 'class']
+
+Ranked Features by accuracy: [('employment', 0.09580838323353291), ('duration', 0.09281437125748504), ('credit_amount', 0.08682634730538918), ('age', 0.08383233532934131), ('purpose', 0.07784431137724546), ('age_cat', 0.0718562874251496), ('checking_status', 0.06886227544910173), ('savings_status', 0.06287425149700598), ('other_parties', 0.06287425149700598), ('own_telephone', 0.06287425149700598), ('installment_commitment', 0.059880239520958), ('credit_history', 0.053892215568862256), ('foreign_worker', 0.041916167664670656), ('personal_status', 0.0359281437125748), ('residence', 0.03293413173652693), ('other_payment_plans', 0.03293413173652693), ('num_dependents', 0.026946107784431073), ('job', 0.020958083832335328), ('housing', 0.014970059880239472), ('existing_credits', 0.014970059880239472), ('property_magnitude', 0.008982035928143617)]
+	Approx. Trend Groups: [['checking_status', 'duration', 'purpose', 'credit_amount', 'savings_status', 'employment', 'installment_commitment', 'personal_status', 'other_parties', 'residence', 'age', 'age_cat', 'other_payment_plans', 'job', 'num_dependents', 'own_telephone', 'foreign_worker'], ['credit_history'], ['property_magnitude', 'housing', 'existing_credits']]
+Ranked Features by BCR: [('age', 0.15145299145299151), ('checking_status', 0.1464957264957265), ('duration', 0.14354700854700853), ('employment', 0.10559829059829062), ('purpose', 0.10136752136752136), ('credit_amount', 0.09059829059829061), ('foreign_worker', 0.08717948717948731), ('installment_commitment', 0.08282051282051284), ('credit_history', 0.06423076923076931), ('existing_credits', 0.04790598290598291), ('other_payment_plans', 0.04641025641025642), ('personal_status', 0.04568376068376079), ('age_cat', 0.04555555555555557), ('own_telephone', 0.044871794871794934), ('savings_status', 0.04200854700854706), ('num_dependents', 0.0392735042735044), ('other_parties', 0.03628205128205131), ('job', 0.02927350427350439), ('residence', 0.029230769230769282), ('housing', 0.019273504273504383), ('property_magnitude', 0.0035470085470086232)]
+	Approx. Trend Groups: [['checking_status', 'purpose', 'age', 'foreign_worker'], ['installment_commitment'], ['duration'], ['employment'], ['credit_amount'], ['credit_history', 'personal_status', 'residence', 'property_magnitude', 'age_cat', 'other_payment_plans', 'housing', 'existing_credits', 'job', 'num_dependents', 'own_telephone'], ['other_parties'], ['savings_status']]

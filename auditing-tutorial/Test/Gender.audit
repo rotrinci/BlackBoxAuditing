@@ -1,0 +1,12 @@
+GFA Audit for:Gender
+Test/Gender.audit.test.repaired_0.0.data:[0.0, {"A": {"A": 1024}, "B": {"B": 976}}]
+Test/Gender.audit.test.repaired_0.1.data:[0.1, {"A": {"A": 1024}, "B": {"B": 932, "A": 44}}]
+Test/Gender.audit.test.repaired_0.2.data:[0.2, {"A": {"A": 1024}, "B": {"B": 861, "A": 115}}]
+Test/Gender.audit.test.repaired_0.3.data:[0.30000000000000004, {"A": {"A": 1024}, "B": {"B": 805, "A": 171}}]
+Test/Gender.audit.test.repaired_0.4.data:[0.4, {"A": {"A": 1024}, "B": {"A": 242, "B": 734}}]
+Test/Gender.audit.test.repaired_0.5.data:[0.5, {"A": {"A": 1024}, "B": {"B": 665, "A": 311}}]
+Test/Gender.audit.test.repaired_0.6.data:[0.6, {"A": {"A": 1024}, "B": {"A": 416, "B": 560}}]
+Test/Gender.audit.test.repaired_0.7.data:[0.7, {"A": {"A": 1024}, "B": {"B": 462, "A": 514}}]
+Test/Gender.audit.test.repaired_0.8.data:[0.7999999999999999, {"A": {"A": 1024}, "B": {"A": 651, "B": 325}}]
+Test/Gender.audit.test.repaired_0.9.data:[0.8999999999999999, {"A": {"A": 1024}, "B": {"B": 162, "A": 814}}]
+Test/Gender.audit.test.repaired_1.0.data:[0.9999999999999999, {"A": {"A": 1024}, "B": {"A": 976}}]

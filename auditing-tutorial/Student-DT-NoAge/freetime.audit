@@ -1,0 +1,12 @@
+GFA Audit for:freetime
+Student-DT-NoAge/freetime.audit.test.repaired_0.0.data:[0.0, {"0": {"1": 10, "0": 95}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.1.data:[0.1, {"0": {"1": 11, "0": 94}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.2.data:[0.2, {"0": {"1": 11, "0": 94}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.3.data:[0.30000000000000004, {"0": {"1": 10, "0": 95}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.4.data:[0.4, {"0": {"1": 11, "0": 94}, "1": {"1": 102, "0": 10}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.5.data:[0.5, {"0": {"1": 10, "0": 95}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.6.data:[0.6, {"0": {"1": 13, "0": 92}, "1": {"0": 23, "1": 89}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.7.data:[0.7, {"0": {"1": 14, "0": 91}, "1": {"0": 20, "1": 92}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.8.data:[0.7999999999999999, {"0": {"1": 14, "0": 91}, "1": {"0": 18, "1": 94}}]
+Student-DT-NoAge/freetime.audit.test.repaired_0.9.data:[0.8999999999999999, {"0": {"1": 13, "0": 92}, "1": {"0": 20, "1": 92}}]
+Student-DT-NoAge/freetime.audit.test.repaired_1.0.data:[0.9999999999999999, {"0": {"1": 14, "0": 91}, "1": {"0": 19, "1": 93}}]

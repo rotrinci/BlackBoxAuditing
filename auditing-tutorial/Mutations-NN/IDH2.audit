@@ -1,0 +1,12 @@
+GFA Audit for:IDH2
+Mutations-NN/IDH2.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 162}, "GBM": {"GBM": 124}}]
+Mutations-NN/IDH2.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 161, "GBM": 1}, "GBM": {"GBM": 117, "LGG": 7}}]
+Mutations-NN/IDH2.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 161, "GBM": 1}, "GBM": {"GBM": 109, "LGG": 15}}]
+Mutations-NN/IDH2.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"GBM": 99, "LGG": 25}}]
+Mutations-NN/IDH2.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 154, "GBM": 8}, "GBM": {"LGG": 38, "GBM": 86}}]
+Mutations-NN/IDH2.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"GBM": 80, "LGG": 44}}]
+Mutations-NN/IDH2.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"GBM": 80, "LGG": 44}}]
+Mutations-NN/IDH2.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 157, "GBM": 5}, "GBM": {"GBM": 57, "LGG": 67}}]
+Mutations-NN/IDH2.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 158, "GBM": 4}, "GBM": {"LGG": 84, "GBM": 40}}]
+Mutations-NN/IDH2.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"LGG": 103, "GBM": 21}}]
+Mutations-NN/IDH2.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 162}, "GBM": {"LGG": 124}}]

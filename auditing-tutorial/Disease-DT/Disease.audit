@@ -1,0 +1,12 @@
+GFA Audit for:Disease
+Disease-DT/Disease.audit.test.repaired_0.0.data:[0.0, {"Positive": {"Positive": 51, "Negative": 11}, "Negative": {"Negative": 34, "Positive": 21}}]
+Disease-DT/Disease.audit.test.repaired_0.1.data:[0.1, {"Positive": {"Positive": 51, "Negative": 11}, "Negative": {"Negative": 26, "Positive": 29}}]
+Disease-DT/Disease.audit.test.repaired_0.2.data:[0.2, {"Positive": {"Positive": 46, "Negative": 16}, "Negative": {"Positive": 33, "Negative": 22}}]
+Disease-DT/Disease.audit.test.repaired_0.3.data:[0.30000000000000004, {"Positive": {"Positive": 48, "Negative": 14}, "Negative": {"Negative": 23, "Positive": 32}}]
+Disease-DT/Disease.audit.test.repaired_0.4.data:[0.4, {"Positive": {"Negative": 17, "Positive": 45}, "Negative": {"Negative": 20, "Positive": 35}}]
+Disease-DT/Disease.audit.test.repaired_0.5.data:[0.5, {"Positive": {"Negative": 12, "Positive": 50}, "Negative": {"Positive": 37, "Negative": 18}}]
+Disease-DT/Disease.audit.test.repaired_0.6.data:[0.6, {"Positive": {"Negative": 11, "Positive": 51}, "Negative": {"Positive": 40, "Negative": 15}}]
+Disease-DT/Disease.audit.test.repaired_0.7.data:[0.7, {"Positive": {"Positive": 52, "Negative": 10}, "Negative": {"Positive": 36, "Negative": 19}}]
+Disease-DT/Disease.audit.test.repaired_0.8.data:[0.7999999999999999, {"Positive": {"Positive": 54, "Negative": 8}, "Negative": {"Positive": 44, "Negative": 11}}]
+Disease-DT/Disease.audit.test.repaired_0.9.data:[0.8999999999999999, {"Positive": {"Positive": 56, "Negative": 6}, "Negative": {"Positive": 52, "Negative": 3}}]
+Disease-DT/Disease.audit.test.repaired_1.0.data:[0.9999999999999999, {"Positive": {"Positive": 62}, "Negative": {"Positive": 55}}]

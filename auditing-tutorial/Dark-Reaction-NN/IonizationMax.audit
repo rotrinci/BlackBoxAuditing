@@ -1,0 +1,12 @@
+GFA Audit for:IonizationMax
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 839, "0.0": 70}, "0.0": {"0.0": 202, "1.0": 208}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 811, "0.0": 98}, "0.0": {"0.0": 191, "1.0": 219}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 820, "0.0": 89}, "0.0": {"1.0": 222, "0.0": 188}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 790, "0.0": 119}, "0.0": {"0.0": 183, "1.0": 227}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 775, "0.0": 134}, "0.0": {"0.0": 174, "1.0": 236}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 715, "0.0": 194}, "0.0": {"0.0": 160, "1.0": 250}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 662, "0.0": 247}, "0.0": {"0.0": 168, "1.0": 242}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 668, "0.0": 241}, "0.0": {"0.0": 159, "1.0": 251}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 677, "0.0": 232}, "0.0": {"0.0": 149, "1.0": 261}}]
+Dark-Reaction-NN/IonizationMax.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 761, "0.0": 148}, "0.0": {"0.0": 91, "1.0": 319}}]

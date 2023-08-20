@@ -1,0 +1,12 @@
+GFA Audit for:G2
+Student-DT-NoAge/G2.audit.test.repaired_0.0.data:[0.0, {"0": {"1": 10, "0": 95}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.1.data:[0.1, {"0": {"1": 13, "0": 92}, "1": {"1": 97, "0": 15}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.2.data:[0.2, {"0": {"1": 12, "0": 93}, "1": {"1": 95, "0": 17}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.3.data:[0.30000000000000004, {"0": {"0": 93, "1": 12}, "1": {"1": 94, "0": 18}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.4.data:[0.4, {"0": {"0": 95, "1": 10}, "1": {"0": 24, "1": 88}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.5.data:[0.5, {"0": {"0": 93, "1": 12}, "1": {"0": 27, "1": 85}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.6.data:[0.6, {"0": {"0": 89, "1": 16}, "1": {"1": 72, "0": 40}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.7.data:[0.7, {"0": {"0": 94, "1": 11}, "1": {"0": 54, "1": 58}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.8.data:[0.7999999999999999, {"0": {"0": 89, "1": 16}, "1": {"0": 66, "1": 46}}]
+Student-DT-NoAge/G2.audit.test.repaired_0.9.data:[0.8999999999999999, {"0": {"0": 87, "1": 18}, "1": {"0": 86, "1": 26}}]
+Student-DT-NoAge/G2.audit.test.repaired_1.0.data:[0.9999999999999999, {"0": {"0": 92, "1": 13}, "1": {"0": 90, "1": 22}}]

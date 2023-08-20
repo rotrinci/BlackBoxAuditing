@@ -1,0 +1,12 @@
+GFA Audit for:Age_at_diagonsis
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 129, "GBM": 28}, "GBM": {"GBM": 118, "LGG": 11}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 119, "GBM": 38}, "GBM": {"GBM": 118, "LGG": 11}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 117, "GBM": 40}, "GBM": {"GBM": 120, "LGG": 9}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"GBM": 45, "LGG": 112}, "GBM": {"GBM": 119, "LGG": 10}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 102, "GBM": 55}, "GBM": {"GBM": 117, "LGG": 12}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 101, "GBM": 56}, "GBM": {"GBM": 120, "LGG": 9}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.6.data:[0.6, {"LGG": {"GBM": 65, "LGG": 92}, "GBM": {"GBM": 115, "LGG": 14}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.7.data:[0.7, {"LGG": {"GBM": 73, "LGG": 84}, "GBM": {"GBM": 113, "LGG": 16}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"GBM": 81, "LGG": 76}, "GBM": {"GBM": 115, "LGG": 14}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"LGG": 76, "GBM": 81}, "GBM": {"GBM": 120, "LGG": 9}}]
+Mutations-SVM/Age_at_diagonsis.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"GBM": 87, "LGG": 70}, "GBM": {"GBM": 114, "LGG": 15}}]

@@ -1,0 +1,12 @@
+GFA Audit for:orgmaximalprojectionsizeGeomAvg
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 839, "0.0": 70}, "0.0": {"1.0": 243, "0.0": 167}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"0.0": 71, "1.0": 838}, "0.0": {"1.0": 253, "0.0": 157}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 836, "0.0": 73}, "0.0": {"1.0": 257, "0.0": 153}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 827, "0.0": 82}, "0.0": {"1.0": 271, "0.0": 139}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 816, "0.0": 93}, "0.0": {"1.0": 289, "0.0": 121}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 899, "0.0": 10}, "0.0": {"1.0": 376, "0.0": 34}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 901, "0.0": 8}, "0.0": {"1.0": 386, "0.0": 24}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 906, "0.0": 3}, "0.0": {"1.0": 407, "0.0": 3}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]
+Dark-Reaction-SVM/orgmaximalprojectionsizeGeomAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

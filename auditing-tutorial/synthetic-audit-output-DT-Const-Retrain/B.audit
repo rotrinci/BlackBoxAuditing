@@ -1,0 +1,12 @@
+GFA Audit for:B
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.0.data:[0.0, {"False": {"False": 1005}, "True": {"False": 1, "True": 994}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.1.data:[0.1, {"False": {"False": 970, "True": 35}, "True": {"True": 995}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.2.data:[0.2, {"False": {"False": 972, "True": 33}, "True": {"True": 992, "False": 3}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.3.data:[0.30000000000000004, {"False": {"False": 950, "True": 55}, "True": {"True": 995}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.4.data:[0.4, {"False": {"False": 942, "True": 63}, "True": {"True": 995}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.5.data:[0.5, {"False": {"False": 894, "True": 111}, "True": {"True": 995}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.6.data:[0.6, {"False": {"False": 960, "True": 45}, "True": {"True": 934, "False": 61}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.7.data:[0.7, {"False": {"False": 973, "True": 32}, "True": {"False": 74, "True": 921}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.8.data:[0.7999999999999999, {"False": {"False": 978, "True": 27}, "True": {"False": 163, "True": 832}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_0.9.data:[0.8999999999999999, {"False": {"False": 964, "True": 41}, "True": {"False": 431, "True": 564}}]
+synthetic-audit-output-DT-Const-Retrain/B.audit.test.repaired_1.0.data:[0.9999999999999999, {"False": {"False": 354, "True": 651}, "True": {"True": 672, "False": 323}}]

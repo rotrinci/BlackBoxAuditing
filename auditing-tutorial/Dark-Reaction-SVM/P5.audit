@@ -1,0 +1,12 @@
+GFA Audit for:P5
+Dark-Reaction-SVM/P5.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 233, "0.0": 177}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 840, "0.0": 69}, "0.0": {"1.0": 233, "0.0": 177}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 836, "0.0": 73}, "0.0": {"1.0": 239, "0.0": 171}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 843, "0.0": 66}, "0.0": {"1.0": 240, "0.0": 170}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 840, "0.0": 69}, "0.0": {"1.0": 248, "0.0": 162}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 828, "0.0": 81}, "0.0": {"1.0": 255, "0.0": 155}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 836, "0.0": 73}, "0.0": {"1.0": 267, "0.0": 143}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 793, "0.0": 116}, "0.0": {"1.0": 261, "0.0": 149}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 788, "0.0": 121}, "0.0": {"1.0": 263, "0.0": 147}}]
+Dark-Reaction-SVM/P5.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 750, "0.0": 159}, "0.0": {"1.0": 269, "0.0": 141}}]

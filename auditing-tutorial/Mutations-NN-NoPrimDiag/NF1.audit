@@ -1,0 +1,12 @@
+GFA Audit for:NF1
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 134, "GBM": 21}, "GBM": {"GBM": 106, "LGG": 25}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 133, "GBM": 22}, "GBM": {"GBM": 107, "LGG": 24}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 127, "GBM": 28}, "GBM": {"GBM": 108, "LGG": 23}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"GBM": 32, "LGG": 123}, "GBM": {"GBM": 106, "LGG": 25}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 125, "GBM": 30}, "GBM": {"GBM": 109, "LGG": 22}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 121, "GBM": 34}, "GBM": {"GBM": 112, "LGG": 19}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.6.data:[0.6, {"LGG": {"LGG": 113, "GBM": 42}, "GBM": {"GBM": 108, "LGG": 23}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 103, "GBM": 52}, "GBM": {"LGG": 28, "GBM": 103}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 105, "GBM": 50}, "GBM": {"GBM": 109, "LGG": 22}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"GBM": 71, "LGG": 84}, "GBM": {"GBM": 106, "LGG": 25}}]
+Mutations-NN-NoPrimDiag/NF1.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"GBM": 74, "LGG": 81}, "GBM": {"GBM": 105, "LGG": 26}}]

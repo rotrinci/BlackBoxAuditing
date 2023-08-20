@@ -1,0 +1,12 @@
+GFA Audit for:credit_history
+german-audit-output/credit_history.audit.test.repaired_0.0.data:[0.0, {"bad": {"bad": 38, "good": 61}, "good": {"good": 214, "bad": 21}}]
+german-audit-output/credit_history.audit.test.repaired_0.1.data:[0.1, {"bad": {"bad": 36, "good": 63}, "good": {"good": 214, "bad": 21}}]
+german-audit-output/credit_history.audit.test.repaired_0.2.data:[0.2, {"bad": {"bad": 37, "good": 62}, "good": {"good": 215, "bad": 20}}]
+german-audit-output/credit_history.audit.test.repaired_0.3.data:[0.30000000000000004, {"bad": {"bad": 34, "good": 65}, "good": {"good": 219, "bad": 16}}]
+german-audit-output/credit_history.audit.test.repaired_0.4.data:[0.4, {"bad": {"bad": 33, "good": 66}, "good": {"good": 220, "bad": 15}}]
+german-audit-output/credit_history.audit.test.repaired_0.5.data:[0.5, {"bad": {"good": 66, "bad": 33}, "good": {"good": 216, "bad": 19}}]
+german-audit-output/credit_history.audit.test.repaired_0.6.data:[0.6, {"bad": {"bad": 33, "good": 66}, "good": {"good": 212, "bad": 23}}]
+german-audit-output/credit_history.audit.test.repaired_0.7.data:[0.7, {"bad": {"bad": 33, "good": 66}, "good": {"good": 216, "bad": 19}}]
+german-audit-output/credit_history.audit.test.repaired_0.8.data:[0.7999999999999999, {"bad": {"bad": 33, "good": 66}, "good": {"good": 216, "bad": 19}}]
+german-audit-output/credit_history.audit.test.repaired_0.9.data:[0.8999999999999999, {"bad": {"bad": 33, "good": 66}, "good": {"good": 209, "bad": 26}}]
+german-audit-output/credit_history.audit.test.repaired_1.0.data:[0.9999999999999999, {"bad": {"bad": 30, "good": 69}, "good": {"good": 213, "bad": 22}}]

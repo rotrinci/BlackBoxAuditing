@@ -1,0 +1,12 @@
+GFA Audit for:purpose
+testing/purpose.audit.test.repaired_0.0.data:[0.0, {"good": {"good": 171, "bad": 65}, "bad": {"bad": 50, "good": 48}}]
+testing/purpose.audit.test.repaired_0.1.data:[0.1, {"good": {"good": 174, "bad": 62}, "bad": {"bad": 45, "good": 53}}]
+testing/purpose.audit.test.repaired_0.2.data:[0.2, {"good": {"good": 186, "bad": 50}, "bad": {"bad": 46, "good": 52}}]
+testing/purpose.audit.test.repaired_0.3.data:[0.30000000000000004, {"good": {"good": 185, "bad": 51}, "bad": {"bad": 41, "good": 57}}]
+testing/purpose.audit.test.repaired_0.4.data:[0.4, {"good": {"good": 187, "bad": 49}, "bad": {"bad": 39, "good": 59}}]
+testing/purpose.audit.test.repaired_0.5.data:[0.5, {"good": {"good": 185, "bad": 51}, "bad": {"bad": 40, "good": 58}}]
+testing/purpose.audit.test.repaired_0.6.data:[0.6, {"good": {"good": 186, "bad": 50}, "bad": {"bad": 30, "good": 68}}]
+testing/purpose.audit.test.repaired_0.7.data:[0.7, {"good": {"good": 197, "bad": 39}, "bad": {"bad": 35, "good": 63}}]
+testing/purpose.audit.test.repaired_0.8.data:[0.7999999999999999, {"good": {"good": 192, "bad": 44}, "bad": {"good": 65, "bad": 33}}]
+testing/purpose.audit.test.repaired_0.9.data:[0.8999999999999999, {"good": {"good": 193, "bad": 43}, "bad": {"bad": 34, "good": 64}}]
+testing/purpose.audit.test.repaired_1.0.data:[0.9999999999999999, {"good": {"good": 186, "bad": 50}, "bad": {"good": 59, "bad": 39}}]

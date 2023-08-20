@@ -1,0 +1,12 @@
+GFA Audit for:housing
+German-DT-WithAge/housing.audit.test.repaired_0.0.data:[0.0, {"bad": {"bad": 53, "good": 47}, "good": {"bad": 49, "good": 185}}]
+German-DT-WithAge/housing.audit.test.repaired_0.1.data:[0.1, {"bad": {"bad": 53, "good": 47}, "good": {"bad": 49, "good": 185}}]
+German-DT-WithAge/housing.audit.test.repaired_0.2.data:[0.2, {"bad": {"bad": 54, "good": 46}, "good": {"good": 181, "bad": 53}}]
+German-DT-WithAge/housing.audit.test.repaired_0.3.data:[0.30000000000000004, {"bad": {"bad": 51, "good": 49}, "good": {"good": 185, "bad": 49}}]
+German-DT-WithAge/housing.audit.test.repaired_0.4.data:[0.4, {"bad": {"bad": 49, "good": 51}, "good": {"good": 186, "bad": 48}}]
+German-DT-WithAge/housing.audit.test.repaired_0.5.data:[0.5, {"bad": {"bad": 52, "good": 48}, "good": {"bad": 50, "good": 184}}]
+German-DT-WithAge/housing.audit.test.repaired_0.6.data:[0.6, {"bad": {"bad": 50, "good": 50}, "good": {"bad": 54, "good": 180}}]
+German-DT-WithAge/housing.audit.test.repaired_0.7.data:[0.7, {"bad": {"bad": 48, "good": 52}, "good": {"good": 177, "bad": 57}}]
+German-DT-WithAge/housing.audit.test.repaired_0.8.data:[0.7999999999999999, {"bad": {"bad": 50, "good": 50}, "good": {"bad": 56, "good": 178}}]
+German-DT-WithAge/housing.audit.test.repaired_0.9.data:[0.8999999999999999, {"bad": {"bad": 49, "good": 51}, "good": {"good": 170, "bad": 64}}]
+German-DT-WithAge/housing.audit.test.repaired_1.0.data:[0.9999999999999999, {"bad": {"bad": 50, "good": 50}, "good": {"good": 183, "bad": 51}}]

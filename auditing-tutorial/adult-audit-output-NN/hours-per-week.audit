@@ -1,0 +1,12 @@
+GFA Audit for:hours-per-week
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.0.data:[0.0, {"<=50K": {"<=50K": 11282, ">50K": 1153}, ">50K": {">50K": 2472, "<=50K": 1374}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.1.data:[0.1, {"<=50K": {"<=50K": 11233, ">50K": 1202}, ">50K": {">50K": 2427, "<=50K": 1419}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.2.data:[0.2, {"<=50K": {"<=50K": 11231, ">50K": 1204}, ">50K": {">50K": 2212, "<=50K": 1634}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.3.data:[0.30000000000000004, {"<=50K": {"<=50K": 11239, ">50K": 1196}, ">50K": {">50K": 2073, "<=50K": 1773}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.4.data:[0.4, {"<=50K": {"<=50K": 11172, ">50K": 1263}, ">50K": {"<=50K": 1852, ">50K": 1994}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.5.data:[0.5, {"<=50K": {"<=50K": 11080, ">50K": 1355}, ">50K": {">50K": 1918, "<=50K": 1928}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.6.data:[0.6, {"<=50K": {"<=50K": 11159, ">50K": 1276}, ">50K": {"<=50K": 2087, ">50K": 1759}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.7.data:[0.7, {"<=50K": {"<=50K": 11171, ">50K": 1264}, ">50K": {">50K": 1599, "<=50K": 2247}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.8.data:[0.7999999999999999, {"<=50K": {"<=50K": 11094, ">50K": 1341}, ">50K": {"<=50K": 2335, ">50K": 1511}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_0.9.data:[0.8999999999999999, {"<=50K": {"<=50K": 11007, ">50K": 1428}, ">50K": {"<=50K": 2650, ">50K": 1196}}]
+adult-audit-output-NN/hours-per-week.audit.test.repaired_1.0.data:[0.9999999999999999, {"<=50K": {"<=50K": 10783, ">50K": 1652}, ">50K": {"<=50K": 2694, ">50K": 1152}}]

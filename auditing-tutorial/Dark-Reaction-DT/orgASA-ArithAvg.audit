@@ -1,0 +1,12 @@
+GFA Audit for:orgASA-ArithAvg
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 747, "0.0": 162}, "0.0": {"1.0": 217, "0.0": 193}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 724, "0.0": 185}, "0.0": {"1.0": 212, "0.0": 198}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 738, "0.0": 171}, "0.0": {"1.0": 245, "0.0": 165}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 811, "0.0": 98}, "0.0": {"1.0": 273, "0.0": 137}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 850, "0.0": 59}, "0.0": {"1.0": 305, "0.0": 105}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"0.0": 531, "1.0": 378}, "0.0": {"1.0": 214, "0.0": 196}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"0.0": 537, "1.0": 372}, "0.0": {"1.0": 211, "0.0": 199}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 605, "1.0": 304}, "0.0": {"1.0": 157, "0.0": 253}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 717, "1.0": 192}, "0.0": {"1.0": 107, "0.0": 303}}]
+Dark-Reaction-DT/orgASA-ArithAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 909}, "0.0": {"0.0": 410}}]

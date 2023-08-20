@@ -1,0 +1,15 @@
+Audit Start Time: 2023-06-03 15:35:15.180636
+Audit End Time: 2023-06-03 15:35:20.531904
+Retrained Per Repair: False
+Model Factory ID: 1685820915.181503
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 4000
+Test Size: 2000
+Non-standard Ignored Features: []
+Features: ['A', 'admit', 'B', 'C', 'Random']
+
+Ranked Features by accuracy: [('A', 0.505), ('Random', 0.495), ('B', 0.4595), ('C', 0.45899999999999996)]
+	Approx. Trend Groups: [['A'], ['B', 'C'], ['Random']]
+Ranked Features by BCR: [('A', 0.5), ('Random', 0.5), ('C', 0.45922592259225925), ('B', 0.4589108910891089)]
+	Approx. Trend Groups: [['A'], ['B', 'C'], ['Random']]

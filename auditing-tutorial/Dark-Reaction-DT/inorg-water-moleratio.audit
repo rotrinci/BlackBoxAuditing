@@ -1,0 +1,12 @@
+GFA Audit for:inorg-water-moleratio
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 760, "0.0": 149}, "0.0": {"0.0": 250, "1.0": 160}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 741, "0.0": 168}, "0.0": {"1.0": 188, "0.0": 222}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 725, "0.0": 184}, "0.0": {"1.0": 192, "0.0": 218}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 746, "0.0": 163}, "0.0": {"1.0": 255, "0.0": 155}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 733, "0.0": 176}, "0.0": {"1.0": 250, "0.0": 160}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 709, "0.0": 200}, "0.0": {"1.0": 254, "0.0": 156}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 660, "0.0": 249}, "0.0": {"1.0": 272, "0.0": 138}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 586, "0.0": 323}, "0.0": {"0.0": 163, "1.0": 247}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"0.0": 407, "1.0": 502}, "0.0": {"0.0": 194, "1.0": 216}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 373, "1.0": 536}, "0.0": {"0.0": 174, "1.0": 236}}]
+Dark-Reaction-DT/inorg-water-moleratio.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 909}, "0.0": {"0.0": 410}}]

@@ -1,0 +1,12 @@
+GFA Audit for:housing
+Test2/housing.audit.test.repaired_0.0.data:[0.0, {"bad": {"bad": 48, "good": 49}, "good": {"good": 198, "bad": 39}}]
+Test2/housing.audit.test.repaired_0.1.data:[0.1, {"bad": {"bad": 50, "good": 47}, "good": {"good": 193, "bad": 44}}]
+Test2/housing.audit.test.repaired_0.2.data:[0.2, {"bad": {"bad": 52, "good": 45}, "good": {"good": 195, "bad": 42}}]
+Test2/housing.audit.test.repaired_0.3.data:[0.30000000000000004, {"bad": {"bad": 53, "good": 44}, "good": {"good": 196, "bad": 41}}]
+Test2/housing.audit.test.repaired_0.4.data:[0.4, {"bad": {"bad": 45, "good": 52}, "good": {"good": 194, "bad": 43}}]
+Test2/housing.audit.test.repaired_0.5.data:[0.5, {"bad": {"good": 46, "bad": 51}, "good": {"good": 189, "bad": 48}}]
+Test2/housing.audit.test.repaired_0.6.data:[0.6, {"bad": {"bad": 47, "good": 50}, "good": {"good": 186, "bad": 51}}]
+Test2/housing.audit.test.repaired_0.7.data:[0.7, {"bad": {"good": 49, "bad": 48}, "good": {"good": 185, "bad": 52}}]
+Test2/housing.audit.test.repaired_0.8.data:[0.7999999999999999, {"bad": {"bad": 49, "good": 48}, "good": {"good": 188, "bad": 49}}]
+Test2/housing.audit.test.repaired_0.9.data:[0.8999999999999999, {"bad": {"bad": 50, "good": 47}, "good": {"good": 183, "bad": 54}}]
+Test2/housing.audit.test.repaired_1.0.data:[0.9999999999999999, {"bad": {"bad": 55, "good": 42}, "good": {"good": 186, "bad": 51}}]

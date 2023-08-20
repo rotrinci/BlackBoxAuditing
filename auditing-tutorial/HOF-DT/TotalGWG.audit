@@ -1,0 +1,12 @@
+GFA Audit for:TotalGWG
+HOF-DT/TotalGWG.audit.test.repaired_0.0.data:[0.0, {"No": {"No": 2003, "Yes": 43}, "Yes": {"Yes": 36, "No": 24}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.1.data:[0.1, {"No": {"No": 1994, "Yes": 52}, "Yes": {"Yes": 40, "No": 20}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.2.data:[0.2, {"No": {"No": 1968, "Yes": 78}, "Yes": {"Yes": 33, "No": 27}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.3.data:[0.30000000000000004, {"No": {"Yes": 242, "No": 1804}, "Yes": {"Yes": 31, "No": 29}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.4.data:[0.4, {"No": {"Yes": 208, "No": 1838}, "Yes": {"No": 38, "Yes": 22}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.5.data:[0.5, {"No": {"No": 1873, "Yes": 173}, "Yes": {"No": 35, "Yes": 25}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.6.data:[0.6, {"No": {"No": 1887, "Yes": 159}, "Yes": {"No": 34, "Yes": 26}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.7.data:[0.7, {"No": {"No": 1584, "Yes": 462}, "Yes": {"Yes": 29, "No": 31}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.8.data:[0.7999999999999999, {"No": {"No": 1737, "Yes": 309}, "Yes": {"Yes": 36, "No": 24}}]
+HOF-DT/TotalGWG.audit.test.repaired_0.9.data:[0.8999999999999999, {"No": {"Yes": 1980, "No": 66}, "Yes": {"Yes": 59, "No": 1}}]
+HOF-DT/TotalGWG.audit.test.repaired_1.0.data:[0.9999999999999999, {"No": {"Yes": 2046}, "Yes": {"Yes": 60}}]

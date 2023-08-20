@@ -1,0 +1,12 @@
+GFA Audit for:jprice
+MHS-DT/jprice.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 433, "0": 77}, "0": {"1": 87, "0": 323}}]
+MHS-DT/jprice.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 432, "0": 78}, "0": {"1": 93, "0": 317}}]
+MHS-DT/jprice.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 428, "0": 82}, "0": {"1": 125, "0": 285}}]
+MHS-DT/jprice.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 429, "0": 81}, "0": {"1": 124, "0": 286}}]
+MHS-DT/jprice.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 423, "0": 87}, "0": {"1": 124, "0": 286}}]
+MHS-DT/jprice.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 428, "0": 82}, "0": {"1": 135, "0": 275}}]
+MHS-DT/jprice.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 425, "0": 85}, "0": {"1": 144, "0": 266}}]
+MHS-DT/jprice.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 423, "0": 87}, "0": {"1": 158, "0": 252}}]
+MHS-DT/jprice.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 428, "0": 82}, "0": {"1": 164, "0": 246}}]
+MHS-DT/jprice.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 442, "0": 68}, "0": {"1": 202, "0": 208}}]
+MHS-DT/jprice.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 443, "0": 67}, "0": {"1": 212, "0": 198}}]

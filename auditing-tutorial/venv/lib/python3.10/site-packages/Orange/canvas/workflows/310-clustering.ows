@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="Hierarchical Clustering" description="The workflow clusters the data items in Iris dataset by first estimating the distances between data instances. Distance matrix is passed to hierarchical clustering, which renders the dendrogram. Select different parts of the dendrogram to further analyze the corresponding data.&#10;&#10;Notice that hierarchical clustering can only handle small datasets, that is, those that contain only a small number of data instances. For larger datasets the distance matrix may get too big and may not fit in the memory. An alternative method that can consider such datasets is k-means clustering.">
+	<nodes>
+		<node id="0" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File" position="(135.0, 135.0)" />
+		<node id="1" name="Distances" qualified_name="Orange.widgets.unsupervised.owdistances.OWDistances" project_name="Orange3" version="" title="Distances" position="(242.0, 203.0)" />
+		<node id="2" name="Distance Map" qualified_name="Orange.widgets.unsupervised.owdistancemap.OWDistanceMap" project_name="Orange3" version="" title="Distance Map" position="(412.0, 184.0)" />
+		<node id="3" name="Hierarchical Clustering" qualified_name="Orange.widgets.unsupervised.owhierarchicalclustering.OWHierarchicalClustering" project_name="Orange3" version="" title="Hierarchical Clustering" position="(418.0, 307.0)" />
+		<node id="4" name="Box Plot" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" project_name="Orange3" version="" title="Box Plot" position="(526.0, 390.0)" />
+		<node id="5" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table" position="(246.0, 98.0)" />
+		<node id="6" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table (1)" position="(575.0, 261.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="1" source_node_id="1" sink_node_id="2" source_channel="Distances" sink_channel="Distances" enabled="true" source_channel_id="distances" sink_channel_id="distances" />
+		<link id="2" source_node_id="1" sink_node_id="3" source_channel="Distances" sink_channel="Distances" enabled="true" source_channel_id="distances" sink_channel_id="distances" />
+		<link id="3" source_node_id="3" sink_node_id="4" source_channel="Selected Data" sink_channel="Data" enabled="true" source_channel_id="selected_data" sink_channel_id="data" />
+		<link id="4" source_node_id="0" sink_node_id="5" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="5" source_node_id="3" sink_node_id="6" source_channel="Selected Data" sink_channel="Data" enabled="true" source_channel_id="selected_data" sink_channel_id="data" />
+	</links>
+	<annotations>
+		<text id="0" type="text/plain" rect="(18.0, 15.0, 150.0, 82.0)" font-family="Helvetica" font-size="14">Read the data. Try this schema with the "brown-selected" data (from datasets that come with Orange).</text>
+		<text id="1" type="text/plain" rect="(402.0, 63.0, 150.0, 54.0)" font-family="Helvetica" font-size="14">Visualize the data distances in a heat map.</text>
+		<text id="2" type="text/plain" rect="(597.0, 56.0, 214.0, 153.0)" font-family="Helvetica" font-size="14">Choose any part of the clustering dendrogram in Hierarchical Clustering. Then, observe the selected data in a data table, or in any other analysis widget. Open both Hierarchical Clustering and Data Table (1) widget to turn this schema into interactive data analysis.
+</text>
+		<text id="3" type="text/plain" rect="(601.0, 330.0, 150.0, 96.0)" font-family="Helvetica" font-size="14">Any change in selection in hierarchical clustering will propagate to the Data Table and Box Plot widgets.</text>
+		<text id="4" type="text/plain" rect="(253.0, 384.0, 150.0, 40.0)" font-family="Helvetica" font-size="14">Hierarchically cluster the data.</text>
+		<text id="5" type="text/plain" rect="(81.0, 263.0, 150.0, 54.0)" font-family="Helvetica" font-size="14">Compute the distances between the data samples.</text>
+		<arrow id="6" start="(52.00000000000002, 100.0)" end="(104.00000000000003, 133.0)" fill="#C1272D" />
+		<arrow id="7" start="(454.0, 102.00000000000003)" end="(421.0, 154.00000000000003)" fill="#C1272D" />
+		<arrow id="8" start="(176.00000000000003, 274.0)" end="(206.00000000000003, 226.0)" fill="#C1272D" />
+		<arrow id="9" start="(335.0000000000001, 381.0)" end="(379.0000000000001, 328.0)" fill="#C1272D" />
+		<arrow id="10" start="(593.0, 363.99999999999994)" end="(501.0, 325.99999999999994)" fill="#39B54A" />
+	</annotations>
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="pickle">gASVbgsAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjAxyZWNlbnRfcGF0aHOUXZSMHm9y
+YW5nZXdpZGdldC51dGlscy5maWxlZGlhbG9nc5SMClJlY2VudFBhdGiUk5QpgZR9lCiMB2Fic3Bh
+dGiUjDcvVXNlcnMvamFuZXovb3JhbmdlMy9PcmFuZ2UvZGF0YXNldHMvYnJvd24tc2VsZWN0ZWQu
+dGFilIwGcHJlZml4lIwPc2FtcGxlLWRhdGFzZXRzlIwHcmVscGF0aJSMEmJyb3duLXNlbGVjdGVk
+LnRhYpSMBXRpdGxllIwAlIwFc2hlZXSUaBCMC2ZpbGVfZm9ybWF0lE51YmGMC3JlY2VudF91cmxz
+lF2UjBNzYXZlZFdpZGdldEdlb21ldHJ5lEMuAdnQywABAAAAAAITAAABPAAAA8IAAAI1AAACEwAA
+AVIAAAPCAAACNQAAAAAAAJSMC3NoZWV0X25hbWVzlH2UjAZzb3VyY2WUSwCMA3VybJRoEIwNZG9t
+YWluX2VkaXRvcpR9lIwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9yYW5n
+ZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMCXZhcmlhYmxl
+c5RdlGgbfZRoJ12UKF2UKIwHYWxwaGEgMJSMFE9yYW5nZS5kYXRhLnZhcmlhYmxllIwSQ29udGlu
+dW91c1ZhcmlhYmxllJOUSwBoEIhlXZQojAdhbHBoYSA3lGgvSwBoEIhlXZQojAhhbHBoYSAxNJRo
+L0sAaBCIZV2UKIwIYWxwaGEgMjGUaC9LAGgQiGVdlCiMCGFscGhhIDI4lGgvSwBoEIhlXZQojAhh
+bHBoYSAzNZRoL0sAaBCIZV2UKIwIYWxwaGEgNDKUaC9LAGgQiGVdlCiMCGFscGhhIDQ5lGgvSwBo
+EIhlXZQojAhhbHBoYSA1NpRoL0sAaBCIZV2UKIwIYWxwaGEgNjOUaC9LAGgQiGVdlCiMCGFscGhh
+IDcwlGgvSwBoEIhlXZQojAhhbHBoYSA3N5RoL0sAaBCIZV2UKIwIYWxwaGEgODSUaC9LAGgQiGVd
+lCiMCGFscGhhIDkxlGgvSwBoEIhlXZQojAhhbHBoYSA5OJRoL0sAaBCIZV2UKIwJYWxwaGEgMTA1
+lGgvSwBoEIhlXZQojAlhbHBoYSAxMTKUaC9LAGgQiGVdlCiMCWFscGhhIDExOZRoL0sAaBCIZV2U
+KIwFRWx1IDCUaC9LAGgQiGVdlCiMBkVsdSAzMJRoL0sAaBCIZV2UKIwGRWx1IDYwlGgvSwBoEIhl
+XZQojAZFbHUgOTCUaC9LAGgQiGVdlCiMB0VsdSAxMjCUaC9LAGgQiGVdlCiMB0VsdSAxNTCUaC9L
+AGgQiGVdlCiMB0VsdSAxODCUaC9LAGgQiGVdlCiMB0VsdSAyMTCUaC9LAGgQiGVdlCiMB0VsdSAy
+NDCUaC9LAGgQiGVdlCiMB0VsdSAyNzCUaC9LAGgQiGVdlCiMB0VsdSAzMDCUaC9LAGgQiGVdlCiM
+B0VsdSAzMzCUaC9LAGgQiGVdlCiMB0VsdSAzNjCUaC9LAGgQiGVdlCiMB0VsdSAzOTCUaC9LAGgQ
+iGVdlCiMCGNkYzE1IDEwlGgvSwBoEIhlXZQojAhjZGMxNSAzMJRoL0sAaBCIZV2UKIwIY2RjMTUg
+NTCUaC9LAGgQiGVdlCiMCGNkYzE1IDcwlGgvSwBoEIhlXZQojAhjZGMxNSA5MJRoL0sAaBCIZV2U
+KIwJY2RjMTUgMTEwlGgvSwBoEIhlXZQojAljZGMxNSAxMzCUaC9LAGgQiGVdlCiMCWNkYzE1IDE1
+MJRoL0sAaBCIZV2UKIwJY2RjMTUgMTcwlGgvSwBoEIhlXZQojAljZGMxNSAxOTCUaC9LAGgQiGVd
+lCiMCWNkYzE1IDIxMJRoL0sAaBCIZV2UKIwJY2RjMTUgMjMwlGgvSwBoEIhlXZQojAljZGMxNSAy
+NTCUaC9LAGgQiGVdlCiMCWNkYzE1IDI3MJRoL0sAaBCIZV2UKIwJY2RjMTUgMjkwlGgvSwBoEIhl
+XZQojAVzcG8gMJRoL0sAaBCIZV2UKIwFc3BvIDKUaC9LAGgQiGVdlCiMBXNwbyA1lGgvSwBoEIhl
+XZQojAVzcG8gN5RoL0sAaBCIZV2UKIwFc3BvIDmUaC9LAGgQiGVdlCiMBnNwbyAxMZRoL0sAaBCI
+ZV2UKIwGc3BvNSAylGgvSwBoEIhlXZQojAZzcG81IDeUaC9LAGgQiGVdlCiMB3NwbzUgMTGUaC9L
+AGgQiGVdlCiMCnNwby0gZWFybHmUaC9LAGgQiGVdlCiMCHNwby0gbWlklGgvSwBoEIhlXZQojAZo
+ZWF0IDCUaC9LAGgQiGVdlCiMB2hlYXQgMTCUaC9LAGgQiGVdlCiMB2hlYXQgMjCUaC9LAGgQiGVd
+lCiMB2hlYXQgNDCUaC9LAGgQiGVdlCiMB2hlYXQgODCUaC9LAGgQiGVdlCiMCGhlYXQgMTYwlGgv
+SwBoEIhlXZQojAZkdHQgMTWUaC9LAGgQiGVdlCiMBmR0dCAzMJRoL0sAaBCIZV2UKIwGZHR0IDYw
+lGgvSwBoEIhlXZQojAdkdHQgMTIwlGgvSwBoEIhlXZQojAZjb2xkIDCUaC9LAGgQiGVdlCiMB2Nv
+bGQgMjCUaC9LAGgQiGVdlCiMB2NvbGQgNDCUaC9LAGgQiGVdlCiMCGNvbGQgMTYwlGgvSwBoEIhl
+XZQojAZkaWF1IGGUaC9LAGgQiGVdlCiMBmRpYXUgYpRoL0sAaBCIZV2UKIwGZGlhdSBjlGgvSwBo
+EIhlXZQojAZkaWF1IGSUaC9LAGgQiGVdlCiMBmRpYXUgZZRoL0sAaBCIZV2UKIwGZGlhdSBmlGgv
+SwBoEIhlXZQojAZkaWF1IGeUaC9LAGgQiGVdlCiMCGZ1bmN0aW9ulGgtjBBEaXNjcmV0ZVZhcmlh
+YmxllJOUSwGME1Byb3RlYXMsIFJlc3AsIFJpYm+UiWVdlCiMBGdlbmWUaC2MDlN0cmluZ1Zhcmlh
+YmxllJOUSwJoEIllZXNoHUsBdYwKYXR0cmlidXRlc5QoaCxLAoaUaDFLAoaUaDNLAoaUaDVLAoaU
+aDdLAoaUaDlLAoaUaDtLAoaUaD1LAoaUaD9LAoaUaEFLAoaUaENLAoaUaEVLAoaUaEdLAoaUaElL
+AoaUaEtLAoaUaE1LAoaUaE9LAoaUaFFLAoaUaFNLAoaUaFVLAoaUaFdLAoaUaFlLAoaUaFtLAoaU
+aF1LAoaUaF9LAoaUaGFLAoaUaGNLAoaUaGVLAoaUaGdLAoaUaGlLAoaUaGtLAoaUaG1LAoaUaG9L
+AoaUaHFLAoaUaHNLAoaUaHVLAoaUaHdLAoaUaHlLAoaUaHtLAoaUaH1LAoaUaH9LAoaUaIFLAoaU
+aINLAoaUaIVLAoaUaIdLAoaUaIlLAoaUaItLAoaUaI1LAoaUaI9LAoaUaJFLAoaUaJNLAoaUaJVL
+AoaUaJdLAoaUaJlLAoaUaJtLAoaUaJ1LAoaUaJ9LAoaUaKFLAoaUaKNLAoaUaKVLAoaUaKdLAoaU
+aKlLAoaUaKtLAoaUaK1LAoaUaK9LAoaUaLFLAoaUaLNLAoaUaLVLAoaUaLdLAoaUaLlLAoaUaLtL
+AoaUaL1LAoaUaL9LAoaUaMFLAoaUaMNLAoaUaMVLAoaUaMdLAoaUaMlLAoaUaMtLAoaUdJSMBW1l
+dGFzlGjSSwOGlIWUjApjbGFzc192YXJzlGjNXZQojAdQcm90ZWFzlIwEUmVzcJSMBFJpYm+UZYaU
+hZSMEm1vZGlmaWVkX3ZhcmlhYmxlc5RdlHViYXUu
+</properties>
+		<properties node_id="1" format="literal">{'autocommit': False, 'axis': 0, 'controlAreaVisible': True, 'metric_id': 0, 'savedWidgetGeometry': None, '__version__': 4}</properties>
+		<properties node_id="2" format="pickle">gASV/AcAAAAAAAB9lCiMCmF1dG9jb21taXSUiIwLY29sb3JfZ2FtbWGURwAAAAAAAAAAjApjb2xv
+cl9oaWdolEc/8AAAAAAAAIwJY29sb3JfbG93lEcAAAAAAAAAAIwSY29udHJvbEFyZWFWaXNpYmxl
+lIiMDHBhbGV0dGVfbmFtZZSMFWxpbmVhcl9iZ3l3XzIwXzk4X2M2NpSMEXBlbmRpbmdfc2VsZWN0
+aW9ulF2UjBNzYXZlZFdpZGdldEdlb21ldHJ5lE6MB3NvcnRpbmeUSwCMC19fdmVyc2lvbl9flEsB
+jBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOU
+KYGUfZQojAphdHRyaWJ1dGVzlCiMB2FscGhhIDCUSwKGlIwHYWxwaGEgN5RLAoaUjAhhbHBoYSAx
+NJRLAoaUjAhhbHBoYSAyMZRLAoaUjAhhbHBoYSAyOJRLAoaUjAhhbHBoYSAzNZRLAoaUjAhhbHBo
+YSA0MpRLAoaUjAhhbHBoYSA0OZRLAoaUjAhhbHBoYSA1NpRLAoaUjAhhbHBoYSA2M5RLAoaUjAhh
+bHBoYSA3MJRLAoaUjAhhbHBoYSA3N5RLAoaUjAhhbHBoYSA4NJRLAoaUjAhhbHBoYSA5MZRLAoaU
+jAhhbHBoYSA5OJRLAoaUjAlhbHBoYSAxMDWUSwKGlIwJYWxwaGEgMTEylEsChpSMCWFscGhhIDEx
+OZRLAoaUjAVFbHUgMJRLAoaUjAZFbHUgMzCUSwKGlIwGRWx1IDYwlEsChpSMBkVsdSA5MJRLAoaU
+jAdFbHUgMTIwlEsChpSMB0VsdSAxNTCUSwKGlIwHRWx1IDE4MJRLAoaUjAdFbHUgMjEwlEsChpSM
+B0VsdSAyNDCUSwKGlIwHRWx1IDI3MJRLAoaUjAdFbHUgMzAwlEsChpSMB0VsdSAzMzCUSwKGlIwH
+RWx1IDM2MJRLAoaUjAdFbHUgMzkwlEsChpSMCGNkYzE1IDEwlEsChpSMCGNkYzE1IDMwlEsChpSM
+CGNkYzE1IDUwlEsChpSMCGNkYzE1IDcwlEsChpSMCGNkYzE1IDkwlEsChpSMCWNkYzE1IDExMJRL
+AoaUjAljZGMxNSAxMzCUSwKGlIwJY2RjMTUgMTUwlEsChpSMCWNkYzE1IDE3MJRLAoaUjAljZGMx
+NSAxOTCUSwKGlIwJY2RjMTUgMjEwlEsChpSMCWNkYzE1IDIzMJRLAoaUjAljZGMxNSAyNTCUSwKG
+lIwJY2RjMTUgMjcwlEsChpSMCWNkYzE1IDI5MJRLAoaUjAVzcG8gMJRLAoaUjAVzcG8gMpRLAoaU
+jAVzcG8gNZRLAoaUjAVzcG8gN5RLAoaUjAVzcG8gOZRLAoaUjAZzcG8gMTGUSwKGlIwGc3BvNSAy
+lEsChpSMBnNwbzUgN5RLAoaUjAdzcG81IDExlEsChpSMCnNwby0gZWFybHmUSwKGlIwIc3BvLSBt
+aWSUSwKGlIwGaGVhdCAwlEsChpSMB2hlYXQgMTCUSwKGlIwHaGVhdCAyMJRLAoaUjAdoZWF0IDQw
+lEsChpSMB2hlYXQgODCUSwKGlIwIaGVhdCAxNjCUSwKGlIwGZHR0IDE1lEsChpSMBmR0dCAzMJRL
+AoaUjAZkdHQgNjCUSwKGlIwHZHR0IDEyMJRLAoaUjAZjb2xkIDCUSwKGlIwHY29sZCAyMJRLAoaU
+jAdjb2xkIDQwlEsChpSMCGNvbGQgMTYwlEsChpSMBmRpYXUgYZRLAoaUjAZkaWF1IGKUSwKGlIwG
+ZGlhdSBjlEsChpSMBmRpYXUgZJRLAoaUjAZkaWF1IGWUSwKGlIwGZGlhdSBmlEsChpSMBmRpYXUg
+Z5RLAoaUdJSMCmNsYXNzX3ZhcnOUjAhmdW5jdGlvbpRLAYaUhZSMBW1ldGFzlIwEZ2VuZZRLA4aU
+hZSMBnZhbHVlc5R9lCiMDmFubm90YXRpb25faWR4lEsASv7///+GlGgMSwF1jAR0aW1llEdB1eCV
+dgEnhYwOb3JkZXJlZF9kb21haW6UXZQoaBVLAoaUaBdLAoaUaBlLAoaUaBtLAoaUaB1LAoaUaB9L
+AoaUaCFLAoaUaCNLAoaUaCVLAoaUaCdLAoaUaClLAoaUaCtLAoaUaC1LAoaUaC9LAoaUaDFLAoaU
+aDNLAoaUaDVLAoaUaDdLAoaUaDlLAoaUaDtLAoaUaD1LAoaUaD9LAoaUaEFLAoaUaENLAoaUaEVL
+AoaUaEdLAoaUaElLAoaUaEtLAoaUaE1LAoaUaE9LAoaUaFFLAoaUaFNLAoaUaFVLAoaUaFdLAoaU
+aFlLAoaUaFtLAoaUaF1LAoaUaF9LAoaUaGFLAoaUaGNLAoaUaGVLAoaUaGdLAoaUaGlLAoaUaGtL
+AoaUaG1LAoaUaG9LAoaUaHFLAoaUaHNLAoaUaHVLAoaUaHdLAoaUaHlLAoaUaHtLAoaUaH1LAoaU
+aH9LAoaUaIFLAoaUaINLAoaUaIVLAoaUaIdLAoaUaIlLAoaUaItLAoaUaI1LAoaUaI9LAoaUaJFL
+AoaUaJNLAoaUaJVLAoaUaJdLAoaUaJlLAoaUaJtLAoaUaJ1LAoaUaJ9LAoaUaKFLAoaUaKNLAoaU
+aKVLAoaUaKdLAoaUaKlLAoaUaKtLAoaUaK1LAoaUaK9LAoaUaLFLAoaUaLVLAYaUaLlLA4aUZXVi
+YXUu
+</properties>
+		<properties node_id="3" format="pickle">gASVsQUAAAAAAAB9lCiMF2Fubm90YXRpb25faWZfZW51bWVyYXRllIwLRW51bWVyYXRpb26UjBNh
+bm5vdGF0aW9uX2lmX25hbWVzlIwETmFtZZSMCmF1dG9jb21taXSUiIwSY29udHJvbEFyZWFWaXNp
+YmxllIiMCWN1dF9yYXRpb5RHQFLAAAAAAACMEWxhYmVsX29ubHlfc3Vic2V0lImMB2xpbmthZ2WU
+SwGMCW1heF9kZXB0aJRLCowHcHJ1bmluZ5RLAIwTc2F2ZWRXaWRnZXRHZW9tZXRyeZROjBBzZWxl
+Y3Rpb25fbWV0aG9klEsAjAV0b3BfbpRLA4wLem9vbV9mYWN0b3KUSwCMC19fdmVyc2lvbl9flEsC
+jBRfX3Nlc3Npb25fc3RhdGVfZGF0YZR9lIwHdmVyc2lvbpRLAEsASwCHlHOMEGNvbnRleHRfc2V0
+dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVl
+c5R9lCiMCmFubm90YXRpb26UjARnZW5llEtnhpSMCGNvbG9yX2J5lIwIZnVuY3Rpb26US2WGlGgQ
+SwJ1jAphdHRyaWJ1dGVzlH2UKIwHYWxwaGEgMJRLAowHYWxwaGEgN5RLAowIYWxwaGEgMTSUSwKM
+CGFscGhhIDIxlEsCjAhhbHBoYSAyOJRLAowIYWxwaGEgMzWUSwKMCGFscGhhIDQylEsCjAhhbHBo
+YSA0OZRLAowIYWxwaGEgNTaUSwKMCGFscGhhIDYzlEsCjAhhbHBoYSA3MJRLAowIYWxwaGEgNzeU
+SwKMCGFscGhhIDg0lEsCjAhhbHBoYSA5MZRLAowIYWxwaGEgOTiUSwKMCWFscGhhIDEwNZRLAowJ
+YWxwaGEgMTEylEsCjAlhbHBoYSAxMTmUSwKMBUVsdSAwlEsCjAZFbHUgMzCUSwKMBkVsdSA2MJRL
+AowGRWx1IDkwlEsCjAdFbHUgMTIwlEsCjAdFbHUgMTUwlEsCjAdFbHUgMTgwlEsCjAdFbHUgMjEw
+lEsCjAdFbHUgMjQwlEsCjAdFbHUgMjcwlEsCjAdFbHUgMzAwlEsCjAdFbHUgMzMwlEsCjAdFbHUg
+MzYwlEsCjAdFbHUgMzkwlEsCjAhjZGMxNSAxMJRLAowIY2RjMTUgMzCUSwKMCGNkYzE1IDUwlEsC
+jAhjZGMxNSA3MJRLAowIY2RjMTUgOTCUSwKMCWNkYzE1IDExMJRLAowJY2RjMTUgMTMwlEsCjAlj
+ZGMxNSAxNTCUSwKMCWNkYzE1IDE3MJRLAowJY2RjMTUgMTkwlEsCjAljZGMxNSAyMTCUSwKMCWNk
+YzE1IDIzMJRLAowJY2RjMTUgMjUwlEsCjAljZGMxNSAyNzCUSwKMCWNkYzE1IDI5MJRLAowFc3Bv
+IDCUSwKMBXNwbyAylEsCjAVzcG8gNZRLAowFc3BvIDeUSwKMBXNwbyA5lEsCjAZzcG8gMTGUSwKM
+BnNwbzUgMpRLAowGc3BvNSA3lEsCjAdzcG81IDExlEsCjApzcG8tIGVhcmx5lEsCjAhzcG8tIG1p
+ZJRLAowGaGVhdCAwlEsCjAdoZWF0IDEwlEsCjAdoZWF0IDIwlEsCjAdoZWF0IDQwlEsCjAdoZWF0
+IDgwlEsCjAhoZWF0IDE2MJRLAowGZHR0IDE1lEsCjAZkdHQgMzCUSwKMBmR0dCA2MJRLAowHZHR0
+IDEyMJRLAowGY29sZCAwlEsCjAdjb2xkIDIwlEsCjAdjb2xkIDQwlEsCjAhjb2xkIDE2MJRLAowG
+ZGlhdSBhlEsCjAZkaWF1IGKUSwKMBmRpYXUgY5RLAowGZGlhdSBklEsCjAZkaWF1IGWUSwKMBmRp
+YXUgZpRLAowGZGlhdSBnlEsCaCJLAXWMBW1ldGFzlH2UaB9LA3N1YmF1Lg==
+</properties>
+		<properties node_id="4" format="literal">{'compare': 1, 'controlAreaVisible': True, 'order_by_importance': False, 'order_grouping_by_importance': False, 'savedWidgetGeometry': None, 'show_annotations': True, 'show_labels': True, 'sig_threshold': 0.05, 'sort_freqs': False, 'stattest': 0, 'stretched': True, '__version__': 1, 'context_settings': []}</properties>
+		<properties node_id="5" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01Z\x00\x00\x00\xdc\x00\x00\x04y\x00\x00\x02\xeb\x00\x00\x01Z\x00\x00\x00\xf8\x00\x00\x04y\x00\x00\x02\xeb\x00\x00\x00\x00\x00\x00\x00\x00\x05\xe8\x00\x00\x01Z\x00\x00\x00\xf8\x00\x00\x04y\x00\x00\x02\xeb', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, '__version__': 1}</properties>
+		<properties node_id="6" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': None, 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, '__version__': 1}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>

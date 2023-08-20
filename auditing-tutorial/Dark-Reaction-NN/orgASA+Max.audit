@@ -1,0 +1,12 @@
+GFA Audit for:orgASA+Max
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 835, "0.0": 74}, "0.0": {"0.0": 206, "1.0": 204}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 831, "0.0": 78}, "0.0": {"0.0": 185, "1.0": 225}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 800, "0.0": 109}, "0.0": {"1.0": 236, "0.0": 174}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 807, "0.0": 102}, "0.0": {"1.0": 263, "0.0": 147}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 124, "1.0": 785}, "0.0": {"1.0": 248, "0.0": 162}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 889, "0.0": 20}, "0.0": {"1.0": 373, "0.0": 37}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 899, "0.0": 10}, "0.0": {"1.0": 394, "0.0": 16}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 907, "0.0": 2}, "0.0": {"1.0": 407, "0.0": 3}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 908, "0.0": 1}, "0.0": {"1.0": 409, "0.0": 1}}]
+Dark-Reaction-NN/orgASA+Max.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

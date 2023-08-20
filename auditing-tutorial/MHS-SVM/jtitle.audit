@@ -1,0 +1,12 @@
+GFA Audit for:jtitle
+MHS-SVM/jtitle.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 415, "0": 95}, "0": {"1": 76, "0": 334}}]
+MHS-SVM/jtitle.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 418, "0": 92}, "0": {"1": 85, "0": 325}}]
+MHS-SVM/jtitle.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 438, "0": 72}, "0": {"1": 100, "0": 310}}]
+MHS-SVM/jtitle.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 460, "0": 50}, "0": {"1": 121, "0": 289}}]
+MHS-SVM/jtitle.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 457, "0": 53}, "0": {"1": 124, "0": 286}}]
+MHS-SVM/jtitle.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 463, "0": 47}, "0": {"1": 127, "0": 283}}]
+MHS-SVM/jtitle.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 474, "0": 36}, "0": {"1": 152, "0": 258}}]
+MHS-SVM/jtitle.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 489, "0": 21}, "0": {"1": 189, "0": 221}}]
+MHS-SVM/jtitle.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 482, "0": 28}, "0": {"1": 184, "0": 226}}]
+MHS-SVM/jtitle.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 480, "0": 30}, "0": {"1": 188, "0": 222}}]
+MHS-SVM/jtitle.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 487, "0": 23}, "0": {"1": 233, "0": 177}}]

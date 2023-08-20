@@ -1,0 +1,118 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome
+Osteoporosis,Yes,No,Yes,No,25,Female,Normal,Normal,Positive
+Diabetes,No,No,No,No,28,Female,Normal,Normal,Negative
+Hypothyroidism,No,No,Yes,No,29,Female,Normal,Normal,Negative
+Diabetes,Yes,No,Yes,Yes,29,Male,High,Normal,Positive
+Stroke,Yes,No,Yes,Yes,29,Female,Normal,Normal,Positive
+Osteoarthritis,Yes,No,Yes,No,29,Male,High,High,Positive
+Asthma,No,No,Yes,No,25,Male,High,High,Negative
+Eczema,No,No,Yes,No,25,Female,High,High,Positive
+Pneumonia,Yes,No,No,No,25,Male,High,High,Positive
+Urinary Tract Infection,Yes,No,Yes,No,30,Male,High,Normal,Positive
+Hypothyroidism,Yes,No,No,No,25,Female,High,Normal,Positive
+Osteoarthritis,No,No,No,Yes,28,Male,Normal,Low,Negative
+Influenza,Yes,No,Yes,Yes,29,Female,High,Normal,Positive
+Influenza,No,No,Yes,No,30,Female,Normal,High,Negative
+Asthma,No,No,Yes,Yes,35,Female,High,Normal,Negative
+Asthma,No,No,Yes,Yes,35,Female,High,Normal,Negative
+Bronchitis,No,No,No,No,35,Male,High,Normal,Negative
+Liver Cancer,No,No,Yes,No,30,Male,High,High,Negative
+Stroke,No,No,Yes,No,30,Male,Normal,Normal,Negative
+Crohn's Disease,No,No,Yes,No,35,Female,Normal,Normal,Negative
+Pneumonia,No,No,Yes,No,30,Female,Normal,High,Positive
+Urinary Tract Infection,No,No,No,No,35,Female,High,High,Positive
+Allergic Rhinitis,Yes,No,Yes,No,35,Male,High,High,Positive
+Stroke,Yes,No,Yes,No,30,Female,High,High,Positive
+Hypothyroidism,No,No,No,No,30,Male,Normal,High,Positive
+Stroke,Yes,No,Yes,No,35,Male,Normal,Low,Positive
+Influenza,Yes,No,No,No,30,Male,High,High,Positive
+Urinary Tract Infection,Yes,No,Yes,No,30,Female,Normal,High,Positive
+Chronic Obstructive Pulmonary Disease (COPD),No,No,No,No,35,Male,Normal,Normal,Negative
+Osteoporosis,No,No,No,No,38,Male,Normal,Normal,Negative
+Urinary Tract Infection,Yes,No,Yes,Yes,35,Male,Normal,High,Positive
+Diabetes,No,No,Yes,Yes,40,Female,Normal,Normal,Negative
+Eczema,No,No,Yes,Yes,38,Male,High,High,Negative
+Diabetes,Yes,No,No,No,38,Female,High,High,Negative
+Diabetes,No,No,Yes,No,38,Male,High,Normal,Negative
+Coronary Artery Disease,Yes,No,No,No,40,Female,High,Normal,Negative
+Influenza,Yes,No,No,No,40,Female,Normal,Normal,Positive
+Urinary Tract Infection,No,No,Yes,No,40,Female,Normal,High,Positive
+Osteoarthritis,Yes,No,Yes,Yes,40,Male,High,High,Positive
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,No,40,Male,High,High,Positive
+Stroke,Yes,No,No,Yes,40,Male,High,Normal,Negative
+Allergic Rhinitis,Yes,No,Yes,No,42,Male,High,High,Negative
+Stroke,No,No,Yes,No,40,Male,Normal,Low,Negative
+Stroke,Yes,No,Yes,No,40,Male,Normal,Low,Negative
+Allergic Rhinitis,Yes,No,Yes,No,42,Female,High,High,Positive
+Liver Cancer,Yes,No,Yes,No,42,Female,High,High,Positive
+Urinary Tract Infection,Yes,No,Yes,No,40,Female,High,Low,Positive
+Urinary Tract Infection,No,No,Yes,No,42,Male,High,Normal,Negative
+Chronic Obstructive Pulmonary Disease (COPD),No,No,Yes,No,42,Male,Normal,Normal,Negative
+Crohn's Disease,Yes,No,Yes,No,42,Male,High,Normal,Negative
+Chronic Obstructive Pulmonary Disease (COPD),No,No,Yes,Yes,42,Male,Normal,Low,Negative
+Crohn's Disease,Yes,No,Yes,No,42,Male,High,Normal,Negative
+Pneumonia,No,No,Yes,No,42,Male,Normal,High,Negative
+Bronchitis,No,No,Yes,No,42,Male,High,High,Negative
+Depression,No,No,No,No,42,Female,High,Normal,Negative
+Osteoarthritis,No,No,Yes,No,42,Female,High,High,Negative
+Pneumonia,No,No,Yes,No,42,Female,High,High,Negative
+Osteoporosis,No,No,Yes,No,42,Female,Normal,High,Positive
+Urinary Tract Infection,Yes,No,Yes,No,42,Female,High,High,Positive
+Crohn's Disease,Yes,No,Yes,No,42,Female,High,High,Positive
+Liver Cancer,Yes,No,Yes,No,42,Female,Normal,High,Positive
+Bronchitis,Yes,No,No,No,42,Female,High,Normal,Positive
+Osteoarthritis,Yes,No,Yes,Yes,42,Male,High,Normal,Positive
+Urinary Tract Infection,Yes,No,Yes,No,42,Male,High,High,Positive
+Allergic Rhinitis,No,No,Yes,No,42,Female,Normal,Normal,Positive
+Stroke,No,No,Yes,No,42,Male,Normal,High,Positive
+Urinary Tract Infection,No,No,Yes,No,50,Male,Normal,Normal,Negative
+Depression,No,No,Yes,No,50,Male,Normal,High,Negative
+Osteoporosis,No,No,Yes,No,50,Female,Normal,Low,Negative
+Diabetes,Yes,No,No,No,50,Male,High,Normal,Negative
+Stroke,No,No,Yes,No,50,Female,Normal,Low,Negative
+Urinary Tract Infection,No,No,Yes,No,50,Male,High,High,Negative
+Urinary Tract Infection,Yes,No,Yes,No,50,Male,Normal,High,Negative
+Urinary Tract Infection,No,No,No,Yes,50,Male,High,Normal,Negative
+Crohn's Disease,Yes,No,Yes,No,50,Female,Normal,Normal,Positive
+Crohn's Disease,No,No,No,No,50,Female,High,High,Positive
+Stroke,No,No,Yes,Yes,50,Female,Normal,Normal,Positive
+Stroke,No,No,Yes,Yes,50,Male,High,High,Positive
+Asthma,No,No,No,No,52,Male,Normal,Low,Negative
+Chronic Obstructive Pulmonary Disease (COPD),No,No,Yes,Yes,52,Male,High,High,Negative
+Allergic Rhinitis,Yes,No,Yes,Yes,52,Male,Normal,Low,Negative
+Coronary Artery Disease,Yes,No,No,No,52,Female,High,High,Negative
+Crohn's Disease,No,No,Yes,Yes,55,Female,Normal,Normal,Negative
+Stroke,No,No,Yes,No,52,Female,Normal,Low,Negative
+Eczema,No,No,Yes,No,52,Female,Normal,Normal,Positive
+Influenza,No,No,No,No,52,Female,High,High,Positive
+Influenza,No,No,Yes,No,52,Male,High,High,Positive
+Urinary Tract Infection,Yes,No,Yes,No,55,Female,High,High,Positive
+Osteoporosis,Yes,No,Yes,Yes,52,Male,High,Low,Positive
+Stroke,Yes,No,Yes,No,52,Female,Normal,Normal,Positive
+Pneumonia,No,No,Yes,No,55,Male,Normal,Low,Positive
+Urinary Tract Infection,Yes,No,Yes,No,60,Male,High,High,Negative
+Osteoarthritis,Yes,No,No,No,60,Male,High,High,Negative
+Osteoarthritis,Yes,No,No,No,60,Female,High,Normal,Negative
+Stroke,No,No,Yes,No,55,Male,Normal,Normal,Negative
+Osteoarthritis,No,No,No,No,60,Male,High,High,Negative
+Stroke,No,No,Yes,No,55,Female,Normal,Normal,Positive
+Osteoporosis,No,No,Yes,No,60,Male,Normal,Low,Positive
+Bronchitis,No,No,Yes,No,55,Female,Normal,Normal,Positive
+Bronchitis,No,No,No,No,55,Female,High,High,Positive
+Depression,Yes,No,Yes,No,60,Female,High,High,Positive
+Influenza,No,No,Yes,No,60,Male,Normal,Normal,Negative
+Crohn's Disease,Yes,No,Yes,No,65,Male,Normal,Normal,Negative
+Asthma,No,No,No,No,65,Male,Normal,High,Positive
+Osteoarthritis,No,No,Yes,No,65,Male,Normal,High,Positive
+Bronchitis,Yes,No,Yes,Yes,60,Male,High,High,Positive
+Depression,Yes,No,Yes,Yes,60,Female,High,High,Positive
+Stroke,Yes,No,Yes,No,65,Female,Normal,High,Positive
+Coronary Artery Disease,Yes,No,Yes,No,65,Female,High,High,Positive
+Pneumonia,Yes,No,Yes,No,60,Female,Normal,High,Positive
+Osteoporosis,Yes,No,Yes,No,60,Male,Normal,High,Positive
+Stroke,No,No,Yes,Yes,70,Male,Normal,High,Negative
+Hypothyroidism,No,No,Yes,No,70,Male,Normal,Normal,Negative
+Stroke,No,No,No,No,70,Male,Normal,High,Positive
+Stroke,Yes,No,Yes,No,65,Female,High,High,Positive
+Stroke,Yes,No,Yes,No,70,Female,High,High,Positive
+Pneumonia,Yes,No,Yes,No,70,Female,High,High,Positive

@@ -1,0 +1,12 @@
+GFA Audit for:orgpolarsurfaceareaArithAvg
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 830, "0.0": 79}, "0.0": {"0.0": 199, "1.0": 211}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"0.0": 84, "1.0": 825}, "0.0": {"0.0": 184, "1.0": 226}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"0.0": 106, "1.0": 803}, "0.0": {"1.0": 220, "0.0": 190}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"0.0": 135, "1.0": 774}, "0.0": {"1.0": 244, "0.0": 166}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 155, "1.0": 754}, "0.0": {"1.0": 229, "0.0": 181}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 900, "0.0": 9}, "0.0": {"1.0": 385, "0.0": 25}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 908, "0.0": 1}, "0.0": {"1.0": 404, "0.0": 6}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 908, "0.0": 1}, "0.0": {"1.0": 407, "0.0": 3}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 908, "0.0": 1}, "0.0": {"1.0": 409, "0.0": 1}}]
+Dark-Reaction-NN/orgpolarsurfaceareaArithAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

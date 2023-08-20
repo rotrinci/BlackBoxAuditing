@@ -1,0 +1,12 @@
+GFA Audit for:orgavgpol_pHdependentGeomAvg
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 839, "0.0": 70}, "0.0": {"0.0": 203, "1.0": 207}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 817, "0.0": 92}, "0.0": {"1.0": 221, "0.0": 189}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 780, "0.0": 129}, "0.0": {"1.0": 212, "0.0": 198}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 752, "0.0": 157}, "0.0": {"1.0": 217, "0.0": 193}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 731, "0.0": 178}, "0.0": {"1.0": 216, "0.0": 194}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 804, "0.0": 105}, "0.0": {"1.0": 295, "0.0": 115}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 752, "0.0": 157}, "0.0": {"1.0": 260, "0.0": 150}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 719, "0.0": 190}, "0.0": {"1.0": 258, "0.0": 152}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"0.0": 285, "1.0": 624}, "0.0": {"0.0": 175, "1.0": 235}}]
+Dark-Reaction-NN/orgavgpol_pHdependentGeomAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"0.0": 304, "1.0": 605}, "0.0": {"1.0": 232, "0.0": 178}}]

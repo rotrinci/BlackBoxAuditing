@@ -1,0 +1,12 @@
+GFA Audit for:oxlikeASAGeomAvg
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 832, "0.0": 77}, "0.0": {"1.0": 229, "0.0": 181}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 818, "0.0": 91}, "0.0": {"1.0": 225, "0.0": 185}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 807, "0.0": 102}, "0.0": {"1.0": 220, "0.0": 190}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 793, "0.0": 116}, "0.0": {"1.0": 221, "0.0": 189}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"0.0": 142, "1.0": 767}, "0.0": {"1.0": 217, "0.0": 193}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 875, "0.0": 34}, "0.0": {"1.0": 348, "0.0": 62}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 876, "0.0": 33}, "0.0": {"1.0": 356, "0.0": 54}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 887, "0.0": 22}, "0.0": {"1.0": 365, "0.0": 45}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 885, "0.0": 24}, "0.0": {"1.0": 368, "0.0": 42}}]
+Dark-Reaction-SVM/oxlikeASAGeomAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 887, "0.0": 22}, "0.0": {"1.0": 374, "0.0": 36}}]

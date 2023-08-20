@@ -1,0 +1,12 @@
+GFA Audit for:Difficulty Breathing
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.0.data:[0.0, {"Positive": {"Positive": 51, "Negative": 11}, "Negative": {"Negative": 38, "Positive": 17}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.1.data:[0.1, {"Positive": {"Positive": 47, "Negative": 15}, "Negative": {"Negative": 32, "Positive": 23}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.2.data:[0.2, {"Positive": {"Positive": 42, "Negative": 20}, "Negative": {"Negative": 29, "Positive": 26}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.3.data:[0.30000000000000004, {"Positive": {"Positive": 49, "Negative": 13}, "Negative": {"Negative": 29, "Positive": 26}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.4.data:[0.4, {"Positive": {"Negative": 13, "Positive": 49}, "Negative": {"Negative": 33, "Positive": 22}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.5.data:[0.5, {"Positive": {"Negative": 19, "Positive": 43}, "Negative": {"Negative": 31, "Positive": 24}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.6.data:[0.6, {"Positive": {"Negative": 19, "Positive": 43}, "Negative": {"Negative": 27, "Positive": 28}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.7.data:[0.7, {"Positive": {"Negative": 21, "Positive": 41}, "Negative": {"Negative": 27, "Positive": 28}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.8.data:[0.7999999999999999, {"Positive": {"Negative": 17, "Positive": 45}, "Negative": {"Negative": 22, "Positive": 33}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_0.9.data:[0.8999999999999999, {"Positive": {"Positive": 46, "Negative": 16}, "Negative": {"Negative": 22, "Positive": 33}}]
+Disease-NN/Difficulty_Breathing.audit.test.repaired_1.0.data:[0.9999999999999999, {"Positive": {"Negative": 17, "Positive": 45}, "Negative": {"Negative": 26, "Positive": 29}}]

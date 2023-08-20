@@ -1,0 +1,12 @@
+GFA Audit for:BEDROOMS
+MHS-DT/BEDROOMS.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 433, "0": 77}, "0": {"1": 87, "0": 323}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 440, "0": 70}, "0": {"1": 144, "0": 266}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 451, "0": 59}, "0": {"1": 202, "0": 208}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 458, "0": 52}, "0": {"1": 209, "0": 201}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 452, "0": 58}, "0": {"1": 233, "0": 177}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 456, "0": 54}, "0": {"1": 262, "0": 148}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 443, "0": 67}, "0": {"1": 268, "0": 142}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 441, "0": 69}, "0": {"1": 271, "0": 139}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 440, "0": 70}, "0": {"1": 285, "0": 125}}]
+MHS-DT/BEDROOMS.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 436, "0": 74}, "0": {"1": 283, "0": 127}}]
+MHS-DT/BEDROOMS.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 436, "0": 74}, "0": {"1": 285, "0": 125}}]

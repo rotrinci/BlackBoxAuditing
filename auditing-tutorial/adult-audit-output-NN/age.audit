@@ -1,0 +1,12 @@
+GFA Audit for:age
+adult-audit-output-NN/age.audit.test.repaired_0.0.data:[0.0, {"<=50K": {"<=50K": 11282, ">50K": 1153}, ">50K": {">50K": 2472, "<=50K": 1374}}]
+adult-audit-output-NN/age.audit.test.repaired_0.1.data:[0.1, {"<=50K": {"<=50K": 11670, ">50K": 765}, ">50K": {"<=50K": 1954, ">50K": 1892}}]
+adult-audit-output-NN/age.audit.test.repaired_0.2.data:[0.2, {"<=50K": {"<=50K": 11162, ">50K": 1273}, ">50K": {">50K": 2066, "<=50K": 1780}}]
+adult-audit-output-NN/age.audit.test.repaired_0.3.data:[0.30000000000000004, {"<=50K": {"<=50K": 10857, ">50K": 1578}, ">50K": {">50K": 2210, "<=50K": 1636}}]
+adult-audit-output-NN/age.audit.test.repaired_0.4.data:[0.4, {"<=50K": {"<=50K": 10575, ">50K": 1860}, ">50K": {">50K": 2274, "<=50K": 1572}}]
+adult-audit-output-NN/age.audit.test.repaired_0.5.data:[0.5, {"<=50K": {"<=50K": 10043, ">50K": 2392}, ">50K": {">50K": 2395, "<=50K": 1451}}]
+adult-audit-output-NN/age.audit.test.repaired_0.6.data:[0.6, {"<=50K": {"<=50K": 9936, ">50K": 2499}, ">50K": {">50K": 2290, "<=50K": 1556}}]
+adult-audit-output-NN/age.audit.test.repaired_0.7.data:[0.7, {"<=50K": {"<=50K": 9586, ">50K": 2849}, ">50K": {">50K": 2294, "<=50K": 1552}}]
+adult-audit-output-NN/age.audit.test.repaired_0.8.data:[0.7999999999999999, {"<=50K": {">50K": 3570, "<=50K": 8865}, ">50K": {">50K": 2379, "<=50K": 1467}}]
+adult-audit-output-NN/age.audit.test.repaired_0.9.data:[0.8999999999999999, {"<=50K": {"<=50K": 7883, ">50K": 4552}, ">50K": {">50K": 2502, "<=50K": 1344}}]
+adult-audit-output-NN/age.audit.test.repaired_1.0.data:[0.9999999999999999, {"<=50K": {"<=50K": 7487, ">50K": 4948}, ">50K": {">50K": 2468, "<=50K": 1378}}]

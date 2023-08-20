@@ -1,0 +1,78 @@
+Label,Rules,Quality,Score
+0,IF checking_status==no checking AND duration<=10.0 AND other_parties!=guarantor THEN class=good,0.9782608695652174,0.0479041916167664
+1,IF checking_status==no checking AND employment==4<=X<7 AND other_payment_plans!=bank THEN class=good,0.9722222222222222,0.02395209580838309
+2,IF savings_status==>=1000 AND property_magnitude!=no known property AND purpose!=education THEN class=good,0.9583333333333334,-0.04491017964071864
+3,IF other_parties==guarantor AND credit_history==existing paid AND savings_status==<100 THEN class=good,0.95,0.03592814371257469
+4,IF credit_amount>=9572.0 AND credit_history==existing paid THEN class=bad,0.9375,0.11077844311377238
+5,IF checking_status==no checking AND purpose==radio/tv AND personal_status!=female div/dep/mar AND credit_history!=delayed previously AND savings_status!=100<=X<500 THEN class=good,0.9696969696969697,0.03892215568862267
+6,IF purpose==used car AND credit_amount<=3386.0 AND checking_status!=<0 THEN class=good,0.9230769230769231,0.11676646706586824
+7,IF foreign_worker==no AND property_magnitude!=life insurance THEN class=good,0.9090909090909091,-0.08383233532934142
+8,IF savings_status==no known savings AND checking_status==0<=X<200 AND credit_amount>=1965.0 AND residence>=2.0 THEN class=good,0.95,0.11377245508982026
+9,IF duration>=48.0 AND credit_history==existing paid AND residence>=2.0 THEN class=bad,0.9230769230769231,0.03892215568862267
+10,IF property_magnitude==real estate AND personal_status==male single AND employment==1<=X<4 AND residence>=2.0 THEN class=good,0.9565217391304348,-0.098802395209581
+11,IF checking_status==>=200 AND property_magnitude==life insurance THEN class=good,0.9166666666666666,-0.005988023952095856
+12,IF credit_history==all paid AND checking_status==<0 AND employment!=<1 THEN class=bad,0.9166666666666666,0.07485029940119747
+13,IF purpose==business AND property_magnitude==life insurance AND credit_amount>=1797.0 THEN class=good,0.9090909090909091,0.026946107784431073
+14,IF credit_history==no credits/all paid AND housing!=own THEN class=bad,0.9,0.053892215568862145
+15,IF employment==4<=X<7 AND housing==rent AND purpose!=new car THEN class=good,0.9,0.014970059880239361
+16,IF savings_status==500<=X<1000 AND purpose==radio/tv THEN class=good,0.8888888888888888,0.0029940119760478723
+17,IF credit_amount>=11590.0 AND checking_status!=<0 THEN class=bad,0.875,0.11676646706586824
+18,IF checking_status==no checking AND credit_history==critical/other existing credit AND other_payment_plans==none AND age_cat==old THEN class=good,0.9696969696969697,0.05089820359281427
+19,IF duration<=8.0 AND checking_status!=0<=X<200 AND employment!=1<=X<4 THEN class=good,0.9230769230769231,0.0479041916167664
+20,IF credit_amount<=1445.0 AND other_payment_plans==bank AND credit_history!=all paid THEN class=bad,0.9333333333333333,0.0958083832335328
+21,IF checking_status==no checking AND purpose==used car AND employment!=unemployed THEN class=good,0.9166666666666666,0.03892215568862267
+22,IF employment==4<=X<7 AND job!=skilled AND credit_history!=all paid THEN class=good,0.9090909090909091,0.011976047904191489
+23,IF purpose==education AND savings_status!=no known savings AND installment_commitment>=3.0 THEN class=bad,0.9090909090909091,-0.014970059880239583
+24,IF other_payment_plans==bank AND purpose==radio/tv AND employment!=1<=X<4 THEN class=good,0.9,-0.017964071856287567
+25,IF employment==1<=X<4 AND purpose==business AND credit_history!=delayed previously THEN class=good,0.8888888888888888,0.03293413173652682
+26,IF housing==rent AND other_payment_plans==bank THEN class=bad,0.8571428571428571,0.0029940119760477613
+27,IF other_payment_plans==bank AND property_magnitude==car AND credit_history!=delayed previously THEN class=good,0.8888888888888888,-0.026946107784431295
+28,IF employment==<1 AND duration>=36.0 AND personal_status!=female div/dep/mar THEN class=bad,0.9,-0.03592814371257491
+29,IF employment==4<=X<7 AND personal_status!=male single THEN class=bad,0.8571428571428571,-0.04491017964071864
+30,IF credit_history==all paid AND purpose==new car THEN class=bad,0.8333333333333334,0.0359281437125748
+31,IF existing_credits>=3.0 AND credit_history!=delayed previously AND personal_status!=female div/dep/mar THEN class=good,0.9,0.03293413173652682
+32,IF checking_status==0<=X<200 AND duration>=42.0 THEN class=good,0.8571428571428571,0.050898203592814384
+33,IF credit_history==all paid AND purpose!=retraining THEN class=bad,0.8333333333333334,0.0359281437125748
+34,IF credit_amount>=7855.0 AND property_magnitude!=car AND purpose!=education THEN class=bad,0.8888888888888888,0.026946107784431073
+35,IF purpose==education AND residence>=2.0 THEN class=good,0.8333333333333334,-0.005988023952095856
+36,IF checking_status==no checking AND savings_status==100<=X<500 AND employment!=>=7 THEN class=good,0.8571428571428571,0.041916167664670545
+37,IF purpose==retraining THEN class=good,0.8,0.0
+38,IF purpose==business AND residence>=4.0 THEN class=bad,0.8,-0.005988023952095856
+39,IF employment==>=7 AND personal_status!=male single AND housing!=for free AND job!=high qualif/self emp/mgmt THEN class=good,0.9285714285714286,-0.04790419161676662
+40,IF housing==rent AND credit_amount>=2631.0 AND own_telephone!=none THEN class=bad,0.9,0.0838323353293412
+41,IF purpose==furniture/equipment AND own_telephone!=none AND job!=high qualif/self emp/mgmt THEN class=good,0.8888888888888888,-0.029940119760479056
+42,IF purpose==education THEN class=bad,0.75,0.0
+43,IF checking_status==0<=X<200 AND job==unskilled resident AND purpose!=furniture/equipment THEN class=good,0.875,0.020958083832335328
+44,IF credit_amount<=1433.0 AND property_magnitude==car AND checking_status!=no checking THEN class=bad,0.9090909090909091,0.06886227544910173
+45,IF credit_amount<=781.0 AND purpose!=new car AND checking_status!=0<=X<200 THEN class=bad,0.8571428571428571,0.11676646706586824
+46,IF credit_amount<=1024.0 AND checking_status!=<0 THEN class=good,0.8888888888888888,0.11676646706586824
+47,IF other_payment_plans==stores AND purpose==furniture/equipment THEN class=good,0.8333333333333334,-0.014970059880239583
+48,IF credit_amount<=1297.0 AND personal_status==female div/dep/mar AND purpose!=radio/tv THEN class=bad,0.875,0.03293413173652693
+49,IF employment==1<=X<4 AND checking_status==0<=X<200 AND other_parties!=co applicant THEN class=good,0.8888888888888888,0.03592814371257469
+50,IF credit_amount>=4006.0 AND savings_status!=<100 AND job!=unskilled resident THEN class=bad,0.8888888888888888,0.05688622754491013
+51,IF installment_commitment<=3.0 AND credit_amount>=5371.0 AND purpose!=business THEN class=good,0.8888888888888888,0.05688622754491013
+52,IF credit_amount>=4870.0 THEN class=bad,0.875,0.07485029940119758
+53,IF checking_status==>=200 AND personal_status!=male single AND employment!=<1 THEN class=good,0.875,-0.0029940119760479833
+54,IF employment==unemployed AND residence>=3.0 THEN class=good,0.8888888888888888,-0.008982035928143839
+55,IF employment==unemployed THEN class=bad,0.8333333333333334,-0.0029940119760479833
+56,IF credit_amount>=4380.0 AND checking_status!=no checking THEN class=good,0.8333333333333334,0.11676646706586824
+57,IF credit_amount>=3959.0 AND property_magnitude!=real estate THEN class=bad,0.875,0.026946107784431073
+58,IF credit_amount>=3650.0 THEN class=good,0.8571428571428571,0.07485029940119758
+59,IF personal_status==male mar/wid AND purpose!=new car THEN class=bad,0.8888888888888888,-0.041916167664670656
+60,IF duration>=27.0 AND credit_amount<=2764.0 AND checking_status!=no checking THEN class=bad,0.875,0.12574850299401197
+61,IF savings_status==100<=X<500 AND checking_status!=no checking THEN class=good,0.8333333333333334,0.04491017964071853
+62,IF credit_amount<=1271.0 AND personal_status!=male single THEN class=good,0.8333333333333334,0.03293413173652693
+63,IF other_payment_plans!=none AND credit_history==existing paid THEN class=good,0.8333333333333334,0.020958083832335217
+64,IF checking_status==0<=X<200 AND purpose!=new car THEN class=bad,0.8,0.041916167664670656
+65,IF housing==for free AND purpose!=new car AND job!=high qualif/self emp/mgmt THEN class=bad,0.8333333333333334,-0.0029940119760479833
+66,IF savings_status==no known savings AND credit_amount>=1549.0 THEN class=good,0.8571428571428571,0.07784431137724546
+67,IF savings_status!=<100 AND purpose!=furniture/equipment AND own_telephone==none THEN class=bad,0.8571428571428571,-0.005988023952095856
+68,IF residence>=4.0 AND employment!=<1 AND credit_history!=delayed previously THEN class=good,0.8888888888888888,0.02694610778443096
+69,IF property_magnitude==real estate AND credit_amount>=1835.0 AND purpose!=furniture/equipment THEN class=bad,0.8888888888888888,0.026946107784431073
+70,IF employment==1<=X<4 AND purpose!=furniture/equipment THEN class=good,0.8571428571428571,-0.0029940119760479833
+71,IF duration>=18.0 AND housing==own AND credit_amount>=2462.0 THEN class=bad,0.875,0.10179640718562866
+72,IF property_magnitude!=life insurance AND duration>=12.0 THEN class=good,0.8888888888888888,-0.038922155688622784
+73,IF employment!=1<=X<4 AND own_telephone==none THEN class=bad,0.8333333333333334,-0.011976047904191711
+74,IF duration>=10.0 THEN class=good,0.8571428571428571,0.008982035928143728
+75,IF checking_status==<0 THEN class=bad,0.6666666666666666,0.041916167664670656
+76,IF TRUE THEN class=good,0.6946107784431138,0

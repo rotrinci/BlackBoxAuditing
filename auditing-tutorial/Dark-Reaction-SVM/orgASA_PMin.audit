@@ -1,0 +1,12 @@
+GFA Audit for:orgASA_PMin
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 839, "0.0": 70}, "0.0": {"1.0": 238, "0.0": 172}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 831, "0.0": 78}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 827, "0.0": 82}, "0.0": {"1.0": 237, "0.0": 173}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 806, "0.0": 103}, "0.0": {"1.0": 232, "0.0": 178}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 777, "0.0": 132}, "0.0": {"1.0": 234, "0.0": 176}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 854, "0.0": 55}, "0.0": {"1.0": 297, "0.0": 113}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 836, "0.0": 73}, "0.0": {"1.0": 297, "0.0": 113}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 808, "0.0": 101}, "0.0": {"1.0": 291, "0.0": 119}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 752, "0.0": 157}, "0.0": {"1.0": 290, "0.0": 120}}]
+Dark-Reaction-SVM/orgASA_PMin.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 764, "0.0": 145}, "0.0": {"0.0": 112, "1.0": 298}}]

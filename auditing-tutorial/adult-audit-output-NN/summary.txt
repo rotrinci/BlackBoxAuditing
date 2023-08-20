@@ -1,0 +1,15 @@
+Audit Start Time: 2023-06-14 13:28:09.630460
+Audit End Time: 2023-06-14 13:35:13.985123
+Retrained Per Repair: False
+Model Factory ID: 1686763689.632125
+Model Type: DecisionTree
+Non-standard Model Options: {}
+Train Size: 32561
+Test Size: 16281
+Non-standard Ignored Features: []
+Features: ['age', 'workclass', 'fnlwgt', 'education', 'education-num', 'marital-status', 'occupation', 'relationship', 'race', 'sex', 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country', 'income-per-year']
+
+Ranked Features by accuracy: [('age', 0.23333947546219524), ('capital-loss', 0.179841533075364), ('workclass', 0.17523493642896637), ('capital-gain', 0.15619433695718943), ('occupation', 0.1493151526319022), ('marital-status', 0.1164547632209324), ('hours-per-week', 0.11172532399729751), ('education-num', 0.10656593575333217), ('education', 0.08408574411891168), ('fnlwgt', 0.07474970824887905), ('native-country', 0.05730606228118673), ('relationship', 0.05110251213070449), ('sex', 0.04262637430133287), ('race', 0.028622320496284104)]
+	Approx. Trend Groups: [['age'], ['workclass', 'occupation', 'capital-gain', 'capital-loss'], ['fnlwgt', 'education', 'education-num', 'marital-status', 'relationship', 'sex', 'hours-per-week', 'native-country'], ['race']]
+Ranked Features by BCR: [('capital-gain', 0.27106840124027154), ('capital-loss', 0.2508100468771466), ('hours-per-week', 0.19167119881417694), ('fnlwgt', 0.1847959780876156), ('relationship', 0.1812583625178541), ('age', 0.15311350692869696), ('native-country', 0.137547948238798), ('marital-status', 0.11089772903340744), ('sex', 0.10001138525637532), ('education', 0.08719324888797719), ('workclass', 0.08418584753040304), ('race', 0.07593755861211537), ('education-num', 0.07586890206609476), ('occupation', 0.0642543409818419)]
+	Approx. Trend Groups: [['age', 'native-country'], ['fnlwgt', 'relationship', 'hours-per-week'], ['workclass', 'education', 'education-num', 'marital-status', 'occupation', 'race', 'sex'], ['capital-gain', 'capital-loss']]

@@ -1,0 +1,12 @@
+GFA Audit for:C
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.0.data:[0.0, {"False": {"False": 1013, "True": 4}, "True": {"True": 983}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.1.data:[0.1, {"False": {"False": 1015, "True": 2}, "True": {"True": 936, "False": 47}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.2.data:[0.2, {"False": {"False": 1013, "True": 4}, "True": {"False": 82, "True": 901}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.3.data:[0.30000000000000004, {"False": {"False": 1013, "True": 4}, "True": {"True": 837, "False": 146}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.4.data:[0.4, {"False": {"False": 1003, "True": 14}, "True": {"True": 799, "False": 184}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.5.data:[0.5, {"False": {"False": 1007, "True": 10}, "True": {"True": 679, "False": 304}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.6.data:[0.6, {"False": {"False": 1006, "True": 11}, "True": {"False": 386, "True": 597}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.7.data:[0.7, {"False": {"False": 998, "True": 19}, "True": {"False": 513, "True": 470}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.8.data:[0.7999999999999999, {"False": {"False": 996, "True": 21}, "True": {"False": 642, "True": 341}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_0.9.data:[0.8999999999999999, {"False": {"False": 996, "True": 21}, "True": {"True": 179, "False": 804}}]
+synthetic-audit-output-SVM-Retrain/C.audit.test.repaired_1.0.data:[0.9999999999999999, {"False": {"True": 1017}, "True": {"True": 983}}]

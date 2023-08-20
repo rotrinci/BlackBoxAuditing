@@ -1,0 +1,12 @@
+GFA Audit for:SMARCA4
+Mutations-NN/SMARCA4.audit.test.repaired_0.0.data:[0.0, {"LGG": {"LGG": 162}, "GBM": {"GBM": 124}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.1.data:[0.1, {"LGG": {"LGG": 159, "GBM": 3}, "GBM": {"GBM": 119, "LGG": 5}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.2.data:[0.2, {"LGG": {"LGG": 156, "GBM": 6}, "GBM": {"LGG": 11, "GBM": 113}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.3.data:[0.30000000000000004, {"LGG": {"LGG": 151, "GBM": 11}, "GBM": {"GBM": 107, "LGG": 17}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.4.data:[0.4, {"LGG": {"LGG": 148, "GBM": 14}, "GBM": {"LGG": 24, "GBM": 100}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.5.data:[0.5, {"LGG": {"LGG": 146, "GBM": 16}, "GBM": {"GBM": 93, "LGG": 31}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.6.data:[0.6, {"LGG": {"GBM": 16, "LGG": 146}, "GBM": {"GBM": 87, "LGG": 37}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.7.data:[0.7, {"LGG": {"LGG": 142, "GBM": 20}, "GBM": {"GBM": 75, "LGG": 49}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.8.data:[0.7999999999999999, {"LGG": {"LGG": 140, "GBM": 22}, "GBM": {"GBM": 76, "LGG": 48}}]
+Mutations-NN/SMARCA4.audit.test.repaired_0.9.data:[0.8999999999999999, {"LGG": {"GBM": 20, "LGG": 142}, "GBM": {"GBM": 70, "LGG": 54}}]
+Mutations-NN/SMARCA4.audit.test.repaired_1.0.data:[0.9999999999999999, {"LGG": {"LGG": 138, "GBM": 24}, "GBM": {"GBM": 48, "LGG": 76}}]

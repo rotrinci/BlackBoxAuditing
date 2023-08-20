@@ -1,0 +1,12 @@
+GFA Audit for:school
+Student-DT-NoAge/school.audit.test.repaired_0.0.data:[0.0, {"0": {"1": 10, "0": 95}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/school.audit.test.repaired_0.1.data:[0.1, {"0": {"1": 10, "0": 95}, "1": {"1": 102, "0": 10}}]
+Student-DT-NoAge/school.audit.test.repaired_0.2.data:[0.2, {"0": {"1": 10, "0": 95}, "1": {"1": 103, "0": 9}}]
+Student-DT-NoAge/school.audit.test.repaired_0.3.data:[0.30000000000000004, {"0": {"0": 98, "1": 7}, "1": {"0": 25, "1": 87}}]
+Student-DT-NoAge/school.audit.test.repaired_0.4.data:[0.4, {"0": {"0": 98, "1": 7}, "1": {"0": 23, "1": 89}}]
+Student-DT-NoAge/school.audit.test.repaired_0.5.data:[0.5, {"0": {"0": 97, "1": 8}, "1": {"0": 24, "1": 88}}]
+Student-DT-NoAge/school.audit.test.repaired_0.6.data:[0.6, {"0": {"0": 98, "1": 7}, "1": {"0": 27, "1": 85}}]
+Student-DT-NoAge/school.audit.test.repaired_0.7.data:[0.7, {"0": {"0": 98, "1": 7}, "1": {"0": 26, "1": 86}}]
+Student-DT-NoAge/school.audit.test.repaired_0.8.data:[0.7999999999999999, {"0": {"0": 99, "1": 6}, "1": {"0": 36, "1": 76}}]
+Student-DT-NoAge/school.audit.test.repaired_0.9.data:[0.8999999999999999, {"0": {"0": 99, "1": 6}, "1": {"0": 38, "1": 74}}]
+Student-DT-NoAge/school.audit.test.repaired_1.0.data:[0.9999999999999999, {"0": {"0": 98, "1": 7}, "1": {"0": 39, "1": 73}}]

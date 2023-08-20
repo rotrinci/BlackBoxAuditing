@@ -1,0 +1,67 @@
+﻿county_code,derived_dwelling_category,derived_ethnicity,derived_race,derived_sex,action_taken,loan_purpose,loan_amount,loan_term,prepayment_penalty_term,intro_rate_period,property_value,construction_method,occupancy_type,manufactured_home_secured_property_type,manufactured_home_land_property_interest,income,debt_to_income_ratio,applicant_credit_score_type,co_applicant_credit_score_type,applicant_age,applicant_age_above_62,tract_population,tract_minority_population_percent,ffiec_msa_md_median_family_income,tract_median_age_of_housing_units,denial_reason_1
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,4.0,105000.0,120.0,36.0,3.0,555000.0,1.0,1.0,1.0,1.0,45.0,>60%,1.0,1.0,55-64,No,4084.0,17.3,85000.0,20.0,1
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,4.0,125000.0,120.0,36.0,3.0,1275000.0,1.0,1.0,1.0,1.0,52.0,50%-60%,1.0,9.0,55-64,No,6492.0,8.11,85000.0,16.0,1
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,255000.0,120.0,36.0,3.0,1005000.0,1.0,1.0,1.0,1.0,29.0,>60%,1.0,9.0,55-64,No,3018.0,16.82,85000.0,20.0,6
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,4.0,45000.0,120.0,36.0,3.0,125000.0,1.0,1.0,1.0,1.0,-18.0,<20%,1.0,9.0,55-64,No,3579.0,8.11,61700.0,33.0,1
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,1.0,255000.0,120.0,12.0,12.0,1005000.0,1.0,1.0,1.0,1.0,33.0,>60%,1.0,9.0,55-64,No,4904.0,8.11,85000.0,29.0,3
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,4.0,55000.0,120.0,36.0,3.0,125000.0,1.0,1.0,1.0,1.0,49.0,>60%,1.0,9.0,55-64,No,2994.0,25.3,61700.0,43.0,3
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,125000.0,120.0,36.0,3.0,495000.0,1.0,1.0,1.0,1.0,49.0,>60%,1.0,1.0,55-64,No,5999.0,68.39,85000.0,33.0,1
+21217.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,45000.0,120.0,36.0,12.0,125000.0,1.0,1.0,1.0,1.0,33.0,>60%,3.0,9.0,55-64,No,2911.0,8.11,61700.0,20.0,1
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,1715000.0,1.0,1.0,1.0,1.0,42.0,>60%,1.0,9.0,55-64,No,4983.0,25.3,119400.0,29.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Male,3.0,4.0,105000.0,300.0,12.0,3.0,805000.0,1.0,1.0,1.0,1.0,45.0,>60%,2.0,9.0,55-64,No,3758.0,88.34,166600.0,43.0,6
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,105000.0,300.0,12.0,3.0,1715000.0,1.0,1.0,1.0,1.0,59.0,50%-60%,1.0,9.0,55-64,No,4885.0,16.82,119400.0,43.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,1805000.0,1.0,1.0,1.0,1.0,118.0,50%-60%,2.0,9.0,55-64,No,4654.0,46.18,166600.0,50.0,4
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,4.0,125000.0,300.0,12.0,3.0,1805000.0,1.0,1.0,1.0,1.0,221.0,<20%,2.0,9.0,55-64,No,4983.0,78.16,119400.0,57.0,4
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,55000.0,300.0,12.0,3.0,1005000.0,1.0,1.0,1.0,1.0,59.0,50%-60%,1.0,9.0,55-64,No,4084.0,46.18,119400.0,43.0,9
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,4.0,205000.0,300.0,12.0,3.0,1275000.0,1.0,1.0,1.0,1.0,52.0,>60%,2.0,9.0,55-64,No,4712.0,55.09,166600.0,20.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,4.0,205000.0,300.0,12.0,3.0,2005000.0,1.0,1.0,1.0,1.0,118.0,30%-<36%,2.0,9.0,55-64,No,4712.0,58.84,166600.0,50.0,7
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,4.0,255000.0,300.0,12.0,3.0,1505000.0,1.0,1.0,1.0,1.0,110.0,30%-<36%,3.0,1.0,55-64,No,4084.0,55.09,166600.0,0.0,7
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Female,3.0,4.0,205000.0,300.0,12.0,3.0,1805000.0,1.0,1.0,1.0,1.0,72.0,>60%,1.0,9.0,55-64,No,6492.0,36.75,166600.0,47.0,1
+6065.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,105000.0,300.0,12.0,3.0,495000.0,1.0,1.0,1.0,1.0,29.0,>60%,1.0,9.0,55-64,No,2994.0,17.3,80300.0,29.0,1
+6065.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,1.0,125000.0,300.0,12.0,3.0,1275000.0,1.0,1.0,1.0,1.0,59.0,>60%,2.0,9.0,55-64,No,3758.0,82.87,166600.0,20.0,4
+6085.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Male,3.0,1.0,205000.0,300.0,12.0,3.0,805000.0,1.0,1.0,1.0,1.0,118.0,>60%,2.0,9.0,55-64,No,4654.0,17.3,119400.0,66.0,6
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,1605000.0,1.0,1.0,1.0,1.0,52.0,>60%,2.0,9.0,55-64,No,2324.0,68.39,166600.0,59.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,4.0,105000.0,300.0,12.0,3.0,1415000.0,1.0,1.0,1.0,1.0,33.0,>60%,2.0,9.0,55-64,No,6492.0,68.39,166600.0,0.0,1
+6001.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Male,3.0,1.0,255000.0,300.0,12.0,3.0,555000.0,1.0,1.0,1.0,1.0,52.0,>60%,2.0,9.0,55-64,No,4904.0,82.87,119400.0,57.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,3505000.0,1.0,1.0,1.0,1.0,221.0,<20%,2.0,9.0,55-64,No,3579.0,57.35,166600.0,59.0,3
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,255000.0,300.0,12.0,3.0,1715000.0,1.0,1.0,1.0,1.0,42.0,>60%,1.0,1.0,55-64,No,4983.0,46.18,166600.0,33.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,4.0,105000.0,300.0,12.0,3.0,2005000.0,1.0,1.0,1.0,1.0,54.0,>60%,3.0,9.0,55-64,No,6492.0,78.16,166600.0,37.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,255000.0,300.0,12.0,3.0,1505000.0,1.0,1.0,1.0,1.0,110.0,>60%,2.0,9.0,55-64,No,4885.0,43.27,166600.0,27.0,6
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Male,3.0,4.0,205000.0,300.0,12.0,3.0,1415000.0,1.0,1.0,1.0,1.0,110.0,<20%,2.0,9.0,55-64,No,3009.0,91.34,166600.0,43.0,6
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,1505000.0,1.0,1.0,1.0,1.0,49.0,50%-60%,2.0,9.0,55-64,No,4885.0,16.82,119400.0,43.0,1
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,1.0,205000.0,300.0,12.0,3.0,2005000.0,1.0,1.0,1.0,1.0,54.0,>60%,2.0,9.0,55-64,No,4084.0,82.87,119400.0,47.0,1
+6055.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,1415000.0,1.0,1.0,1.0,1.0,72.0,30%-<36%,3.0,9.0,55-64,No,4885.0,16.82,80300.0,33.0,9
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,4.0,205000.0,300.0,12.0,3.0,1415000.0,1.0,1.0,1.0,1.0,72.0,>60%,2.0,9.0,55-64,No,3758.0,58.84,166600.0,57.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Female,3.0,1.0,255000.0,300.0,12.0,3.0,3505000.0,1.0,1.0,1.0,1.0,45.0,>60%,1.0,9.0,55-64,No,5999.0,58.84,166600.0,50.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,4.0,55000.0,300.0,12.0,3.0,1505000.0,1.0,1.0,1.0,1.0,29.0,>60%,3.0,9.0,55-64,No,3758.0,88.34,166600.0,43.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,1.0,205000.0,300.0,12.0,3.0,2005000.0,1.0,1.0,1.0,1.0,110.0,<20%,2.0,9.0,55-64,No,2911.0,36.75,166600.0,50.0,6
+6055.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Male,3.0,1.0,125000.0,300.0,12.0,3.0,1275000.0,1.0,1.0,1.0,1.0,110.0,>60%,1.0,9.0,55-64,No,4904.0,25.3,102400.0,37.0,4
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Male,3.0,1.0,205000.0,300.0,12.0,3.0,1415000.0,1.0,1.0,1.0,1.0,54.0,>60%,2.0,9.0,55-64,No,5999.0,78.16,119400.0,57.0,7
+6055.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,125000.0,300.0,12.0,3.0,805000.0,1.0,1.0,1.0,1.0,54.0,30%-<36%,1.0,9.0,55-64,No,2911.0,36.75,119400.0,43.0,4
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,1605000.0,1.0,1.0,1.0,1.0,59.0,>60%,1.0,9.0,55-64,No,4904.0,91.34,166600.0,27.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,1805000.0,1.0,1.0,1.0,1.0,118.0,50%-60%,1.0,9.0,55-64,No,4654.0,68.39,166600.0,47.0,1
+6055.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,805000.0,1.0,1.0,1.0,1.0,72.0,>60%,1.0,1.0,55-64,No,3579.0,25.3,102400.0,59.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,4.0,55000.0,300.0,12.0,3.0,1005000.0,1.0,1.0,1.0,1.0,59.0,>60%,2.0,9.0,55-64,No,3018.0,36.75,166600.0,33.0,1
+6065.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Female,3.0,4.0,205000.0,300.0,12.0,3.0,1005000.0,1.0,1.0,1.0,1.0,49.0,50%-60%,2.0,9.0,55-64,No,3579.0,57.35,166600.0,27.0,4
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,45000.0,300.0,12.0,3.0,405000.0,1.0,1.0,1.0,1.0,29.0,>60%,2.0,9.0,55-64,No,4830.0,88.34,80300.0,27.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,4.0,205000.0,300.0,12.0,3.0,3505000.0,1.0,1.0,1.0,1.0,-18.0,>60%,2.0,9.0,55-64,No,2324.0,30.67,166600.0,66.0,1
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,105000.0,300.0,12.0,3.0,1005000.0,1.0,1.0,1.0,1.0,90.0,<20%,1.0,9.0,55-64,No,3018.0,43.27,166600.0,47.0,7
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,125000.0,300.0,12.0,3.0,1605000.0,1.0,1.0,1.0,1.0,221.0,50%-60%,1.0,1.0,55-64,No,4830.0,57.35,166600.0,37.0,9
+6065.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Female,3.0,1.0,45000.0,300.0,12.0,3.0,405000.0,1.0,1.0,1.0,1.0,29.0,>60%,2.0,9.0,55-64,No,2994.0,88.34,85000.0,45.0,1
+6001.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Male,3.0,4.0,45000.0,300.0,12.0,3.0,495000.0,1.0,1.0,1.0,1.0,45.0,30%-<36%,1.0,9.0,55-64,No,4983.0,82.87,119400.0,37.0,4
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Female,3.0,1.0,125000.0,300.0,12.0,3.0,1275000.0,1.0,1.0,1.0,1.0,42.0,>60%,1.0,9.0,55-64,No,2911.0,30.67,119400.0,47.0,1
+6065.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,4.0,205000.0,300.0,12.0,3.0,1605000.0,1.0,1.0,1.0,1.0,118.0,30%-<36%,2.0,9.0,55-64,No,4830.0,36.75,102400.0,66.0,9
+6085.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Female,3.0,1.0,125000.0,300.0,12.0,3.0,1005000.0,1.0,1.0,1.0,1.0,42.0,>60%,2.0,9.0,55-64,No,3009.0,91.34,166600.0,57.0,1
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,255000.0,300.0,12.0,3.0,1605000.0,1.0,1.0,1.0,1.0,90.0,>60%,2.0,1.0,55-64,No,3758.0,78.16,166600.0,20.0,9
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,255000.0,300.0,12.0,3.0,1415000.0,1.0,1.0,1.0,1.0,90.0,>60%,2.0,1.0,55-64,No,4712.0,91.34,166600.0,45.0,7
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Female,3.0,1.0,205000.0,300.0,12.0,3.0,1605000.0,1.0,1.0,1.0,1.0,49.0,>60%,2.0,9.0,55-64,No,4830.0,55.09,166600.0,45.0,6
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Female,3.0,1.0,105000.0,300.0,12.0,3.0,1505000.0,1.0,1.0,1.0,1.0,45.0,30%-<36%,2.0,9.0,55-64,No,5999.0,57.35,166600.0,57.0,2
+6085.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,205000.0,300.0,12.0,3.0,3505000.0,1.0,1.0,1.0,1.0,221.0,>60%,1.0,9.0,55-64,No,4654.0,46.18,166600.0,66.0,6
+21217.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,45000.0,300.0,36.0,1.0,495000.0,1.0,1.0,1.0,1.0,42.0,>60%,2.0,1.0,55-64,No,2994.0,43.27,102400.0,0.0,9
+32031.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Female,3.0,1.0,45000.0,300.0,36.0,1.0,405000.0,1.0,1.0,1.0,1.0,-18.0,<20%,2.0,9.0,55-64,No,4712.0,43.27,61700.0,43.0,1
+21217.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,1.0,55000.0,300.0,36.0,1.0,555000.0,1.0,1.0,1.0,1.0,33.0,50%-60%,2.0,9.0,55-64,No,4885.0,17.3,85000.0,16.0,2
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,125000.0,300.0,36.0,1.0,1275000.0,1.0,1.0,1.0,1.0,-18.0,>60%,2.0,9.0,55-64,No,2324.0,16.82,85000.0,66.0,1
+21217.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,Asian,Joint,3.0,1.0,105000.0,300.0,36.0,1.0,805000.0,1.0,1.0,1.0,1.0,90.0,>60%,2.0,9.0,55-64,No,3018.0,55.09,80300.0,16.0,9
+21217.0,Single Family (1-4 Units):Site-Built,Hispanic or Latino,White,Female,3.0,1.0,45000.0,300.0,36.0,1.0,125000.0,1.0,1.0,1.0,1.0,29.0,>60%,2.0,9.0,55-64,No,3009.0,58.84,80300.0,59.0,9
+32031.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,3.0,1.0,55000.0,300.0,12.0,1.0,405000.0,1.0,1.0,1.0,1.0,49.0,<20%,2.0,9.0,55-64,No,3009.0,30.67,85000.0,16.0,1
+21217.0,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Joint,3.0,1.0,205000.0,300.0,12.0,1.0,1505000.0,1.0,1.0,1.0,1.0,72.0,>60%,2.0,1.0,55-64,No,2324.0,30.67,80300.0,16.0,1

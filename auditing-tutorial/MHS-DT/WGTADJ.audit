@@ -1,0 +1,12 @@
+GFA Audit for:WGTADJ
+MHS-DT/WGTADJ.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 433, "0": 77}, "0": {"1": 87, "0": 323}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 412, "0": 98}, "0": {"1": 113, "0": 297}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 427, "0": 83}, "0": {"1": 143, "0": 267}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 434, "0": 76}, "0": {"1": 170, "0": 240}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 446, "0": 64}, "0": {"1": 195, "0": 215}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 463, "0": 47}, "0": {"1": 217, "0": 193}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 477, "0": 33}, "0": {"1": 300, "0": 110}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 487, "0": 23}, "0": {"1": 352, "0": 58}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 493, "0": 17}, "0": {"1": 370, "0": 40}}]
+MHS-DT/WGTADJ.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 500, "0": 10}, "0": {"1": 397, "0": 13}}]
+MHS-DT/WGTADJ.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 500, "0": 10}, "0": {"1": 404, "0": 6}}]

@@ -1,0 +1,74 @@
+class=good: 
+employment==1<=X<4 AND other_parties!=co applicant OR 
+property_magnitude==life insurance OR 
+other_payment_plans==stores AND purpose==furniture/equipment OR 
+residence>=4.0 AND employment!=<1 OR 
+employment!=>=7 OR 
+purpose==radio/tv AND personal_status!=female div/dep/mar OR 
+purpose==used car OR 
+personal_status!=female div/dep/mar OR 
+residence>=2.0 AND credit_amount>=1965.0 OR 
+purpose!=business AND installment_commitment<=3.0 AND credit_amount>=5371.0 OR 
+employment!=1<=X<4 OR 
+credit_amount<=1024.0 OR 
+foreign_worker==no AND property_magnitude!=life insurance OR 
+purpose==business AND property_magnitude==life insurance OR 
+purpose==education AND residence>=2.0 OR 
+savings_status==no known savings OR 
+personal_status==male single AND residence>=2.0 AND property_magnitude==real estate AND employment==1<=X<4 OR 
+purpose==radio/tv OR 
+age_cat==old AND other_payment_plans==none OR 
+other_parties==guarantor OR 
+purpose==retraining OR 
+residence>=3.0 AND employment==unemployed OR 
+employment!=unemployed AND purpose==used car OR 
+credit_amount>=4380.0 OR 
+property_magnitude!=life insurance OR 
+purpose==business AND employment==1<=X<4 OR 
+employment==4<=X<7 AND other_payment_plans!=bank OR 
+purpose!=furniture/equipment AND job==unskilled resident OR 
+personal_status!=male single AND employment!=<1 OR 
+property_magnitude==car AND other_payment_plans==bank OR 
+credit_amount>=3650.0 OR 
+job!=skilled AND employment==4<=X<7 OR 
+personal_status!=male single AND credit_amount<=1271.0 OR 
+purpose!=furniture/equipment AND employment==1<=X<4 OR 
+other_parties!=guarantor OR 
+purpose==radio/tv AND employment!=1<=X<4 AND other_payment_plans==bank OR 
+other_payment_plans!=none OR 
+purpose!=new car AND employment==4<=X<7 OR 
+own_telephone!=none AND job!=high qualif/self emp/mgmt AND purpose==furniture/equipment OR 
+purpose!=education AND property_magnitude!=no known property OR 
+employment==>=7 AND job!=high qualif/self emp/mgmt AND personal_status!=male single
+
+class=bad: 
+checking_status==<0 OR 
+employment!=<1 OR 
+credit_history==all paid AND purpose!=retraining OR 
+own_telephone==none AND employment!=1<=X<4 OR 
+credit_amount>=9572.0 OR 
+credit_history==no credits/all paid OR 
+purpose!=radio/tv AND personal_status==female div/dep/mar AND credit_amount<=1297.0 OR 
+employment==<1 AND personal_status!=female div/dep/mar OR 
+purpose!=furniture/equipment AND property_magnitude==real estate AND credit_amount>=1835.0 OR 
+employment==unemployed OR 
+purpose!=new car OR 
+credit_amount>=4870.0 OR 
+purpose==education OR 
+residence>=2.0 OR 
+other_payment_plans==bank OR 
+credit_amount>=4006.0 AND job!=unskilled resident OR 
+purpose!=education AND property_magnitude!=car OR 
+purpose!=new car AND job!=high qualif/self emp/mgmt OR 
+purpose==education AND installment_commitment>=3.0 OR 
+property_magnitude==car AND credit_amount<=1433.0 OR 
+employment==4<=X<7 AND personal_status!=male single OR 
+own_telephone!=none OR 
+duration>=27.0 AND credit_amount<=2764.0 OR 
+purpose!=new car AND personal_status==male mar/wid OR 
+own_telephone==none AND purpose!=furniture/equipment OR 
+credit_amount>=2462.0 OR 
+purpose==business AND residence>=4.0 OR 
+credit_amount<=1445.0 AND other_payment_plans==bank OR 
+property_magnitude!=real estate
+

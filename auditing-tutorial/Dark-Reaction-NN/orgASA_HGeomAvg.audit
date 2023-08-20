@@ -1,0 +1,12 @@
+GFA Audit for:orgASA_HGeomAvg
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 836, "0.0": 73}, "0.0": {"0.0": 195, "1.0": 215}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 830, "0.0": 79}, "0.0": {"0.0": 188, "1.0": 222}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 822, "0.0": 87}, "0.0": {"1.0": 238, "0.0": 172}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 811, "0.0": 98}, "0.0": {"1.0": 247, "0.0": 163}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 815, "0.0": 94}, "0.0": {"1.0": 256, "0.0": 154}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 867, "0.0": 42}, "0.0": {"1.0": 349, "0.0": 61}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 875, "0.0": 34}, "0.0": {"1.0": 355, "0.0": 55}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 881, "0.0": 28}, "0.0": {"1.0": 376, "0.0": 34}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 884, "0.0": 25}, "0.0": {"1.0": 389, "0.0": 21}}]
+Dark-Reaction-NN/orgASA_HGeomAvg.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 909}, "0.0": {"1.0": 410}}]

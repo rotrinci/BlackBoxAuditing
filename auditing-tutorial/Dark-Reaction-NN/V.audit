@@ -1,0 +1,12 @@
+GFA Audit for:V
+Dark-Reaction-NN/V.audit.test.repaired_0.0.data:[0.0, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 212, "1.0": 198}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.1.data:[0.1, {"1.0": {"1.0": 833, "0.0": 76}, "0.0": {"0.0": 200, "1.0": 210}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.2.data:[0.2, {"1.0": {"1.0": 826, "0.0": 83}, "0.0": {"0.0": 205, "1.0": 205}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.3.data:[0.30000000000000004, {"1.0": {"1.0": 838, "0.0": 71}, "0.0": {"0.0": 176, "1.0": 234}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.4.data:[0.4, {"1.0": {"1.0": 836, "0.0": 73}, "0.0": {"0.0": 191, "1.0": 219}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.5.data:[0.5, {"1.0": {"1.0": 829, "0.0": 80}, "0.0": {"0.0": 172, "1.0": 238}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.6.data:[0.6, {"1.0": {"1.0": 751, "0.0": 158}, "0.0": {"0.0": 193, "1.0": 217}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.7.data:[0.7, {"1.0": {"1.0": 735, "0.0": 174}, "0.0": {"0.0": 189, "1.0": 221}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.8.data:[0.7999999999999999, {"1.0": {"1.0": 714, "0.0": 195}, "0.0": {"0.0": 197, "1.0": 213}}]
+Dark-Reaction-NN/V.audit.test.repaired_0.9.data:[0.8999999999999999, {"1.0": {"1.0": 698, "0.0": 211}, "0.0": {"0.0": 191, "1.0": 219}}]
+Dark-Reaction-NN/V.audit.test.repaired_1.0.data:[0.9999999999999999, {"1.0": {"1.0": 689, "0.0": 220}, "0.0": {"0.0": 189, "1.0": 221}}]

@@ -1,0 +1,12 @@
+GFA Audit for:TITLED
+MHS-NN/TITLED.audit.test.repaired_0.0.data:[0.0, {"1": {"1": 406, "0": 104}, "0": {"1": 61, "0": 349}}]
+MHS-NN/TITLED.audit.test.repaired_0.1.data:[0.1, {"1": {"1": 410, "0": 100}, "0": {"1": 62, "0": 348}}]
+MHS-NN/TITLED.audit.test.repaired_0.2.data:[0.2, {"1": {"1": 409, "0": 101}, "0": {"1": 66, "0": 344}}]
+MHS-NN/TITLED.audit.test.repaired_0.3.data:[0.30000000000000004, {"1": {"1": 403, "0": 107}, "0": {"1": 71, "0": 339}}]
+MHS-NN/TITLED.audit.test.repaired_0.4.data:[0.4, {"1": {"1": 405, "0": 105}, "0": {"1": 71, "0": 339}}]
+MHS-NN/TITLED.audit.test.repaired_0.5.data:[0.5, {"1": {"1": 398, "0": 112}, "0": {"1": 73, "0": 337}}]
+MHS-NN/TITLED.audit.test.repaired_0.6.data:[0.6, {"1": {"1": 496, "0": 14}, "0": {"1": 327, "0": 83}}]
+MHS-NN/TITLED.audit.test.repaired_0.7.data:[0.7, {"1": {"1": 498, "0": 12}, "0": {"1": 328, "0": 82}}]
+MHS-NN/TITLED.audit.test.repaired_0.8.data:[0.7999999999999999, {"1": {"1": 496, "0": 14}, "0": {"1": 326, "0": 84}}]
+MHS-NN/TITLED.audit.test.repaired_0.9.data:[0.8999999999999999, {"1": {"1": 497, "0": 13}, "0": {"1": 325, "0": 85}}]
+MHS-NN/TITLED.audit.test.repaired_1.0.data:[0.9999999999999999, {"1": {"1": 497, "0": 13}, "0": {"1": 325, "0": 85}}]
